@@ -1,0 +1,770 @@
+{
+ "definitions": {
+  "primary_questions": "The released questions (questions_built: all built questions; scored_questions: those used for scores).",
+  "return_rate": "(visits - distinct rooms) / visits, averaged over streams.",
+  "duration": "Stream length in seconds, gaps between visits included.",
+  "unavailable": "null means not computed, never zero.",
+  "3RScan": "Aggregate statistics only; per-stream 3RScan annotations are not released."
+ },
+ "splits": {
+  "First training set (all)": {
+   "streams": 65,
+   "streams_with_primary_questions": 58,
+   "primary_questions_built": 226,
+   "scored_streams": 41,
+   "scored_questions": 141,
+   "scoring_status": "scored",
+   "answer_histogram_built": {
+    "1": 56,
+    "2": 57,
+    "3": 40,
+    "4": 22,
+    "5": 16,
+    "6": 11,
+    "7": 5,
+    "8": 4,
+    "9": 5,
+    "10": 2,
+    "11": 2,
+    "12": 1,
+    "14": 1,
+    "17": 2,
+    "21": 1,
+    "24": 1
+   },
+   "questions_per_category_built": {
+    "bathtub": 14,
+    "bed": 20,
+    "chair": 18,
+    "fireplace": 13,
+    "oven": 13,
+    "refrigerator": 10,
+    "sink": 30,
+    "sofa": 19,
+    "stool": 4,
+    "stove": 15,
+    "table": 20,
+    "toilet": 19,
+    "tv_monitor": 22,
+    "washer": 9
+   },
+   "categories_built": [
+    "bathtub",
+    "bed",
+    "chair",
+    "fireplace",
+    "oven",
+    "refrigerator",
+    "sink",
+    "sofa",
+    "stool",
+    "stove",
+    "table",
+    "toilet",
+    "tv_monitor",
+    "washer"
+   ],
+   "duration_seconds": {
+    "mean": 647.5384615384615,
+    "minimum": 328.0,
+    "maximum": 1430.0
+   },
+   "distinct_rooms_per_stream": {
+    "mean": 5.476923076923077,
+    "minimum": 4,
+    "maximum": 7
+   },
+   "visits_per_stream": {
+    "mean": 7.969230769230769,
+    "minimum": 6,
+    "maximum": 10
+   },
+   "return_rate_per_stream": {
+    "mean": 0.3134065934065934,
+    "minimum": 0.2857142857142857,
+    "maximum": 0.3333333333333333
+   },
+   "share_with_look_alike_room": 0.49230769230769234,
+   "unique_room_ids_used": 238
+  },
+  "First training set, fitting cohort": {
+   "streams": 48,
+   "streams_with_primary_questions": 41,
+   "primary_questions_built": 141,
+   "scored_streams": 41,
+   "scored_questions": 141,
+   "scoring_status": "scored",
+   "answer_histogram_built": {
+    "1": 33,
+    "2": 37,
+    "3": 25,
+    "4": 14,
+    "5": 11,
+    "6": 6,
+    "7": 4,
+    "8": 2,
+    "9": 2,
+    "10": 1,
+    "11": 2,
+    "17": 2,
+    "21": 1,
+    "24": 1
+   },
+   "questions_per_category_built": {
+    "bathtub": 8,
+    "bed": 11,
+    "chair": 10,
+    "fireplace": 9,
+    "oven": 7,
+    "refrigerator": 6,
+    "sink": 22,
+    "sofa": 12,
+    "stool": 4,
+    "stove": 10,
+    "table": 10,
+    "toilet": 13,
+    "tv_monitor": 13,
+    "washer": 6
+   },
+   "categories_built": [
+    "bathtub",
+    "bed",
+    "chair",
+    "fireplace",
+    "oven",
+    "refrigerator",
+    "sink",
+    "sofa",
+    "stool",
+    "stove",
+    "table",
+    "toilet",
+    "tv_monitor",
+    "washer"
+   ],
+   "duration_seconds": {
+    "mean": 628.4375,
+    "minimum": 377.0,
+    "maximum": 1066.0
+   },
+   "distinct_rooms_per_stream": {
+    "mean": 5.375,
+    "minimum": 4,
+    "maximum": 7
+   },
+   "visits_per_stream": {
+    "mean": 7.833333333333333,
+    "minimum": 6,
+    "maximum": 10
+   },
+   "return_rate_per_stream": {
+    "mean": 0.31418650793650793,
+    "minimum": 0.2857142857142857,
+    "maximum": 0.3333333333333333
+   },
+   "share_with_look_alike_room": 0.4375,
+   "unique_room_ids_used": 193
+  },
+  "Second training set": {
+   "streams": 145,
+   "streams_with_primary_questions": 126,
+   "primary_questions_built": 553,
+   "scored_streams": 126,
+   "scored_questions": 553,
+   "scoring_status": "scored",
+   "answer_histogram_built": {
+    "1": 128,
+    "2": 160,
+    "3": 104,
+    "4": 48,
+    "5": 41,
+    "6": 23,
+    "7": 5,
+    "8": 14,
+    "9": 4,
+    "10": 12,
+    "11": 1,
+    "12": 4,
+    "14": 2,
+    "16": 1,
+    "17": 2,
+    "18": 1,
+    "21": 1,
+    "23": 1,
+    "24": 1
+   },
+   "questions_per_category_built": {
+    "bathtub": 39,
+    "bed": 40,
+    "chair": 43,
+    "fireplace": 31,
+    "oven": 41,
+    "refrigerator": 27,
+    "sink": 58,
+    "sofa": 42,
+    "stool": 49,
+    "stove": 27,
+    "table": 48,
+    "toilet": 41,
+    "tv_monitor": 44,
+    "washer": 23
+   },
+   "categories_built": [
+    "bathtub",
+    "bed",
+    "chair",
+    "fireplace",
+    "oven",
+    "refrigerator",
+    "sink",
+    "sofa",
+    "stool",
+    "stove",
+    "table",
+    "toilet",
+    "tv_monitor",
+    "washer"
+   ],
+   "duration_seconds": {
+    "mean": 630.1241379310345,
+    "minimum": 288.0,
+    "maximum": 1249.0
+   },
+   "distinct_rooms_per_stream": {
+    "mean": 5.489655172413793,
+    "minimum": 4,
+    "maximum": 7
+   },
+   "visits_per_stream": {
+    "mean": 7.9862068965517246,
+    "minimum": 6,
+    "maximum": 10
+   },
+   "return_rate_per_stream": {
+    "mean": 0.3132348111658456,
+    "minimum": 0.2857142857142857,
+    "maximum": 0.3333333333333333
+   },
+   "share_with_look_alike_room": 0.496551724137931,
+   "unique_room_ids_used": 400
+  },
+  "ARKit test": {
+   "streams": 109,
+   "streams_with_primary_questions": 105,
+   "primary_questions_built": 467,
+   "scored_streams": 103,
+   "scored_questions": 460,
+   "scoring_status": "scored",
+   "answer_histogram_built": {
+    "1": 103,
+    "2": 118,
+    "3": 85,
+    "4": 57,
+    "5": 27,
+    "6": 19,
+    "7": 9,
+    "8": 10,
+    "9": 10,
+    "10": 6,
+    "11": 4,
+    "12": 5,
+    "13": 3,
+    "14": 3,
+    "15": 2,
+    "16": 2,
+    "17": 1,
+    "19": 1,
+    "22": 1,
+    "24": 1
+   },
+   "questions_per_category_built": {
+    "bathtub": 21,
+    "bed": 43,
+    "chair": 45,
+    "fireplace": 33,
+    "oven": 30,
+    "refrigerator": 25,
+    "sink": 46,
+    "sofa": 35,
+    "stool": 27,
+    "stove": 18,
+    "table": 41,
+    "toilet": 28,
+    "tv_monitor": 50,
+    "washer": 25
+   },
+   "categories_built": [
+    "bathtub",
+    "bed",
+    "chair",
+    "fireplace",
+    "oven",
+    "refrigerator",
+    "sink",
+    "sofa",
+    "stool",
+    "stove",
+    "table",
+    "toilet",
+    "tv_monitor",
+    "washer"
+   ],
+   "duration_seconds": {
+    "mean": 667.0917431192661,
+    "minimum": 252.0,
+    "maximum": 1136.0
+   },
+   "distinct_rooms_per_stream": {
+    "mean": 5.486238532110092,
+    "minimum": 4,
+    "maximum": 7
+   },
+   "visits_per_stream": {
+    "mean": 7.981651376146789,
+    "minimum": 6,
+    "maximum": 10
+   },
+   "return_rate_per_stream": {
+    "mean": 0.3132809086937527,
+    "minimum": 0.2857142857142857,
+    "maximum": 0.3333333333333333
+   },
+   "share_with_look_alike_room": 0.48623853211009177,
+   "unique_room_ids_used": 300
+  },
+  "ARKit held-out": {
+   "streams": 90,
+   "streams_with_primary_questions": 87,
+   "primary_questions_built": 403,
+   "scored_streams": 87,
+   "scored_questions": 403,
+   "scoring_status": "scored",
+   "answer_histogram_built": {
+    "1": 93,
+    "2": 104,
+    "3": 62,
+    "4": 27,
+    "5": 25,
+    "6": 17,
+    "7": 17,
+    "8": 11,
+    "9": 8,
+    "10": 4,
+    "11": 6,
+    "12": 6,
+    "13": 3,
+    "14": 7,
+    "15": 3,
+    "16": 1,
+    "17": 3,
+    "18": 1,
+    "19": 2,
+    "20": 1,
+    "23": 1,
+    "28": 1
+   },
+   "questions_per_category_built": {
+    "bathtub": 6,
+    "bed": 35,
+    "chair": 39,
+    "fireplace": 32,
+    "oven": 28,
+    "refrigerator": 22,
+    "sink": 38,
+    "sofa": 36,
+    "stool": 31,
+    "stove": 19,
+    "table": 41,
+    "toilet": 21,
+    "tv_monitor": 41,
+    "washer": 14
+   },
+   "categories_built": [
+    "bathtub",
+    "bed",
+    "chair",
+    "fireplace",
+    "oven",
+    "refrigerator",
+    "sink",
+    "sofa",
+    "stool",
+    "stove",
+    "table",
+    "toilet",
+    "tv_monitor",
+    "washer"
+   ],
+   "duration_seconds": {
+    "mean": 706.4555555555555,
+    "minimum": 272.0,
+    "maximum": 1404.0
+   },
+   "distinct_rooms_per_stream": {
+    "mean": 5.488888888888889,
+    "minimum": 4,
+    "maximum": 7
+   },
+   "visits_per_stream": {
+    "mean": 7.988888888888889,
+    "minimum": 6,
+    "maximum": 10
+   },
+   "return_rate_per_stream": {
+    "mean": 0.3135449735449735,
+    "minimum": 0.2857142857142857,
+    "maximum": 0.3333333333333333
+   },
+   "share_with_look_alike_room": 0.4888888888888889,
+   "unique_room_ids_used": 248
+  },
+  "3RScan training": {
+   "streams": 22,
+   "streams_with_primary_questions": 20,
+   "primary_questions_built": 42,
+   "scored_streams": 20,
+   "scored_questions": 42,
+   "scoring_status": "scored",
+   "answer_histogram_built": {
+    "1": 19,
+    "2": 18,
+    "3": 2,
+    "4": 1,
+    "6": 1,
+    "14": 1
+   },
+   "questions_per_category_built": {
+    "bathtub": 3,
+    "bed": 12,
+    "chair": 1,
+    "fireplace": 1,
+    "oven": 1,
+    "refrigerator": 2,
+    "sink": 12,
+    "stool": 2,
+    "stove": 1,
+    "table": 1,
+    "toilet": 2,
+    "tv_monitor": 4
+   },
+   "categories_built": [
+    "bathtub",
+    "bed",
+    "chair",
+    "fireplace",
+    "oven",
+    "refrigerator",
+    "sink",
+    "stool",
+    "stove",
+    "table",
+    "toilet",
+    "tv_monitor"
+   ],
+   "duration_seconds": {
+    "mean": 881.3636363636364,
+    "minimum": 471.0,
+    "maximum": 2082.0
+   },
+   "distinct_rooms_per_stream": {
+    "mean": 5.454545454545454,
+    "minimum": 4,
+    "maximum": 7
+   },
+   "visits_per_stream": {
+    "mean": 7.954545454545454,
+    "minimum": 6,
+    "maximum": 10
+   },
+   "return_rate_per_stream": {
+    "mean": 0.3149350649350649,
+    "minimum": 0.2857142857142857,
+    "maximum": 0.3333333333333333
+   },
+   "share_with_look_alike_room": 0.45454545454545453,
+   "unique_room_ids_used": 60,
+   "rooms_in_training_pool": 60
+  },
+  "3RScan test": {
+   "streams": 150,
+   "streams_with_primary_questions": 134,
+   "primary_questions_built": 362,
+   "scored_streams": 134,
+   "scored_questions": 362,
+   "scoring_status": "scored",
+   "answer_histogram_built": {
+    "1": 144,
+    "2": 98,
+    "3": 50,
+    "4": 27,
+    "5": 8,
+    "6": 2,
+    "7": 7,
+    "8": 4,
+    "9": 7,
+    "10": 3,
+    "12": 2,
+    "13": 1,
+    "14": 3,
+    "15": 1,
+    "16": 2,
+    "17": 1,
+    "18": 1,
+    "24": 1
+   },
+   "questions_per_category_built": {
+    "bathtub": 12,
+    "bed": 47,
+    "chair": 30,
+    "fireplace": 7,
+    "oven": 25,
+    "refrigerator": 22,
+    "sink": 74,
+    "sofa": 14,
+    "stool": 22,
+    "stove": 30,
+    "table": 5,
+    "toilet": 38,
+    "tv_monitor": 28,
+    "washer": 8
+   },
+   "categories_built": [
+    "bathtub",
+    "bed",
+    "chair",
+    "fireplace",
+    "oven",
+    "refrigerator",
+    "sink",
+    "sofa",
+    "stool",
+    "stove",
+    "table",
+    "toilet",
+    "tv_monitor",
+    "washer"
+   ],
+   "duration_seconds": {
+    "mean": 1003.0133333333333,
+    "minimum": 246.0,
+    "maximum": 2903.0
+   },
+   "distinct_rooms_per_stream": {
+    "mean": 5.493333333333333,
+    "minimum": 4,
+    "maximum": 7
+   },
+   "visits_per_stream": {
+    "mean": 7.993333333333333,
+    "minimum": 6,
+    "maximum": 10
+   },
+   "return_rate_per_stream": {
+    "mean": 0.31336507936507935,
+    "minimum": 0.2857142857142857,
+    "maximum": 0.3333333333333333
+   },
+   "share_with_look_alike_room": 0.49333333333333335,
+   "unique_room_ids_used": 415
+  },
+  "MultiScan": {
+   "streams": 33,
+   "streams_with_primary_questions": null,
+   "primary_questions_built": null,
+   "scored_streams": null,
+   "scored_questions": null,
+   "scoring_status": "place evaluation only; counting questions are not released",
+   "answer_histogram_built": null,
+   "questions_per_category_built": null,
+   "categories_built": null,
+   "duration_seconds": {
+    "mean": 2248.939393939394,
+    "minimum": 1107.0,
+    "maximum": 4262.0
+   },
+   "distinct_rooms_per_stream": {
+    "mean": 5.454545454545454,
+    "minimum": 4,
+    "maximum": 7
+   },
+   "visits_per_stream": {
+    "mean": 7.9393939393939394,
+    "minimum": 6,
+    "maximum": 10
+   },
+   "return_rate_per_stream": {
+    "mean": 0.3137085137085137,
+    "minimum": 0.2857142857142857,
+    "maximum": 0.3333333333333333
+   },
+   "share_with_look_alike_room": 0.48484848484848486,
+   "unique_room_ids_used": 92
+  },
+  "ARKit 30 minutes": {
+   "streams": 39,
+   "streams_with_primary_questions": 38,
+   "primary_questions_built": 202,
+   "scored_streams": 38,
+   "scored_questions": 202,
+   "scoring_status": "scored",
+   "answer_histogram_built": {
+    "1": 20,
+    "2": 26,
+    "3": 46,
+    "4": 23,
+    "5": 21,
+    "6": 17,
+    "7": 9,
+    "8": 9,
+    "9": 6,
+    "10": 7,
+    "11": 4,
+    "13": 1,
+    "14": 1,
+    "15": 1,
+    "16": 1,
+    "18": 1,
+    "19": 1,
+    "21": 2,
+    "22": 1,
+    "23": 1,
+    "26": 2,
+    "27": 1,
+    "33": 1
+   },
+   "questions_per_category_built": {
+    "bathtub": 18,
+    "bed": 20,
+    "chair": 9,
+    "fireplace": 19,
+    "oven": 16,
+    "refrigerator": 16,
+    "sink": 22,
+    "sofa": 10,
+    "stool": 13,
+    "stove": 10,
+    "table": 2,
+    "toilet": 21,
+    "tv_monitor": 8,
+    "washer": 18
+   },
+   "categories_built": [
+    "bathtub",
+    "bed",
+    "chair",
+    "fireplace",
+    "oven",
+    "refrigerator",
+    "sink",
+    "sofa",
+    "stool",
+    "stove",
+    "table",
+    "toilet",
+    "tv_monitor",
+    "washer"
+   ],
+   "duration_seconds": {
+    "mean": 1804.3589743589744,
+    "minimum": 1348.0,
+    "maximum": 2255.0
+   },
+   "distinct_rooms_per_stream": {
+    "mean": 14.487179487179487,
+    "minimum": 14,
+    "maximum": 15
+   },
+   "visits_per_stream": {
+    "mean": 21.487179487179485,
+    "minimum": 21,
+    "maximum": 22
+   },
+   "return_rate_per_stream": {
+    "mean": 0.3259518259518259,
+    "minimum": 0.3181818181818182,
+    "maximum": 0.3333333333333333
+   },
+   "share_with_look_alike_room": 0.48717948717948717,
+   "unique_room_ids_used": 292
+  },
+  "ARKit 60 minutes": {
+   "streams": 19,
+   "streams_with_primary_questions": 18,
+   "primary_questions_built": 68,
+   "scored_streams": 18,
+   "scored_questions": 68,
+   "scoring_status": "scored",
+   "answer_histogram_built": {
+    "1": 1,
+    "2": 2,
+    "3": 10,
+    "4": 9,
+    "5": 9,
+    "6": 10,
+    "7": 7,
+    "8": 4,
+    "9": 6,
+    "10": 3,
+    "11": 3,
+    "12": 2,
+    "16": 1,
+    "17": 1
+   },
+   "questions_per_category_built": {
+    "bathtub": 5,
+    "bed": 2,
+    "fireplace": 10,
+    "oven": 9,
+    "refrigerator": 7,
+    "sink": 3,
+    "sofa": 1,
+    "stool": 5,
+    "stove": 6,
+    "toilet": 10,
+    "tv_monitor": 1,
+    "washer": 9
+   },
+   "categories_built": [
+    "bathtub",
+    "bed",
+    "fireplace",
+    "oven",
+    "refrigerator",
+    "sink",
+    "sofa",
+    "stool",
+    "stove",
+    "toilet",
+    "tv_monitor",
+    "washer"
+   ],
+   "duration_seconds": {
+    "mean": 3651.2105263157896,
+    "minimum": 3106.0,
+    "maximum": 4351.0
+   },
+   "distinct_rooms_per_stream": {
+    "mean": 28.473684210526315,
+    "minimum": 28,
+    "maximum": 29
+   },
+   "visits_per_stream": {
+    "mean": 42.473684210526315,
+    "minimum": 42,
+    "maximum": 43
+   },
+   "return_rate_per_stream": {
+    "mean": 0.32966136270909835,
+    "minimum": 0.32558139534883723,
+    "maximum": 0.3333333333333333
+   },
+   "share_with_look_alike_room": 0.42105263157894735,
+   "unique_room_ids_used": 282
+  }
+ },
+ "cohort_notes": [
+  "The first training set has 65 streams; 48 were used for fitting and 17 lack 5-fps frames for one recording.",
+  "ARKit test has questions on 105 streams; 103 streams have scored questions.",
+  "MultiScan is used for place finding only and has no questions."
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "note": "Totals measured with each method's own code; per-question logs are not released, except the query times in query_times.jsonl. JPEG estimates: the stored frames as JPEG quality 90, plus the method's own state.",
+ "VideoAgent": {
+  "construction_gpu_s_per_minute": 68.16736408570138,
+  "construction_streams": 5,
+  "input_mb_per_minute_as_run": 86.77883677692961,
+  "input_mb_per_minute_as_jpeg": 15.012394320928752,
+  "state_mb_per_minute": 0.45032519083969463,
+  "streams": 5
+ },
+ "CountVid": {
+  "query_gpu_s": 11083.79080338031,
+  "query_gpu_questions": 32,
+  "query_wall_s": 11176.197376486522,
+  "query_wall_questions": 36,
+  "input_mb_per_minute_as_run": 68.20218791946309,
+  "input_mb_per_minute_as_jpeg": 7.581472984822285,
+  "streams": 30
+ },
+ "DirectMe": {
+  "construction_gpu_s_per_minute": 254.04055163215844,
+  "construction_streams": 29,
+  "construction_minutes": 339.0833333333333,
+  "graph_mb_per_minute": 1.048823271565495,
+  "keyframes_per_minute": 58.3691324649791,
+  "keyframe_jpeg_bytes": 48866.525,
+  "keyframe_jpeg_sample": 120,
+  "memory_mb_per_minute_as_jpeg": 3.901119942393709,
+  "memory_mb_per_minute_as_run": 23.773822964856226,
+  "answer_cpu_s": 0.032221003411672056,
+  "answer_gpu_s": 0
+ },
+ "Cambrian-S-7B, surprise memory": {
+  "state_mb_per_minute": 61.898141505897925,
+  "streams": 39,
+  "state": "largest episode KV cache per stream, built inside each question"
+ }
+}

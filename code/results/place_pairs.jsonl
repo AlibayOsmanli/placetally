@@ -1,0 +1,1090 @@
+{"stream_id": "arkit-test-0001", "method": "SigLIP similarity drop", "pairs_in_place": 14348, "pairs_in_room": 11221, "pairs_in_both": 9884, "places": 7, "rooms": 4}
+{"stream_id": "arkit-test-0001", "method": "fixed 8 s windows", "pairs_in_place": 4204, "pairs_in_room": 11221, "pairs_in_both": 3847, "places": 20, "rooms": 4}
+{"stream_id": "arkit-test-0001", "method": "detector, no continuation", "pairs_in_place": 9267, "pairs_in_room": 11221, "pairs_in_both": 9267, "places": 9, "rooms": 4}
+{"stream_id": "arkit-test-0001", "method": "PlaceTally", "pairs_in_place": 10232, "pairs_in_room": 11221, "pairs_in_both": 10232, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0002", "method": "SigLIP similarity drop", "pairs_in_place": 68479, "pairs_in_room": 68479, "pairs_in_both": 68479, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0002", "method": "fixed 8 s windows", "pairs_in_place": 10750, "pairs_in_room": 68479, "pairs_in_both": 10541, "places": 52, "rooms": 6}
+{"stream_id": "arkit-test-0002", "method": "detector, no continuation", "pairs_in_place": 68479, "pairs_in_room": 68479, "pairs_in_both": 68479, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0002", "method": "PlaceTally", "pairs_in_place": 68479, "pairs_in_room": 68479, "pairs_in_both": 68479, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0003", "method": "SigLIP similarity drop", "pairs_in_place": 18897, "pairs_in_room": 21002, "pairs_in_both": 18897, "places": 11, "rooms": 5}
+{"stream_id": "arkit-test-0003", "method": "fixed 8 s windows", "pairs_in_place": 4957, "pairs_in_room": 21002, "pairs_in_both": 4741, "places": 28, "rooms": 5}
+{"stream_id": "arkit-test-0003", "method": "detector, no continuation", "pairs_in_place": 20770, "pairs_in_room": 21002, "pairs_in_both": 20770, "places": 7, "rooms": 5}
+{"stream_id": "arkit-test-0003", "method": "PlaceTally", "pairs_in_place": 21002, "pairs_in_room": 21002, "pairs_in_both": 21002, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0004", "method": "SigLIP similarity drop", "pairs_in_place": 106695, "pairs_in_room": 88679, "pairs_in_both": 86759, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0004", "method": "fixed 8 s windows", "pairs_in_place": 15021, "pairs_in_room": 88679, "pairs_in_both": 14861, "places": 49, "rooms": 7}
+{"stream_id": "arkit-test-0004", "method": "detector, no continuation", "pairs_in_place": 87110, "pairs_in_room": 88679, "pairs_in_both": 87110, "places": 9, "rooms": 7}
+{"stream_id": "arkit-test-0004", "method": "PlaceTally", "pairs_in_place": 88679, "pairs_in_room": 88679, "pairs_in_both": 88679, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0005", "method": "SigLIP similarity drop", "pairs_in_place": 10241, "pairs_in_room": 8249, "pairs_in_both": 7581, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0005", "method": "fixed 8 s windows", "pairs_in_place": 4475, "pairs_in_room": 8249, "pairs_in_both": 3279, "places": 12, "rooms": 4}
+{"stream_id": "arkit-test-0005", "method": "detector, no continuation", "pairs_in_place": 7793, "pairs_in_room": 8249, "pairs_in_both": 7793, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0005", "method": "PlaceTally", "pairs_in_place": 8249, "pairs_in_room": 8249, "pairs_in_both": 8249, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0006", "method": "SigLIP similarity drop", "pairs_in_place": 40234, "pairs_in_room": 48475, "pairs_in_both": 40234, "places": 12, "rooms": 6}
+{"stream_id": "arkit-test-0006", "method": "fixed 8 s windows", "pairs_in_place": 6929, "pairs_in_room": 48475, "pairs_in_both": 5551, "places": 48, "rooms": 6}
+{"stream_id": "arkit-test-0006", "method": "detector, no continuation", "pairs_in_place": 32772, "pairs_in_room": 48475, "pairs_in_both": 32772, "places": 10, "rooms": 6}
+{"stream_id": "arkit-test-0006", "method": "PlaceTally", "pairs_in_place": 34516, "pairs_in_room": 48475, "pairs_in_both": 34516, "places": 8, "rooms": 6}
+{"stream_id": "arkit-test-0007", "method": "SigLIP similarity drop", "pairs_in_place": 37986, "pairs_in_room": 26156, "pairs_in_both": 26156, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0007", "method": "fixed 8 s windows", "pairs_in_place": 3254, "pairs_in_room": 26156, "pairs_in_both": 3173, "places": 40, "rooms": 5}
+{"stream_id": "arkit-test-0007", "method": "detector, no continuation", "pairs_in_place": 37986, "pairs_in_room": 26156, "pairs_in_both": 26156, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0007", "method": "PlaceTally", "pairs_in_place": 37986, "pairs_in_room": 26156, "pairs_in_both": 26156, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0008", "method": "SigLIP similarity drop", "pairs_in_place": 62404, "pairs_in_room": 49835, "pairs_in_both": 47469, "places": 9, "rooms": 7}
+{"stream_id": "arkit-test-0008", "method": "fixed 8 s windows", "pairs_in_place": 24296, "pairs_in_room": 49835, "pairs_in_both": 24055, "places": 39, "rooms": 7}
+{"stream_id": "arkit-test-0008", "method": "detector, no continuation", "pairs_in_place": 62154, "pairs_in_room": 49835, "pairs_in_both": 47219, "places": 11, "rooms": 7}
+{"stream_id": "arkit-test-0008", "method": "PlaceTally", "pairs_in_place": 64770, "pairs_in_room": 49835, "pairs_in_both": 49835, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0009", "method": "SigLIP similarity drop", "pairs_in_place": 36862, "pairs_in_room": 36654, "pairs_in_both": 34902, "places": 6, "rooms": 4}
+{"stream_id": "arkit-test-0009", "method": "fixed 8 s windows", "pairs_in_place": 5023, "pairs_in_room": 36654, "pairs_in_both": 4896, "places": 33, "rooms": 4}
+{"stream_id": "arkit-test-0009", "method": "detector, no continuation", "pairs_in_place": 36138, "pairs_in_room": 36654, "pairs_in_both": 36138, "places": 6, "rooms": 4}
+{"stream_id": "arkit-test-0009", "method": "PlaceTally", "pairs_in_place": 36654, "pairs_in_room": 36654, "pairs_in_both": 36654, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0010", "method": "SigLIP similarity drop", "pairs_in_place": 132839, "pairs_in_room": 151566, "pairs_in_both": 132839, "places": 13, "rooms": 6}
+{"stream_id": "arkit-test-0010", "method": "fixed 8 s windows", "pairs_in_place": 31204, "pairs_in_room": 151566, "pairs_in_both": 31023, "places": 57, "rooms": 6}
+{"stream_id": "arkit-test-0010", "method": "detector, no continuation", "pairs_in_place": 128849, "pairs_in_room": 151566, "pairs_in_both": 128849, "places": 12, "rooms": 6}
+{"stream_id": "arkit-test-0010", "method": "PlaceTally", "pairs_in_place": 151566, "pairs_in_room": 151566, "pairs_in_both": 151566, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0011", "method": "SigLIP similarity drop", "pairs_in_place": 24986, "pairs_in_room": 24986, "pairs_in_both": 24986, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0011", "method": "fixed 8 s windows", "pairs_in_place": 8029, "pairs_in_room": 24986, "pairs_in_both": 7896, "places": 28, "rooms": 5}
+{"stream_id": "arkit-test-0011", "method": "detector, no continuation", "pairs_in_place": 24986, "pairs_in_room": 24986, "pairs_in_both": 24986, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0011", "method": "PlaceTally", "pairs_in_place": 24986, "pairs_in_room": 24986, "pairs_in_both": 24986, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0012", "method": "SigLIP similarity drop", "pairs_in_place": 61487, "pairs_in_room": 74588, "pairs_in_both": 61487, "places": 20, "rooms": 7}
+{"stream_id": "arkit-test-0012", "method": "fixed 8 s windows", "pairs_in_place": 11710, "pairs_in_room": 74588, "pairs_in_both": 11560, "places": 62, "rooms": 7}
+{"stream_id": "arkit-test-0012", "method": "detector, no continuation", "pairs_in_place": 59143, "pairs_in_room": 74588, "pairs_in_both": 59143, "places": 20, "rooms": 7}
+{"stream_id": "arkit-test-0012", "method": "PlaceTally", "pairs_in_place": 67042, "pairs_in_room": 74588, "pairs_in_both": 67042, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0013", "method": "SigLIP similarity drop", "pairs_in_place": 65683, "pairs_in_room": 23315, "pairs_in_both": 23315, "places": 2, "rooms": 4}
+{"stream_id": "arkit-test-0013", "method": "fixed 8 s windows", "pairs_in_place": 7742, "pairs_in_room": 23315, "pairs_in_both": 5539, "places": 21, "rooms": 4}
+{"stream_id": "arkit-test-0013", "method": "detector, no continuation", "pairs_in_place": 65683, "pairs_in_room": 23315, "pairs_in_both": 23315, "places": 2, "rooms": 4}
+{"stream_id": "arkit-test-0013", "method": "PlaceTally", "pairs_in_place": 65683, "pairs_in_room": 23315, "pairs_in_both": 23315, "places": 2, "rooms": 4}
+{"stream_id": "arkit-test-0014", "method": "SigLIP similarity drop", "pairs_in_place": 53189, "pairs_in_room": 56744, "pairs_in_both": 49517, "places": 10, "rooms": 6}
+{"stream_id": "arkit-test-0014", "method": "fixed 8 s windows", "pairs_in_place": 8438, "pairs_in_room": 56744, "pairs_in_both": 8232, "places": 54, "rooms": 6}
+{"stream_id": "arkit-test-0014", "method": "detector, no continuation", "pairs_in_place": 56744, "pairs_in_room": 56744, "pairs_in_both": 56744, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0014", "method": "PlaceTally", "pairs_in_place": 56744, "pairs_in_room": 56744, "pairs_in_both": 56744, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0015", "method": "SigLIP similarity drop", "pairs_in_place": 95958, "pairs_in_room": 98336, "pairs_in_both": 93414, "places": 6, "rooms": 5}
+{"stream_id": "arkit-test-0015", "method": "fixed 8 s windows", "pairs_in_place": 14250, "pairs_in_room": 98336, "pairs_in_both": 14111, "places": 38, "rooms": 5}
+{"stream_id": "arkit-test-0015", "method": "detector, no continuation", "pairs_in_place": 97766, "pairs_in_room": 98336, "pairs_in_both": 97766, "places": 6, "rooms": 5}
+{"stream_id": "arkit-test-0015", "method": "PlaceTally", "pairs_in_place": 98336, "pairs_in_room": 98336, "pairs_in_both": 98336, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0016", "method": "SigLIP similarity drop", "pairs_in_place": 44199, "pairs_in_room": 45326, "pairs_in_both": 44040, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0016", "method": "fixed 8 s windows", "pairs_in_place": 10431, "pairs_in_room": 45326, "pairs_in_both": 7944, "places": 57, "rooms": 7}
+{"stream_id": "arkit-test-0016", "method": "detector, no continuation", "pairs_in_place": 46226, "pairs_in_room": 45326, "pairs_in_both": 43392, "places": 10, "rooms": 7}
+{"stream_id": "arkit-test-0016", "method": "PlaceTally", "pairs_in_place": 49710, "pairs_in_room": 45326, "pairs_in_both": 45326, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0017", "method": "SigLIP similarity drop", "pairs_in_place": 29289, "pairs_in_room": 22121, "pairs_in_both": 22121, "places": 3, "rooms": 4}
+{"stream_id": "arkit-test-0017", "method": "fixed 8 s windows", "pairs_in_place": 4518, "pairs_in_room": 22121, "pairs_in_both": 4430, "places": 22, "rooms": 4}
+{"stream_id": "arkit-test-0017", "method": "detector, no continuation", "pairs_in_place": 22121, "pairs_in_room": 22121, "pairs_in_both": 22121, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0017", "method": "PlaceTally", "pairs_in_place": 22121, "pairs_in_room": 22121, "pairs_in_both": 22121, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0018", "method": "SigLIP similarity drop", "pairs_in_place": 41373, "pairs_in_room": 42710, "pairs_in_both": 41373, "places": 10, "rooms": 6}
+{"stream_id": "arkit-test-0018", "method": "fixed 8 s windows", "pairs_in_place": 9932, "pairs_in_room": 42710, "pairs_in_both": 9809, "places": 41, "rooms": 6}
+{"stream_id": "arkit-test-0018", "method": "detector, no continuation", "pairs_in_place": 42065, "pairs_in_room": 42710, "pairs_in_both": 42065, "places": 9, "rooms": 6}
+{"stream_id": "arkit-test-0018", "method": "PlaceTally", "pairs_in_place": 42710, "pairs_in_room": 42710, "pairs_in_both": 42710, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0019", "method": "SigLIP similarity drop", "pairs_in_place": 23818, "pairs_in_room": 23874, "pairs_in_both": 23818, "places": 6, "rooms": 5}
+{"stream_id": "arkit-test-0019", "method": "fixed 8 s windows", "pairs_in_place": 4767, "pairs_in_room": 23874, "pairs_in_both": 4638, "places": 31, "rooms": 5}
+{"stream_id": "arkit-test-0019", "method": "detector, no continuation", "pairs_in_place": 23818, "pairs_in_room": 23874, "pairs_in_both": 23818, "places": 6, "rooms": 5}
+{"stream_id": "arkit-test-0019", "method": "PlaceTally", "pairs_in_place": 23874, "pairs_in_room": 23874, "pairs_in_both": 23874, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0020", "method": "SigLIP similarity drop", "pairs_in_place": 49692, "pairs_in_room": 52956, "pairs_in_both": 49692, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0020", "method": "fixed 8 s windows", "pairs_in_place": 6911, "pairs_in_room": 52956, "pairs_in_both": 6750, "places": 59, "rooms": 7}
+{"stream_id": "arkit-test-0020", "method": "detector, no continuation", "pairs_in_place": 52956, "pairs_in_room": 52956, "pairs_in_both": 52956, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0020", "method": "PlaceTally", "pairs_in_place": 52956, "pairs_in_room": 52956, "pairs_in_both": 52956, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0021", "method": "SigLIP similarity drop", "pairs_in_place": 38523, "pairs_in_room": 24186, "pairs_in_both": 24186, "places": 3, "rooms": 4}
+{"stream_id": "arkit-test-0021", "method": "fixed 8 s windows", "pairs_in_place": 15912, "pairs_in_room": 24186, "pairs_in_both": 8724, "places": 20, "rooms": 4}
+{"stream_id": "arkit-test-0021", "method": "detector, no continuation", "pairs_in_place": 24186, "pairs_in_room": 24186, "pairs_in_both": 24186, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0021", "method": "PlaceTally", "pairs_in_place": 24186, "pairs_in_room": 24186, "pairs_in_both": 24186, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0022", "method": "SigLIP similarity drop", "pairs_in_place": 39952, "pairs_in_room": 34926, "pairs_in_both": 33148, "places": 7, "rooms": 6}
+{"stream_id": "arkit-test-0022", "method": "fixed 8 s windows", "pairs_in_place": 8796, "pairs_in_room": 34926, "pairs_in_both": 8506, "places": 41, "rooms": 6}
+{"stream_id": "arkit-test-0022", "method": "detector, no continuation", "pairs_in_place": 34926, "pairs_in_room": 34926, "pairs_in_both": 34926, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0022", "method": "PlaceTally", "pairs_in_place": 34926, "pairs_in_room": 34926, "pairs_in_both": 34926, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0023", "method": "SigLIP similarity drop", "pairs_in_place": 29424, "pairs_in_room": 26343, "pairs_in_both": 25711, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0023", "method": "fixed 8 s windows", "pairs_in_place": 2944, "pairs_in_room": 26343, "pairs_in_both": 2848, "places": 44, "rooms": 5}
+{"stream_id": "arkit-test-0023", "method": "detector, no continuation", "pairs_in_place": 29424, "pairs_in_room": 26343, "pairs_in_both": 25711, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0023", "method": "PlaceTally", "pairs_in_place": 26784, "pairs_in_room": 26343, "pairs_in_both": 24481, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0024", "method": "SigLIP similarity drop", "pairs_in_place": 124524, "pairs_in_room": 92804, "pairs_in_both": 92804, "places": 4, "rooms": 7}
+{"stream_id": "arkit-test-0024", "method": "fixed 8 s windows", "pairs_in_place": 7246, "pairs_in_room": 92804, "pairs_in_both": 7082, "places": 70, "rooms": 7}
+{"stream_id": "arkit-test-0024", "method": "detector, no continuation", "pairs_in_place": 92804, "pairs_in_room": 92804, "pairs_in_both": 92804, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0024", "method": "PlaceTally", "pairs_in_place": 92804, "pairs_in_room": 92804, "pairs_in_both": 92804, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0025", "method": "SigLIP similarity drop", "pairs_in_place": 65553, "pairs_in_room": 67878, "pairs_in_both": 65553, "places": 9, "rooms": 4}
+{"stream_id": "arkit-test-0025", "method": "fixed 8 s windows", "pairs_in_place": 11265, "pairs_in_room": 67878, "pairs_in_both": 11130, "places": 36, "rooms": 4}
+{"stream_id": "arkit-test-0025", "method": "detector, no continuation", "pairs_in_place": 67878, "pairs_in_room": 67878, "pairs_in_both": 67878, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0025", "method": "PlaceTally", "pairs_in_place": 67878, "pairs_in_room": 67878, "pairs_in_both": 67878, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0026", "method": "SigLIP similarity drop", "pairs_in_place": 58923, "pairs_in_room": 66476, "pairs_in_both": 46247, "places": 9, "rooms": 6}
+{"stream_id": "arkit-test-0026", "method": "fixed 8 s windows", "pairs_in_place": 8442, "pairs_in_room": 66476, "pairs_in_both": 8203, "places": 48, "rooms": 6}
+{"stream_id": "arkit-test-0026", "method": "detector, no continuation", "pairs_in_place": 51205, "pairs_in_room": 66476, "pairs_in_both": 51205, "places": 9, "rooms": 6}
+{"stream_id": "arkit-test-0026", "method": "PlaceTally", "pairs_in_place": 52949, "pairs_in_room": 66476, "pairs_in_both": 52949, "places": 7, "rooms": 6}
+{"stream_id": "arkit-test-0027", "method": "SigLIP similarity drop", "pairs_in_place": 44724, "pairs_in_room": 27631, "pairs_in_both": 24636, "places": 8, "rooms": 5}
+{"stream_id": "arkit-test-0027", "method": "fixed 8 s windows", "pairs_in_place": 4723, "pairs_in_room": 27631, "pairs_in_both": 4627, "places": 35, "rooms": 5}
+{"stream_id": "arkit-test-0027", "method": "detector, no continuation", "pairs_in_place": 23139, "pairs_in_room": 27631, "pairs_in_both": 23139, "places": 12, "rooms": 5}
+{"stream_id": "arkit-test-0027", "method": "PlaceTally", "pairs_in_place": 27631, "pairs_in_room": 27631, "pairs_in_both": 27631, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0028", "method": "SigLIP similarity drop", "pairs_in_place": 63331, "pairs_in_room": 53954, "pairs_in_both": 38012, "places": 19, "rooms": 7}
+{"stream_id": "arkit-test-0028", "method": "fixed 8 s windows", "pairs_in_place": 12302, "pairs_in_room": 53954, "pairs_in_both": 12163, "places": 50, "rooms": 7}
+{"stream_id": "arkit-test-0028", "method": "detector, no continuation", "pairs_in_place": 51458, "pairs_in_room": 53954, "pairs_in_both": 51458, "places": 16, "rooms": 7}
+{"stream_id": "arkit-test-0028", "method": "PlaceTally", "pairs_in_place": 53954, "pairs_in_room": 53954, "pairs_in_both": 53954, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0029", "method": "SigLIP similarity drop", "pairs_in_place": 69706, "pairs_in_room": 44716, "pairs_in_both": 44716, "places": 3, "rooms": 4}
+{"stream_id": "arkit-test-0029", "method": "fixed 8 s windows", "pairs_in_place": 9266, "pairs_in_room": 44716, "pairs_in_both": 8605, "places": 26, "rooms": 4}
+{"stream_id": "arkit-test-0029", "method": "detector, no continuation", "pairs_in_place": 44716, "pairs_in_room": 44716, "pairs_in_both": 44716, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0029", "method": "PlaceTally", "pairs_in_place": 69706, "pairs_in_room": 44716, "pairs_in_both": 44716, "places": 3, "rooms": 4}
+{"stream_id": "arkit-test-0030", "method": "SigLIP similarity drop", "pairs_in_place": 113056, "pairs_in_room": 72728, "pairs_in_both": 70368, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0030", "method": "fixed 8 s windows", "pairs_in_place": 10809, "pairs_in_room": 72728, "pairs_in_both": 10470, "places": 46, "rooms": 6}
+{"stream_id": "arkit-test-0030", "method": "detector, no continuation", "pairs_in_place": 72728, "pairs_in_room": 72728, "pairs_in_both": 72728, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0030", "method": "PlaceTally", "pairs_in_place": 72728, "pairs_in_room": 72728, "pairs_in_both": 72728, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0031", "method": "SigLIP similarity drop", "pairs_in_place": 41204, "pairs_in_room": 40006, "pairs_in_both": 31510, "places": 6, "rooms": 5}
+{"stream_id": "arkit-test-0031", "method": "fixed 8 s windows", "pairs_in_place": 8480, "pairs_in_room": 40006, "pairs_in_both": 6450, "places": 37, "rooms": 5}
+{"stream_id": "arkit-test-0031", "method": "detector, no continuation", "pairs_in_place": 40006, "pairs_in_room": 40006, "pairs_in_both": 40006, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0031", "method": "PlaceTally", "pairs_in_place": 40006, "pairs_in_room": 40006, "pairs_in_both": 40006, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0032", "method": "SigLIP similarity drop", "pairs_in_place": 58239, "pairs_in_room": 46152, "pairs_in_both": 42597, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0032", "method": "fixed 8 s windows", "pairs_in_place": 18394, "pairs_in_room": 46152, "pairs_in_both": 17278, "places": 48, "rooms": 7}
+{"stream_id": "arkit-test-0032", "method": "detector, no continuation", "pairs_in_place": 46152, "pairs_in_room": 46152, "pairs_in_both": 46152, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0032", "method": "PlaceTally", "pairs_in_place": 46152, "pairs_in_room": 46152, "pairs_in_both": 46152, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0033", "method": "SigLIP similarity drop", "pairs_in_place": 71367, "pairs_in_room": 74554, "pairs_in_both": 71367, "places": 6, "rooms": 4}
+{"stream_id": "arkit-test-0033", "method": "fixed 8 s windows", "pairs_in_place": 13050, "pairs_in_room": 74554, "pairs_in_both": 12873, "places": 36, "rooms": 4}
+{"stream_id": "arkit-test-0033", "method": "detector, no continuation", "pairs_in_place": 71626, "pairs_in_room": 74554, "pairs_in_both": 71626, "places": 7, "rooms": 4}
+{"stream_id": "arkit-test-0033", "method": "PlaceTally", "pairs_in_place": 74554, "pairs_in_room": 74554, "pairs_in_both": 74554, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0034", "method": "SigLIP similarity drop", "pairs_in_place": 152212, "pairs_in_room": 85500, "pairs_in_both": 85500, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0034", "method": "fixed 8 s windows", "pairs_in_place": 13612, "pairs_in_room": 85500, "pairs_in_both": 12549, "places": 45, "rooms": 6}
+{"stream_id": "arkit-test-0034", "method": "detector, no continuation", "pairs_in_place": 97162, "pairs_in_room": 85500, "pairs_in_both": 67650, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0034", "method": "PlaceTally", "pairs_in_place": 85990, "pairs_in_room": 85500, "pairs_in_both": 53874, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0035", "method": "SigLIP similarity drop", "pairs_in_place": 126636, "pairs_in_room": 127768, "pairs_in_both": 126636, "places": 9, "rooms": 5}
+{"stream_id": "arkit-test-0035", "method": "fixed 8 s windows", "pairs_in_place": 16395, "pairs_in_room": 127768, "pairs_in_both": 16106, "places": 41, "rooms": 5}
+{"stream_id": "arkit-test-0035", "method": "detector, no continuation", "pairs_in_place": 112355, "pairs_in_room": 127768, "pairs_in_both": 112355, "places": 10, "rooms": 5}
+{"stream_id": "arkit-test-0035", "method": "PlaceTally", "pairs_in_place": 127768, "pairs_in_room": 127768, "pairs_in_both": 127768, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0036", "method": "SigLIP similarity drop", "pairs_in_place": 95792, "pairs_in_room": 76277, "pairs_in_both": 75978, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0036", "method": "fixed 8 s windows", "pairs_in_place": 12697, "pairs_in_room": 76277, "pairs_in_both": 12314, "places": 52, "rooms": 7}
+{"stream_id": "arkit-test-0036", "method": "detector, no continuation", "pairs_in_place": 76277, "pairs_in_room": 76277, "pairs_in_both": 76277, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0036", "method": "PlaceTally", "pairs_in_place": 76277, "pairs_in_room": 76277, "pairs_in_both": 76277, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0037", "method": "SigLIP similarity drop", "pairs_in_place": 26060, "pairs_in_room": 21017, "pairs_in_both": 19692, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0037", "method": "fixed 8 s windows", "pairs_in_place": 5567, "pairs_in_room": 21017, "pairs_in_both": 5458, "places": 20, "rooms": 4}
+{"stream_id": "arkit-test-0037", "method": "detector, no continuation", "pairs_in_place": 18932, "pairs_in_room": 21017, "pairs_in_both": 18932, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0037", "method": "PlaceTally", "pairs_in_place": 21017, "pairs_in_room": 21017, "pairs_in_both": 21017, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0038", "method": "SigLIP similarity drop", "pairs_in_place": 49931, "pairs_in_room": 39973, "pairs_in_both": 39707, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0038", "method": "fixed 8 s windows", "pairs_in_place": 8690, "pairs_in_room": 39973, "pairs_in_both": 8386, "places": 37, "rooms": 6}
+{"stream_id": "arkit-test-0038", "method": "detector, no continuation", "pairs_in_place": 39973, "pairs_in_room": 39973, "pairs_in_both": 39973, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0038", "method": "PlaceTally", "pairs_in_place": 39973, "pairs_in_room": 39973, "pairs_in_both": 39973, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0039", "method": "SigLIP similarity drop", "pairs_in_place": 70901, "pairs_in_room": 50565, "pairs_in_both": 49477, "places": 6, "rooms": 5}
+{"stream_id": "arkit-test-0039", "method": "fixed 8 s windows", "pairs_in_place": 9111, "pairs_in_room": 50565, "pairs_in_both": 7538, "places": 38, "rooms": 5}
+{"stream_id": "arkit-test-0039", "method": "detector, no continuation", "pairs_in_place": 71221, "pairs_in_room": 50565, "pairs_in_both": 49797, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0039", "method": "PlaceTally", "pairs_in_place": 71989, "pairs_in_room": 50565, "pairs_in_both": 50565, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0040", "method": "SigLIP similarity drop", "pairs_in_place": 31913, "pairs_in_room": 32432, "pairs_in_both": 24568, "places": 10, "rooms": 7}
+{"stream_id": "arkit-test-0040", "method": "fixed 8 s windows", "pairs_in_place": 10988, "pairs_in_room": 32432, "pairs_in_both": 10697, "places": 29, "rooms": 7}
+{"stream_id": "arkit-test-0040", "method": "detector, no continuation", "pairs_in_place": 28801, "pairs_in_room": 32432, "pairs_in_both": 28801, "places": 10, "rooms": 7}
+{"stream_id": "arkit-test-0040", "method": "PlaceTally", "pairs_in_place": 32432, "pairs_in_room": 32432, "pairs_in_both": 32432, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0041", "method": "SigLIP similarity drop", "pairs_in_place": 20166, "pairs_in_room": 23671, "pairs_in_both": 20166, "places": 6, "rooms": 4}
+{"stream_id": "arkit-test-0041", "method": "fixed 8 s windows", "pairs_in_place": 4197, "pairs_in_room": 23671, "pairs_in_both": 4144, "places": 31, "rooms": 4}
+{"stream_id": "arkit-test-0041", "method": "detector, no continuation", "pairs_in_place": 21227, "pairs_in_room": 23671, "pairs_in_both": 21227, "places": 7, "rooms": 4}
+{"stream_id": "arkit-test-0041", "method": "PlaceTally", "pairs_in_place": 23671, "pairs_in_room": 23671, "pairs_in_both": 23671, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0042", "method": "SigLIP similarity drop", "pairs_in_place": 120564, "pairs_in_room": 105271, "pairs_in_both": 94046, "places": 8, "rooms": 6}
+{"stream_id": "arkit-test-0042", "method": "fixed 8 s windows", "pairs_in_place": 21215, "pairs_in_room": 105271, "pairs_in_both": 20884, "places": 43, "rooms": 6}
+{"stream_id": "arkit-test-0042", "method": "detector, no continuation", "pairs_in_place": 102578, "pairs_in_room": 105271, "pairs_in_both": 102578, "places": 9, "rooms": 6}
+{"stream_id": "arkit-test-0042", "method": "PlaceTally", "pairs_in_place": 105271, "pairs_in_room": 105271, "pairs_in_both": 105271, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0043", "method": "SigLIP similarity drop", "pairs_in_place": 60962, "pairs_in_room": 60767, "pairs_in_both": 57322, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0043", "method": "fixed 8 s windows", "pairs_in_place": 11273, "pairs_in_room": 60767, "pairs_in_both": 11035, "places": 50, "rooms": 5}
+{"stream_id": "arkit-test-0043", "method": "detector, no continuation", "pairs_in_place": 57322, "pairs_in_room": 60767, "pairs_in_both": 57322, "places": 6, "rooms": 5}
+{"stream_id": "arkit-test-0043", "method": "PlaceTally", "pairs_in_place": 57322, "pairs_in_room": 60767, "pairs_in_both": 57322, "places": 6, "rooms": 5}
+{"stream_id": "arkit-test-0044", "method": "SigLIP similarity drop", "pairs_in_place": 54420, "pairs_in_room": 54447, "pairs_in_both": 54268, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0044", "method": "fixed 8 s windows", "pairs_in_place": 6249, "pairs_in_room": 54447, "pairs_in_both": 6106, "places": 64, "rooms": 7}
+{"stream_id": "arkit-test-0044", "method": "detector, no continuation", "pairs_in_place": 54425, "pairs_in_room": 54447, "pairs_in_both": 54357, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0044", "method": "PlaceTally", "pairs_in_place": 59129, "pairs_in_room": 54447, "pairs_in_both": 54357, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0045", "method": "SigLIP similarity drop", "pairs_in_place": 64624, "pairs_in_room": 57481, "pairs_in_both": 48380, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0045", "method": "fixed 8 s windows", "pairs_in_place": 16672, "pairs_in_room": 57481, "pairs_in_both": 16595, "places": 30, "rooms": 4}
+{"stream_id": "arkit-test-0045", "method": "detector, no continuation", "pairs_in_place": 57293, "pairs_in_room": 57481, "pairs_in_both": 57293, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0045", "method": "PlaceTally", "pairs_in_place": 57481, "pairs_in_room": 57481, "pairs_in_both": 57481, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0046", "method": "SigLIP similarity drop", "pairs_in_place": 29773, "pairs_in_room": 33622, "pairs_in_both": 29551, "places": 8, "rooms": 6}
+{"stream_id": "arkit-test-0046", "method": "fixed 8 s windows", "pairs_in_place": 6032, "pairs_in_room": 33622, "pairs_in_both": 5243, "places": 40, "rooms": 6}
+{"stream_id": "arkit-test-0046", "method": "detector, no continuation", "pairs_in_place": 30409, "pairs_in_room": 33622, "pairs_in_both": 30409, "places": 10, "rooms": 6}
+{"stream_id": "arkit-test-0046", "method": "PlaceTally", "pairs_in_place": 35676, "pairs_in_room": 33622, "pairs_in_both": 32790, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0047", "method": "SigLIP similarity drop", "pairs_in_place": 38306, "pairs_in_room": 33540, "pairs_in_both": 33154, "places": 7, "rooms": 5}
+{"stream_id": "arkit-test-0047", "method": "fixed 8 s windows", "pairs_in_place": 5361, "pairs_in_room": 33540, "pairs_in_both": 4243, "places": 36, "rooms": 5}
+{"stream_id": "arkit-test-0047", "method": "detector, no continuation", "pairs_in_place": 38537, "pairs_in_room": 33540, "pairs_in_both": 33385, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0047", "method": "PlaceTally", "pairs_in_place": 38692, "pairs_in_room": 33540, "pairs_in_both": 33540, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0048", "method": "SigLIP similarity drop", "pairs_in_place": 44621, "pairs_in_room": 44237, "pairs_in_both": 38771, "places": 9, "rooms": 7}
+{"stream_id": "arkit-test-0048", "method": "fixed 8 s windows", "pairs_in_place": 7221, "pairs_in_room": 44237, "pairs_in_both": 6944, "places": 51, "rooms": 7}
+{"stream_id": "arkit-test-0048", "method": "detector, no continuation", "pairs_in_place": 43387, "pairs_in_room": 44237, "pairs_in_both": 43387, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0048", "method": "PlaceTally", "pairs_in_place": 44237, "pairs_in_room": 44237, "pairs_in_both": 44237, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0049", "method": "SigLIP similarity drop", "pairs_in_place": 46305, "pairs_in_room": 46752, "pairs_in_both": 46305, "places": 6, "rooms": 4}
+{"stream_id": "arkit-test-0049", "method": "fixed 8 s windows", "pairs_in_place": 4893, "pairs_in_room": 46752, "pairs_in_both": 4469, "places": 35, "rooms": 4}
+{"stream_id": "arkit-test-0049", "method": "detector, no continuation", "pairs_in_place": 46752, "pairs_in_room": 46752, "pairs_in_both": 46752, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0049", "method": "PlaceTally", "pairs_in_place": 46752, "pairs_in_room": 46752, "pairs_in_both": 46752, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0050", "method": "SigLIP similarity drop", "pairs_in_place": 81975, "pairs_in_room": 57547, "pairs_in_both": 51051, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0050", "method": "fixed 8 s windows", "pairs_in_place": 16362, "pairs_in_room": 57547, "pairs_in_both": 16278, "places": 46, "rooms": 6}
+{"stream_id": "arkit-test-0050", "method": "detector, no continuation", "pairs_in_place": 57547, "pairs_in_room": 57547, "pairs_in_both": 57547, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0050", "method": "PlaceTally", "pairs_in_place": 57547, "pairs_in_room": 57547, "pairs_in_both": 57547, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0051", "method": "SigLIP similarity drop", "pairs_in_place": 46560, "pairs_in_room": 46560, "pairs_in_both": 46560, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0051", "method": "fixed 8 s windows", "pairs_in_place": 7621, "pairs_in_room": 46560, "pairs_in_both": 7395, "places": 34, "rooms": 5}
+{"stream_id": "arkit-test-0051", "method": "detector, no continuation", "pairs_in_place": 43910, "pairs_in_room": 46560, "pairs_in_both": 43910, "places": 6, "rooms": 5}
+{"stream_id": "arkit-test-0051", "method": "PlaceTally", "pairs_in_place": 46560, "pairs_in_room": 46560, "pairs_in_both": 46560, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0052", "method": "SigLIP similarity drop", "pairs_in_place": 133415, "pairs_in_room": 108416, "pairs_in_both": 97959, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0052", "method": "fixed 8 s windows", "pairs_in_place": 18904, "pairs_in_room": 108416, "pairs_in_both": 18704, "places": 57, "rooms": 7}
+{"stream_id": "arkit-test-0052", "method": "detector, no continuation", "pairs_in_place": 103791, "pairs_in_room": 108416, "pairs_in_both": 103791, "places": 9, "rooms": 7}
+{"stream_id": "arkit-test-0052", "method": "PlaceTally", "pairs_in_place": 108416, "pairs_in_room": 108416, "pairs_in_both": 108416, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0053", "method": "SigLIP similarity drop", "pairs_in_place": 77236, "pairs_in_room": 26501, "pairs_in_both": 22001, "places": 2, "rooms": 4}
+{"stream_id": "arkit-test-0053", "method": "fixed 8 s windows", "pairs_in_place": 6313, "pairs_in_room": 26501, "pairs_in_both": 6223, "places": 28, "rooms": 4}
+{"stream_id": "arkit-test-0053", "method": "detector, no continuation", "pairs_in_place": 26501, "pairs_in_room": 26501, "pairs_in_both": 26501, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0053", "method": "PlaceTally", "pairs_in_place": 26501, "pairs_in_room": 26501, "pairs_in_both": 26501, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0054", "method": "SigLIP similarity drop", "pairs_in_place": 71794, "pairs_in_room": 85657, "pairs_in_both": 71794, "places": 8, "rooms": 6}
+{"stream_id": "arkit-test-0054", "method": "fixed 8 s windows", "pairs_in_place": 21786, "pairs_in_room": 85657, "pairs_in_both": 21664, "places": 43, "rooms": 6}
+{"stream_id": "arkit-test-0054", "method": "detector, no continuation", "pairs_in_place": 85657, "pairs_in_room": 85657, "pairs_in_both": 85657, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0054", "method": "PlaceTally", "pairs_in_place": 85657, "pairs_in_room": 85657, "pairs_in_both": 85657, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0055", "method": "SigLIP similarity drop", "pairs_in_place": 12291, "pairs_in_room": 18140, "pairs_in_both": 12131, "places": 12, "rooms": 5}
+{"stream_id": "arkit-test-0055", "method": "fixed 8 s windows", "pairs_in_place": 2632, "pairs_in_room": 18140, "pairs_in_both": 2567, "places": 37, "rooms": 5}
+{"stream_id": "arkit-test-0055", "method": "detector, no continuation", "pairs_in_place": 13732, "pairs_in_room": 18140, "pairs_in_both": 13732, "places": 10, "rooms": 5}
+{"stream_id": "arkit-test-0055", "method": "PlaceTally", "pairs_in_place": 20381, "pairs_in_room": 18140, "pairs_in_both": 18140, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0056", "method": "SigLIP similarity drop", "pairs_in_place": 45730, "pairs_in_room": 46069, "pairs_in_both": 41035, "places": 15, "rooms": 7}
+{"stream_id": "arkit-test-0056", "method": "fixed 8 s windows", "pairs_in_place": 5559, "pairs_in_room": 46069, "pairs_in_both": 5064, "places": 63, "rooms": 7}
+{"stream_id": "arkit-test-0056", "method": "detector, no continuation", "pairs_in_place": 42946, "pairs_in_room": 46069, "pairs_in_both": 42946, "places": 10, "rooms": 7}
+{"stream_id": "arkit-test-0056", "method": "PlaceTally", "pairs_in_place": 50197, "pairs_in_room": 46069, "pairs_in_both": 43909, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0057", "method": "SigLIP similarity drop", "pairs_in_place": 43850, "pairs_in_room": 29968, "pairs_in_both": 26125, "places": 3, "rooms": 4}
+{"stream_id": "arkit-test-0057", "method": "fixed 8 s windows", "pairs_in_place": 7488, "pairs_in_room": 29968, "pairs_in_both": 6947, "places": 25, "rooms": 4}
+{"stream_id": "arkit-test-0057", "method": "detector, no continuation", "pairs_in_place": 29373, "pairs_in_room": 29968, "pairs_in_both": 29373, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0057", "method": "PlaceTally", "pairs_in_place": 29968, "pairs_in_room": 29968, "pairs_in_both": 29968, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0058", "method": "SigLIP similarity drop", "pairs_in_place": 57968, "pairs_in_room": 66273, "pairs_in_both": 49515, "places": 15, "rooms": 6}
+{"stream_id": "arkit-test-0058", "method": "fixed 8 s windows", "pairs_in_place": 13957, "pairs_in_room": 66273, "pairs_in_both": 13817, "places": 46, "rooms": 6}
+{"stream_id": "arkit-test-0058", "method": "detector, no continuation", "pairs_in_place": 54192, "pairs_in_room": 66273, "pairs_in_both": 54192, "places": 13, "rooms": 6}
+{"stream_id": "arkit-test-0058", "method": "PlaceTally", "pairs_in_place": 66273, "pairs_in_room": 66273, "pairs_in_both": 66273, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0059", "method": "SigLIP similarity drop", "pairs_in_place": 49961, "pairs_in_room": 57139, "pairs_in_both": 49961, "places": 13, "rooms": 5}
+{"stream_id": "arkit-test-0059", "method": "fixed 8 s windows", "pairs_in_place": 20873, "pairs_in_room": 57139, "pairs_in_both": 20784, "places": 40, "rooms": 5}
+{"stream_id": "arkit-test-0059", "method": "detector, no continuation", "pairs_in_place": 50427, "pairs_in_room": 57139, "pairs_in_both": 50427, "places": 8, "rooms": 5}
+{"stream_id": "arkit-test-0059", "method": "PlaceTally", "pairs_in_place": 57139, "pairs_in_room": 57139, "pairs_in_both": 57139, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0060", "method": "SigLIP similarity drop", "pairs_in_place": 64071, "pairs_in_room": 48846, "pairs_in_both": 47197, "places": 11, "rooms": 7}
+{"stream_id": "arkit-test-0060", "method": "fixed 8 s windows", "pairs_in_place": 5237, "pairs_in_room": 48846, "pairs_in_both": 5081, "places": 62, "rooms": 7}
+{"stream_id": "arkit-test-0060", "method": "detector, no continuation", "pairs_in_place": 49858, "pairs_in_room": 48846, "pairs_in_both": 48538, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0060", "method": "PlaceTally", "pairs_in_place": 50376, "pairs_in_room": 48846, "pairs_in_both": 48846, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0061", "method": "SigLIP similarity drop", "pairs_in_place": 165614, "pairs_in_room": 165614, "pairs_in_both": 165614, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0061", "method": "fixed 8 s windows", "pairs_in_place": 68769, "pairs_in_room": 165614, "pairs_in_both": 58668, "places": 33, "rooms": 4}
+{"stream_id": "arkit-test-0061", "method": "detector, no continuation", "pairs_in_place": 165614, "pairs_in_room": 165614, "pairs_in_both": 165614, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0061", "method": "PlaceTally", "pairs_in_place": 165614, "pairs_in_room": 165614, "pairs_in_both": 165614, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0062", "method": "SigLIP similarity drop", "pairs_in_place": 63427, "pairs_in_room": 63427, "pairs_in_both": 63427, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0062", "method": "fixed 8 s windows", "pairs_in_place": 11020, "pairs_in_room": 63427, "pairs_in_both": 10877, "places": 56, "rooms": 6}
+{"stream_id": "arkit-test-0062", "method": "detector, no continuation", "pairs_in_place": 63427, "pairs_in_room": 63427, "pairs_in_both": 63427, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0062", "method": "PlaceTally", "pairs_in_place": 63427, "pairs_in_room": 63427, "pairs_in_both": 63427, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0063", "method": "SigLIP similarity drop", "pairs_in_place": 94619, "pairs_in_room": 96863, "pairs_in_both": 65843, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0063", "method": "fixed 8 s windows", "pairs_in_place": 12054, "pairs_in_room": 96863, "pairs_in_both": 11891, "places": 41, "rooms": 5}
+{"stream_id": "arkit-test-0063", "method": "detector, no continuation", "pairs_in_place": 94619, "pairs_in_room": 96863, "pairs_in_both": 65843, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0063", "method": "PlaceTally", "pairs_in_place": 94619, "pairs_in_room": 96863, "pairs_in_both": 65843, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0064", "method": "SigLIP similarity drop", "pairs_in_place": 18087, "pairs_in_room": 22887, "pairs_in_both": 17961, "places": 13, "rooms": 7}
+{"stream_id": "arkit-test-0064", "method": "fixed 8 s windows", "pairs_in_place": 3358, "pairs_in_room": 22887, "pairs_in_both": 3198, "places": 49, "rooms": 7}
+{"stream_id": "arkit-test-0064", "method": "detector, no continuation", "pairs_in_place": 18625, "pairs_in_room": 22887, "pairs_in_both": 18625, "places": 10, "rooms": 7}
+{"stream_id": "arkit-test-0064", "method": "PlaceTally", "pairs_in_place": 19365, "pairs_in_room": 22887, "pairs_in_both": 18945, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0065", "method": "SigLIP similarity drop", "pairs_in_place": 145165, "pairs_in_room": 120325, "pairs_in_both": 112909, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0065", "method": "fixed 8 s windows", "pairs_in_place": 17772, "pairs_in_room": 120325, "pairs_in_both": 17670, "places": 33, "rooms": 4}
+{"stream_id": "arkit-test-0065", "method": "detector, no continuation", "pairs_in_place": 120325, "pairs_in_room": 120325, "pairs_in_both": 120325, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0065", "method": "PlaceTally", "pairs_in_place": 120325, "pairs_in_room": 120325, "pairs_in_both": 120325, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0066", "method": "SigLIP similarity drop", "pairs_in_place": 49751, "pairs_in_room": 52567, "pairs_in_both": 49751, "places": 8, "rooms": 6}
+{"stream_id": "arkit-test-0066", "method": "fixed 8 s windows", "pairs_in_place": 11322, "pairs_in_room": 52567, "pairs_in_both": 11107, "places": 39, "rooms": 6}
+{"stream_id": "arkit-test-0066", "method": "detector, no continuation", "pairs_in_place": 47776, "pairs_in_room": 52567, "pairs_in_both": 47776, "places": 10, "rooms": 6}
+{"stream_id": "arkit-test-0066", "method": "PlaceTally", "pairs_in_place": 52567, "pairs_in_room": 52567, "pairs_in_both": 52567, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0067", "method": "SigLIP similarity drop", "pairs_in_place": 15721, "pairs_in_room": 16443, "pairs_in_both": 15721, "places": 9, "rooms": 5}
+{"stream_id": "arkit-test-0067", "method": "fixed 8 s windows", "pairs_in_place": 3878, "pairs_in_room": 16443, "pairs_in_both": 3777, "places": 29, "rooms": 5}
+{"stream_id": "arkit-test-0067", "method": "detector, no continuation", "pairs_in_place": 16266, "pairs_in_room": 16443, "pairs_in_both": 16266, "places": 6, "rooms": 5}
+{"stream_id": "arkit-test-0067", "method": "PlaceTally", "pairs_in_place": 16443, "pairs_in_room": 16443, "pairs_in_both": 16443, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0068", "method": "SigLIP similarity drop", "pairs_in_place": 274853, "pairs_in_room": 128005, "pairs_in_both": 121606, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0068", "method": "fixed 8 s windows", "pairs_in_place": 15475, "pairs_in_room": 128005, "pairs_in_both": 14054, "places": 68, "rooms": 7}
+{"stream_id": "arkit-test-0068", "method": "detector, no continuation", "pairs_in_place": 128005, "pairs_in_room": 128005, "pairs_in_both": 128005, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0068", "method": "PlaceTally", "pairs_in_place": 128005, "pairs_in_room": 128005, "pairs_in_both": 128005, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0069", "method": "SigLIP similarity drop", "pairs_in_place": 14509, "pairs_in_room": 22452, "pairs_in_both": 13555, "places": 7, "rooms": 4}
+{"stream_id": "arkit-test-0069", "method": "fixed 8 s windows", "pairs_in_place": 3992, "pairs_in_room": 22452, "pairs_in_both": 3928, "places": 26, "rooms": 4}
+{"stream_id": "arkit-test-0069", "method": "detector, no continuation", "pairs_in_place": 18504, "pairs_in_room": 22452, "pairs_in_both": 18504, "places": 7, "rooms": 4}
+{"stream_id": "arkit-test-0069", "method": "PlaceTally", "pairs_in_place": 22452, "pairs_in_room": 22452, "pairs_in_both": 22452, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0070", "method": "SigLIP similarity drop", "pairs_in_place": 208216, "pairs_in_room": 143510, "pairs_in_both": 135123, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0070", "method": "fixed 8 s windows", "pairs_in_place": 32917, "pairs_in_room": 143510, "pairs_in_both": 32183, "places": 36, "rooms": 6}
+{"stream_id": "arkit-test-0070", "method": "detector, no continuation", "pairs_in_place": 143510, "pairs_in_room": 143510, "pairs_in_both": 143510, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0070", "method": "PlaceTally", "pairs_in_place": 143510, "pairs_in_room": 143510, "pairs_in_both": 143510, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0071", "method": "SigLIP similarity drop", "pairs_in_place": 24924, "pairs_in_room": 28088, "pairs_in_both": 24634, "places": 7, "rooms": 5}
+{"stream_id": "arkit-test-0071", "method": "fixed 8 s windows", "pairs_in_place": 8766, "pairs_in_room": 28088, "pairs_in_both": 8674, "places": 32, "rooms": 5}
+{"stream_id": "arkit-test-0071", "method": "detector, no continuation", "pairs_in_place": 18960, "pairs_in_room": 28088, "pairs_in_both": 17775, "places": 12, "rooms": 5}
+{"stream_id": "arkit-test-0071", "method": "PlaceTally", "pairs_in_place": 27923, "pairs_in_room": 28088, "pairs_in_both": 26003, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0072", "method": "SigLIP similarity drop", "pairs_in_place": 80058, "pairs_in_room": 73419, "pairs_in_both": 71053, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0072", "method": "fixed 8 s windows", "pairs_in_place": 27091, "pairs_in_room": 73419, "pairs_in_both": 21179, "places": 45, "rooms": 7}
+{"stream_id": "arkit-test-0072", "method": "detector, no continuation", "pairs_in_place": 79404, "pairs_in_room": 73419, "pairs_in_both": 70803, "places": 11, "rooms": 7}
+{"stream_id": "arkit-test-0072", "method": "PlaceTally", "pairs_in_place": 82020, "pairs_in_room": 73419, "pairs_in_both": 73419, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0073", "method": "SigLIP similarity drop", "pairs_in_place": 113761, "pairs_in_room": 113761, "pairs_in_both": 113761, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0073", "method": "fixed 8 s windows", "pairs_in_place": 13002, "pairs_in_room": 113761, "pairs_in_both": 12780, "places": 45, "rooms": 4}
+{"stream_id": "arkit-test-0073", "method": "detector, no continuation", "pairs_in_place": 113761, "pairs_in_room": 113761, "pairs_in_both": 113761, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0073", "method": "PlaceTally", "pairs_in_place": 113761, "pairs_in_room": 113761, "pairs_in_both": 113761, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0074", "method": "SigLIP similarity drop", "pairs_in_place": 34356, "pairs_in_room": 36075, "pairs_in_both": 34356, "places": 10, "rooms": 6}
+{"stream_id": "arkit-test-0074", "method": "fixed 8 s windows", "pairs_in_place": 14121, "pairs_in_room": 36075, "pairs_in_both": 12704, "places": 41, "rooms": 6}
+{"stream_id": "arkit-test-0074", "method": "detector, no continuation", "pairs_in_place": 34760, "pairs_in_room": 36075, "pairs_in_both": 34760, "places": 8, "rooms": 6}
+{"stream_id": "arkit-test-0074", "method": "PlaceTally", "pairs_in_place": 36075, "pairs_in_room": 36075, "pairs_in_both": 36075, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0075", "method": "SigLIP similarity drop", "pairs_in_place": 41945, "pairs_in_room": 42175, "pairs_in_both": 41945, "places": 6, "rooms": 5}
+{"stream_id": "arkit-test-0075", "method": "fixed 8 s windows", "pairs_in_place": 11249, "pairs_in_room": 42175, "pairs_in_both": 10686, "places": 38, "rooms": 5}
+{"stream_id": "arkit-test-0075", "method": "detector, no continuation", "pairs_in_place": 41469, "pairs_in_room": 42175, "pairs_in_both": 41469, "places": 8, "rooms": 5}
+{"stream_id": "arkit-test-0075", "method": "PlaceTally", "pairs_in_place": 42175, "pairs_in_room": 42175, "pairs_in_both": 42175, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0076", "method": "SigLIP similarity drop", "pairs_in_place": 45406, "pairs_in_room": 35004, "pairs_in_both": 34616, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0076", "method": "fixed 8 s windows", "pairs_in_place": 5466, "pairs_in_room": 35004, "pairs_in_both": 5255, "places": 49, "rooms": 7}
+{"stream_id": "arkit-test-0076", "method": "detector, no continuation", "pairs_in_place": 34596, "pairs_in_room": 35004, "pairs_in_both": 34596, "places": 9, "rooms": 7}
+{"stream_id": "arkit-test-0076", "method": "PlaceTally", "pairs_in_place": 35004, "pairs_in_room": 35004, "pairs_in_both": 35004, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0077", "method": "SigLIP similarity drop", "pairs_in_place": 46717, "pairs_in_room": 46717, "pairs_in_both": 46717, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0077", "method": "fixed 8 s windows", "pairs_in_place": 6465, "pairs_in_room": 46717, "pairs_in_both": 5715, "places": 32, "rooms": 4}
+{"stream_id": "arkit-test-0077", "method": "detector, no continuation", "pairs_in_place": 45877, "pairs_in_room": 46717, "pairs_in_both": 45877, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0077", "method": "PlaceTally", "pairs_in_place": 46717, "pairs_in_room": 46717, "pairs_in_both": 46717, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0078", "method": "SigLIP similarity drop", "pairs_in_place": 45763, "pairs_in_room": 49630, "pairs_in_both": 45763, "places": 8, "rooms": 6}
+{"stream_id": "arkit-test-0078", "method": "fixed 8 s windows", "pairs_in_place": 17590, "pairs_in_room": 49630, "pairs_in_both": 14257, "places": 38, "rooms": 6}
+{"stream_id": "arkit-test-0078", "method": "detector, no continuation", "pairs_in_place": 45103, "pairs_in_room": 49630, "pairs_in_both": 45103, "places": 8, "rooms": 6}
+{"stream_id": "arkit-test-0078", "method": "PlaceTally", "pairs_in_place": 46120, "pairs_in_room": 49630, "pairs_in_both": 46120, "places": 7, "rooms": 6}
+{"stream_id": "arkit-test-0079", "method": "SigLIP similarity drop", "pairs_in_place": 21824, "pairs_in_room": 17748, "pairs_in_both": 11060, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0079", "method": "fixed 8 s windows", "pairs_in_place": 4786, "pairs_in_room": 17748, "pairs_in_both": 4635, "places": 27, "rooms": 5}
+{"stream_id": "arkit-test-0079", "method": "detector, no continuation", "pairs_in_place": 17748, "pairs_in_room": 17748, "pairs_in_both": 17748, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0079", "method": "PlaceTally", "pairs_in_place": 17748, "pairs_in_room": 17748, "pairs_in_both": 17748, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0080", "method": "SigLIP similarity drop", "pairs_in_place": 174979, "pairs_in_room": 97338, "pairs_in_both": 77786, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0080", "method": "fixed 8 s windows", "pairs_in_place": 22938, "pairs_in_room": 97338, "pairs_in_both": 21699, "places": 51, "rooms": 7}
+{"stream_id": "arkit-test-0080", "method": "detector, no continuation", "pairs_in_place": 95973, "pairs_in_room": 97338, "pairs_in_both": 95973, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0080", "method": "PlaceTally", "pairs_in_place": 78417, "pairs_in_room": 97338, "pairs_in_both": 78417, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0081", "method": "SigLIP similarity drop", "pairs_in_place": 68011, "pairs_in_room": 68011, "pairs_in_both": 68011, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0081", "method": "fixed 8 s windows", "pairs_in_place": 16003, "pairs_in_room": 68011, "pairs_in_both": 15943, "places": 31, "rooms": 4}
+{"stream_id": "arkit-test-0081", "method": "detector, no continuation", "pairs_in_place": 67141, "pairs_in_room": 68011, "pairs_in_both": 67141, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0081", "method": "PlaceTally", "pairs_in_place": 68011, "pairs_in_room": 68011, "pairs_in_both": 68011, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0082", "method": "SigLIP similarity drop", "pairs_in_place": 27792, "pairs_in_room": 25153, "pairs_in_both": 24832, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0082", "method": "fixed 8 s windows", "pairs_in_place": 5406, "pairs_in_room": 25153, "pairs_in_both": 5288, "places": 34, "rooms": 6}
+{"stream_id": "arkit-test-0082", "method": "detector, no continuation", "pairs_in_place": 25153, "pairs_in_room": 25153, "pairs_in_both": 25153, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0082", "method": "PlaceTally", "pairs_in_place": 25153, "pairs_in_room": 25153, "pairs_in_both": 25153, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0083", "method": "SigLIP similarity drop", "pairs_in_place": 14607, "pairs_in_room": 15016, "pairs_in_both": 14607, "places": 8, "rooms": 5}
+{"stream_id": "arkit-test-0083", "method": "fixed 8 s windows", "pairs_in_place": 4009, "pairs_in_room": 15016, "pairs_in_both": 3723, "places": 26, "rooms": 5}
+{"stream_id": "arkit-test-0083", "method": "detector, no continuation", "pairs_in_place": 14687, "pairs_in_room": 15016, "pairs_in_both": 14687, "places": 7, "rooms": 5}
+{"stream_id": "arkit-test-0083", "method": "PlaceTally", "pairs_in_place": 15016, "pairs_in_room": 15016, "pairs_in_both": 15016, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0084", "method": "SigLIP similarity drop", "pairs_in_place": 67598, "pairs_in_room": 67433, "pairs_in_both": 67418, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0084", "method": "fixed 8 s windows", "pairs_in_place": 10206, "pairs_in_room": 67433, "pairs_in_both": 9952, "places": 48, "rooms": 7}
+{"stream_id": "arkit-test-0084", "method": "detector, no continuation", "pairs_in_place": 67373, "pairs_in_room": 67433, "pairs_in_both": 67373, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0084", "method": "PlaceTally", "pairs_in_place": 67433, "pairs_in_room": 67433, "pairs_in_both": 67433, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0085", "method": "SigLIP similarity drop", "pairs_in_place": 81906, "pairs_in_room": 31456, "pairs_in_both": 31456, "places": 2, "rooms": 4}
+{"stream_id": "arkit-test-0085", "method": "fixed 8 s windows", "pairs_in_place": 7911, "pairs_in_room": 31456, "pairs_in_both": 7596, "places": 24, "rooms": 4}
+{"stream_id": "arkit-test-0085", "method": "detector, no continuation", "pairs_in_place": 31456, "pairs_in_room": 31456, "pairs_in_both": 31456, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0085", "method": "PlaceTally", "pairs_in_place": 31456, "pairs_in_room": 31456, "pairs_in_both": 31456, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0086", "method": "SigLIP similarity drop", "pairs_in_place": 42950, "pairs_in_room": 39562, "pairs_in_both": 38066, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0086", "method": "fixed 8 s windows", "pairs_in_place": 10312, "pairs_in_room": 39562, "pairs_in_both": 8901, "places": 42, "rooms": 6}
+{"stream_id": "arkit-test-0086", "method": "detector, no continuation", "pairs_in_place": 39562, "pairs_in_room": 39562, "pairs_in_both": 39562, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0086", "method": "PlaceTally", "pairs_in_place": 39562, "pairs_in_room": 39562, "pairs_in_both": 39562, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0087", "method": "SigLIP similarity drop", "pairs_in_place": 112714, "pairs_in_room": 105745, "pairs_in_both": 99259, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0087", "method": "fixed 8 s windows", "pairs_in_place": 21123, "pairs_in_room": 105745, "pairs_in_both": 20106, "places": 35, "rooms": 5}
+{"stream_id": "arkit-test-0087", "method": "detector, no continuation", "pairs_in_place": 105745, "pairs_in_room": 105745, "pairs_in_both": 105745, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0087", "method": "PlaceTally", "pairs_in_place": 105745, "pairs_in_room": 105745, "pairs_in_both": 105745, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0088", "method": "SigLIP similarity drop", "pairs_in_place": 98645, "pairs_in_room": 89601, "pairs_in_both": 84129, "places": 12, "rooms": 7}
+{"stream_id": "arkit-test-0088", "method": "fixed 8 s windows", "pairs_in_place": 22666, "pairs_in_room": 89601, "pairs_in_both": 16503, "places": 50, "rooms": 7}
+{"stream_id": "arkit-test-0088", "method": "detector, no continuation", "pairs_in_place": 90547, "pairs_in_room": 89601, "pairs_in_both": 81187, "places": 11, "rooms": 7}
+{"stream_id": "arkit-test-0088", "method": "PlaceTally", "pairs_in_place": 101761, "pairs_in_room": 89601, "pairs_in_both": 89601, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0089", "method": "SigLIP similarity drop", "pairs_in_place": 11275, "pairs_in_room": 14858, "pairs_in_both": 11275, "places": 10, "rooms": 4}
+{"stream_id": "arkit-test-0089", "method": "fixed 8 s windows", "pairs_in_place": 2254, "pairs_in_room": 14858, "pairs_in_both": 2148, "places": 25, "rooms": 4}
+{"stream_id": "arkit-test-0089", "method": "detector, no continuation", "pairs_in_place": 11595, "pairs_in_room": 14858, "pairs_in_both": 11595, "places": 8, "rooms": 4}
+{"stream_id": "arkit-test-0089", "method": "PlaceTally", "pairs_in_place": 12716, "pairs_in_room": 14858, "pairs_in_both": 12716, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0090", "method": "SigLIP similarity drop", "pairs_in_place": 54207, "pairs_in_room": 52395, "pairs_in_both": 52007, "places": 7, "rooms": 6}
+{"stream_id": "arkit-test-0090", "method": "fixed 8 s windows", "pairs_in_place": 10467, "pairs_in_room": 52395, "pairs_in_both": 10173, "places": 38, "rooms": 6}
+{"stream_id": "arkit-test-0090", "method": "detector, no continuation", "pairs_in_place": 51987, "pairs_in_room": 52395, "pairs_in_both": 51987, "places": 8, "rooms": 6}
+{"stream_id": "arkit-test-0090", "method": "PlaceTally", "pairs_in_place": 52395, "pairs_in_room": 52395, "pairs_in_both": 52395, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0091", "method": "SigLIP similarity drop", "pairs_in_place": 28880, "pairs_in_room": 40815, "pairs_in_both": 25476, "places": 6, "rooms": 5}
+{"stream_id": "arkit-test-0091", "method": "fixed 8 s windows", "pairs_in_place": 11911, "pairs_in_room": 40815, "pairs_in_both": 11454, "places": 28, "rooms": 5}
+{"stream_id": "arkit-test-0091", "method": "detector, no continuation", "pairs_in_place": 40815, "pairs_in_room": 40815, "pairs_in_both": 40815, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0091", "method": "PlaceTally", "pairs_in_place": 40815, "pairs_in_room": 40815, "pairs_in_both": 40815, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0092", "method": "SigLIP similarity drop", "pairs_in_place": 105063, "pairs_in_room": 108500, "pairs_in_both": 103091, "places": 15, "rooms": 7}
+{"stream_id": "arkit-test-0092", "method": "fixed 8 s windows", "pairs_in_place": 9774, "pairs_in_room": 108500, "pairs_in_both": 9654, "places": 77, "rooms": 7}
+{"stream_id": "arkit-test-0092", "method": "detector, no continuation", "pairs_in_place": 106057, "pairs_in_room": 108500, "pairs_in_both": 104085, "places": 10, "rooms": 7}
+{"stream_id": "arkit-test-0092", "method": "PlaceTally", "pairs_in_place": 109874, "pairs_in_room": 108500, "pairs_in_both": 107902, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0093", "method": "SigLIP similarity drop", "pairs_in_place": 35598, "pairs_in_room": 35598, "pairs_in_both": 35598, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0093", "method": "fixed 8 s windows", "pairs_in_place": 3815, "pairs_in_room": 35598, "pairs_in_both": 3687, "places": 41, "rooms": 4}
+{"stream_id": "arkit-test-0093", "method": "detector, no continuation", "pairs_in_place": 35598, "pairs_in_room": 35598, "pairs_in_both": 35598, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0093", "method": "PlaceTally", "pairs_in_place": 35598, "pairs_in_room": 35598, "pairs_in_both": 35598, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0094", "method": "SigLIP similarity drop", "pairs_in_place": 46602, "pairs_in_room": 48328, "pairs_in_both": 46562, "places": 9, "rooms": 6}
+{"stream_id": "arkit-test-0094", "method": "fixed 8 s windows", "pairs_in_place": 22767, "pairs_in_room": 48328, "pairs_in_both": 22399, "places": 33, "rooms": 6}
+{"stream_id": "arkit-test-0094", "method": "detector, no continuation", "pairs_in_place": 47581, "pairs_in_room": 48328, "pairs_in_both": 47581, "places": 9, "rooms": 6}
+{"stream_id": "arkit-test-0094", "method": "PlaceTally", "pairs_in_place": 49408, "pairs_in_room": 48328, "pairs_in_both": 48328, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0095", "method": "SigLIP similarity drop", "pairs_in_place": 141260, "pairs_in_room": 116019, "pairs_in_both": 116019, "places": 3, "rooms": 5}
+{"stream_id": "arkit-test-0095", "method": "fixed 8 s windows", "pairs_in_place": 50922, "pairs_in_room": 116019, "pairs_in_both": 50763, "places": 28, "rooms": 5}
+{"stream_id": "arkit-test-0095", "method": "detector, no continuation", "pairs_in_place": 116019, "pairs_in_room": 116019, "pairs_in_both": 116019, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0095", "method": "PlaceTally", "pairs_in_place": 116019, "pairs_in_room": 116019, "pairs_in_both": 116019, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0096", "method": "SigLIP similarity drop", "pairs_in_place": 34643, "pairs_in_room": 24004, "pairs_in_both": 23208, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0096", "method": "fixed 8 s windows", "pairs_in_place": 8215, "pairs_in_room": 24004, "pairs_in_both": 7724, "places": 30, "rooms": 7}
+{"stream_id": "arkit-test-0096", "method": "detector, no continuation", "pairs_in_place": 24004, "pairs_in_room": 24004, "pairs_in_both": 24004, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0096", "method": "PlaceTally", "pairs_in_place": 29764, "pairs_in_room": 24004, "pairs_in_both": 24004, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0097", "method": "SigLIP similarity drop", "pairs_in_place": 308505, "pairs_in_room": 109989, "pairs_in_both": 109989, "places": 1, "rooms": 4}
+{"stream_id": "arkit-test-0097", "method": "fixed 8 s windows", "pairs_in_place": 11849, "pairs_in_room": 109989, "pairs_in_both": 11437, "places": 40, "rooms": 4}
+{"stream_id": "arkit-test-0097", "method": "detector, no continuation", "pairs_in_place": 109989, "pairs_in_room": 109989, "pairs_in_both": 109989, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0097", "method": "PlaceTally", "pairs_in_place": 109989, "pairs_in_room": 109989, "pairs_in_both": 109989, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0098", "method": "SigLIP similarity drop", "pairs_in_place": 127572, "pairs_in_room": 127572, "pairs_in_both": 127572, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0098", "method": "fixed 8 s windows", "pairs_in_place": 19125, "pairs_in_room": 127572, "pairs_in_both": 18924, "places": 65, "rooms": 6}
+{"stream_id": "arkit-test-0098", "method": "detector, no continuation", "pairs_in_place": 127572, "pairs_in_room": 127572, "pairs_in_both": 127572, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0098", "method": "PlaceTally", "pairs_in_place": 127572, "pairs_in_room": 127572, "pairs_in_both": 127572, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0099", "method": "SigLIP similarity drop", "pairs_in_place": 49366, "pairs_in_room": 50302, "pairs_in_both": 49366, "places": 6, "rooms": 5}
+{"stream_id": "arkit-test-0099", "method": "fixed 8 s windows", "pairs_in_place": 4204, "pairs_in_room": 50302, "pairs_in_both": 4131, "places": 45, "rooms": 5}
+{"stream_id": "arkit-test-0099", "method": "detector, no continuation", "pairs_in_place": 49462, "pairs_in_room": 50302, "pairs_in_both": 49462, "places": 6, "rooms": 5}
+{"stream_id": "arkit-test-0099", "method": "PlaceTally", "pairs_in_place": 47116, "pairs_in_room": 50302, "pairs_in_both": 47116, "places": 6, "rooms": 5}
+{"stream_id": "arkit-test-0100", "method": "SigLIP similarity drop", "pairs_in_place": 118514, "pairs_in_room": 118514, "pairs_in_both": 118514, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0100", "method": "fixed 8 s windows", "pairs_in_place": 12853, "pairs_in_room": 118514, "pairs_in_both": 12601, "places": 70, "rooms": 7}
+{"stream_id": "arkit-test-0100", "method": "detector, no continuation", "pairs_in_place": 118286, "pairs_in_room": 118514, "pairs_in_both": 118286, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0100", "method": "PlaceTally", "pairs_in_place": 118514, "pairs_in_room": 118514, "pairs_in_both": 118514, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0101", "method": "SigLIP similarity drop", "pairs_in_place": 30148, "pairs_in_room": 30148, "pairs_in_both": 30148, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0101", "method": "fixed 8 s windows", "pairs_in_place": 6043, "pairs_in_room": 30148, "pairs_in_both": 5927, "places": 27, "rooms": 4}
+{"stream_id": "arkit-test-0101", "method": "detector, no continuation", "pairs_in_place": 30148, "pairs_in_room": 30148, "pairs_in_both": 30148, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0101", "method": "PlaceTally", "pairs_in_place": 30148, "pairs_in_room": 30148, "pairs_in_both": 30148, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0102", "method": "SigLIP similarity drop", "pairs_in_place": 39626, "pairs_in_room": 43210, "pairs_in_both": 35538, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0102", "method": "fixed 8 s windows", "pairs_in_place": 9800, "pairs_in_room": 43210, "pairs_in_both": 9710, "places": 40, "rooms": 6}
+{"stream_id": "arkit-test-0102", "method": "detector, no continuation", "pairs_in_place": 43210, "pairs_in_room": 43210, "pairs_in_both": 43210, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0102", "method": "PlaceTally", "pairs_in_place": 43210, "pairs_in_room": 43210, "pairs_in_both": 43210, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0103", "method": "SigLIP similarity drop", "pairs_in_place": 24901, "pairs_in_room": 24976, "pairs_in_both": 24901, "places": 6, "rooms": 5}
+{"stream_id": "arkit-test-0103", "method": "fixed 8 s windows", "pairs_in_place": 4609, "pairs_in_room": 24976, "pairs_in_both": 4388, "places": 31, "rooms": 5}
+{"stream_id": "arkit-test-0103", "method": "detector, no continuation", "pairs_in_place": 24976, "pairs_in_room": 24976, "pairs_in_both": 24976, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0103", "method": "PlaceTally", "pairs_in_place": 24976, "pairs_in_room": 24976, "pairs_in_both": 24976, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0104", "method": "SigLIP similarity drop", "pairs_in_place": 39985, "pairs_in_room": 39985, "pairs_in_both": 39985, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0104", "method": "fixed 8 s windows", "pairs_in_place": 7330, "pairs_in_room": 39985, "pairs_in_both": 7158, "places": 47, "rooms": 7}
+{"stream_id": "arkit-test-0104", "method": "detector, no continuation", "pairs_in_place": 39985, "pairs_in_room": 39985, "pairs_in_both": 39985, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0104", "method": "PlaceTally", "pairs_in_place": 39985, "pairs_in_room": 39985, "pairs_in_both": 39985, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0105", "method": "SigLIP similarity drop", "pairs_in_place": 34708, "pairs_in_room": 34708, "pairs_in_both": 34708, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0105", "method": "fixed 8 s windows", "pairs_in_place": 6138, "pairs_in_room": 34708, "pairs_in_both": 6047, "places": 29, "rooms": 4}
+{"stream_id": "arkit-test-0105", "method": "detector, no continuation", "pairs_in_place": 34708, "pairs_in_room": 34708, "pairs_in_both": 34708, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0105", "method": "PlaceTally", "pairs_in_place": 34708, "pairs_in_room": 34708, "pairs_in_both": 34708, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0106", "method": "SigLIP similarity drop", "pairs_in_place": 104401, "pairs_in_room": 60552, "pairs_in_both": 57383, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0106", "method": "fixed 8 s windows", "pairs_in_place": 6956, "pairs_in_room": 60552, "pairs_in_both": 6830, "places": 55, "rooms": 6}
+{"stream_id": "arkit-test-0106", "method": "detector, no continuation", "pairs_in_place": 60552, "pairs_in_room": 60552, "pairs_in_both": 60552, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0106", "method": "PlaceTally", "pairs_in_place": 60552, "pairs_in_room": 60552, "pairs_in_both": 60552, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0107", "method": "SigLIP similarity drop", "pairs_in_place": 21304, "pairs_in_room": 18352, "pairs_in_both": 18352, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0107", "method": "fixed 8 s windows", "pairs_in_place": 4613, "pairs_in_room": 18352, "pairs_in_both": 3942, "places": 23, "rooms": 5}
+{"stream_id": "arkit-test-0107", "method": "detector, no continuation", "pairs_in_place": 18352, "pairs_in_room": 18352, "pairs_in_both": 18352, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0107", "method": "PlaceTally", "pairs_in_place": 18352, "pairs_in_room": 18352, "pairs_in_both": 18352, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0108", "method": "SigLIP similarity drop", "pairs_in_place": 55587, "pairs_in_room": 47217, "pairs_in_both": 47217, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0108", "method": "fixed 8 s windows", "pairs_in_place": 7697, "pairs_in_room": 47217, "pairs_in_both": 7383, "places": 54, "rooms": 7}
+{"stream_id": "arkit-test-0108", "method": "detector, no continuation", "pairs_in_place": 46537, "pairs_in_room": 47217, "pairs_in_both": 46537, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0108", "method": "PlaceTally", "pairs_in_place": 47217, "pairs_in_room": 47217, "pairs_in_both": 47217, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0109", "method": "SigLIP similarity drop", "pairs_in_place": 14062, "pairs_in_room": 14062, "pairs_in_both": 14062, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0109", "method": "fixed 8 s windows", "pairs_in_place": 5010, "pairs_in_room": 14062, "pairs_in_both": 4963, "places": 18, "rooms": 4}
+{"stream_id": "arkit-test-0109", "method": "detector, no continuation", "pairs_in_place": 14062, "pairs_in_room": 14062, "pairs_in_both": 14062, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0109", "method": "PlaceTally", "pairs_in_place": 14062, "pairs_in_room": 14062, "pairs_in_both": 14062, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0001", "method": "TransNet V2", "pairs_in_place": 35511, "pairs_in_room": 11221, "pairs_in_both": 11221, "places": 1, "rooms": 4}
+{"stream_id": "arkit-test-0002", "method": "TransNet V2", "pairs_in_place": 70892, "pairs_in_room": 68479, "pairs_in_both": 58747, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0003", "method": "TransNet V2", "pairs_in_place": 27012, "pairs_in_room": 21002, "pairs_in_both": 12901, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0004", "method": "TransNet V2", "pairs_in_place": 71797, "pairs_in_room": 88679, "pairs_in_both": 52476, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0005", "method": "TransNet V2", "pairs_in_place": 14293, "pairs_in_room": 8249, "pairs_in_both": 7205, "places": 3, "rooms": 4}
+{"stream_id": "arkit-test-0006", "method": "TransNet V2", "pairs_in_place": 61115, "pairs_in_room": 48475, "pairs_in_both": 43006, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0007", "method": "TransNet V2", "pairs_in_place": 48360, "pairs_in_room": 26156, "pairs_in_both": 26156, "places": 3, "rooms": 5}
+{"stream_id": "arkit-test-0008", "method": "TransNet V2", "pairs_in_place": 86840, "pairs_in_room": 49835, "pairs_in_both": 49835, "places": 5, "rooms": 7}
+{"stream_id": "arkit-test-0009", "method": "TransNet V2", "pairs_in_place": 41694, "pairs_in_room": 36654, "pairs_in_both": 36654, "places": 3, "rooms": 4}
+{"stream_id": "arkit-test-0010", "method": "TransNet V2", "pairs_in_place": 169706, "pairs_in_room": 151566, "pairs_in_both": 135779, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0011", "method": "TransNet V2", "pairs_in_place": 34295, "pairs_in_room": 24986, "pairs_in_both": 21158, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0012", "method": "TransNet V2", "pairs_in_place": 72922, "pairs_in_room": 74588, "pairs_in_both": 72922, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0013", "method": "TransNet V2", "pairs_in_place": 56113, "pairs_in_room": 23315, "pairs_in_both": 19223, "places": 2, "rooms": 4}
+{"stream_id": "arkit-test-0014", "method": "TransNet V2", "pairs_in_place": 101703, "pairs_in_room": 56744, "pairs_in_both": 50596, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0015", "method": "TransNet V2", "pairs_in_place": 96224, "pairs_in_room": 98336, "pairs_in_both": 93680, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0016", "method": "TransNet V2", "pairs_in_place": 91385, "pairs_in_room": 45326, "pairs_in_both": 38402, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0017", "method": "TransNet V2", "pairs_in_place": 29289, "pairs_in_room": 22121, "pairs_in_both": 22121, "places": 3, "rooms": 4}
+{"stream_id": "arkit-test-0018", "method": "TransNet V2", "pairs_in_place": 51232, "pairs_in_room": 42710, "pairs_in_both": 26044, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0019", "method": "TransNet V2", "pairs_in_place": 29214, "pairs_in_room": 23874, "pairs_in_both": 23874, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0020", "method": "TransNet V2", "pairs_in_place": 63099, "pairs_in_room": 52956, "pairs_in_both": 45048, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0021", "method": "TransNet V2", "pairs_in_place": 43164, "pairs_in_room": 24186, "pairs_in_both": 24186, "places": 2, "rooms": 4}
+{"stream_id": "arkit-test-0022", "method": "TransNet V2", "pairs_in_place": 51231, "pairs_in_room": 34926, "pairs_in_both": 33954, "places": 4, "rooms": 6}
+{"stream_id": "arkit-test-0023", "method": "TransNet V2", "pairs_in_place": 30472, "pairs_in_room": 26343, "pairs_in_both": 25711, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0024", "method": "TransNet V2", "pairs_in_place": 117368, "pairs_in_room": 92804, "pairs_in_both": 87308, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0025", "method": "TransNet V2", "pairs_in_place": 67878, "pairs_in_room": 67878, "pairs_in_both": 67878, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0026", "method": "TransNet V2", "pairs_in_place": 79543, "pairs_in_room": 66476, "pairs_in_both": 61439, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0027", "method": "TransNet V2", "pairs_in_place": 47719, "pairs_in_room": 27631, "pairs_in_both": 27631, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0028", "method": "TransNet V2", "pairs_in_place": 57811, "pairs_in_room": 53954, "pairs_in_both": 53954, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0029", "method": "TransNet V2", "pairs_in_place": 54151, "pairs_in_room": 44716, "pairs_in_both": 41656, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0030", "method": "TransNet V2", "pairs_in_place": 72849, "pairs_in_room": 72728, "pairs_in_both": 62398, "places": 7, "rooms": 6}
+{"stream_id": "arkit-test-0031", "method": "TransNet V2", "pairs_in_place": 44626, "pairs_in_room": 40006, "pairs_in_both": 40006, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0032", "method": "TransNet V2", "pairs_in_place": 60442, "pairs_in_room": 46152, "pairs_in_both": 42824, "places": 5, "rooms": 7}
+{"stream_id": "arkit-test-0033", "method": "TransNet V2", "pairs_in_place": 93390, "pairs_in_room": 74554, "pairs_in_both": 74554, "places": 3, "rooms": 4}
+{"stream_id": "arkit-test-0034", "method": "TransNet V2", "pairs_in_place": 85500, "pairs_in_room": 85500, "pairs_in_both": 85500, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0035", "method": "TransNet V2", "pairs_in_place": 142586, "pairs_in_room": 127768, "pairs_in_both": 127768, "places": 3, "rooms": 5}
+{"stream_id": "arkit-test-0036", "method": "TransNet V2", "pairs_in_place": 78509, "pairs_in_room": 76277, "pairs_in_both": 76277, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0037", "method": "TransNet V2", "pairs_in_place": 20272, "pairs_in_room": 21017, "pairs_in_both": 20272, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0038", "method": "TransNet V2", "pairs_in_place": 59125, "pairs_in_room": 39973, "pairs_in_both": 39973, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0039", "method": "TransNet V2", "pairs_in_place": 67170, "pairs_in_room": 50565, "pairs_in_both": 45746, "places": 6, "rooms": 5}
+{"stream_id": "arkit-test-0040", "method": "TransNet V2", "pairs_in_place": 56552, "pairs_in_room": 32432, "pairs_in_both": 23088, "places": 5, "rooms": 7}
+{"stream_id": "arkit-test-0041", "method": "TransNet V2", "pairs_in_place": 18017, "pairs_in_room": 23671, "pairs_in_both": 15598, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0042", "method": "TransNet V2", "pairs_in_place": 170747, "pairs_in_room": 105271, "pairs_in_both": 105271, "places": 4, "rooms": 6}
+{"stream_id": "arkit-test-0043", "method": "TransNet V2", "pairs_in_place": 65185, "pairs_in_room": 60767, "pairs_in_both": 55996, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0044", "method": "TransNet V2", "pairs_in_place": 63105, "pairs_in_room": 54447, "pairs_in_both": 47486, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0045", "method": "TransNet V2", "pairs_in_place": 69748, "pairs_in_room": 57481, "pairs_in_both": 54810, "places": 6, "rooms": 4}
+{"stream_id": "arkit-test-0046", "method": "TransNet V2", "pairs_in_place": 32752, "pairs_in_room": 33622, "pairs_in_both": 31012, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0047", "method": "TransNet V2", "pairs_in_place": 39298, "pairs_in_room": 33540, "pairs_in_both": 22429, "places": 3, "rooms": 5}
+{"stream_id": "arkit-test-0048", "method": "TransNet V2", "pairs_in_place": 43340, "pairs_in_room": 44237, "pairs_in_both": 40097, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0049", "method": "TransNet V2", "pairs_in_place": 41520, "pairs_in_room": 46752, "pairs_in_both": 33376, "places": 3, "rooms": 4}
+{"stream_id": "arkit-test-0050", "method": "TransNet V2", "pairs_in_place": 99751, "pairs_in_room": 57547, "pairs_in_both": 49478, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0051", "method": "TransNet V2", "pairs_in_place": 52000, "pairs_in_room": 46560, "pairs_in_both": 46560, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0052", "method": "TransNet V2", "pairs_in_place": 130144, "pairs_in_room": 108416, "pairs_in_both": 89495, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0053", "method": "TransNet V2", "pairs_in_place": 29413, "pairs_in_room": 26501, "pairs_in_both": 25445, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0054", "method": "TransNet V2", "pairs_in_place": 153859, "pairs_in_room": 85657, "pairs_in_both": 85657, "places": 4, "rooms": 6}
+{"stream_id": "arkit-test-0055", "method": "TransNet V2", "pairs_in_place": 33361, "pairs_in_room": 18140, "pairs_in_both": 18140, "places": 3, "rooms": 5}
+{"stream_id": "arkit-test-0056", "method": "TransNet V2", "pairs_in_place": 60838, "pairs_in_room": 46069, "pairs_in_both": 38246, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0057", "method": "TransNet V2", "pairs_in_place": 100128, "pairs_in_room": 29968, "pairs_in_both": 29845, "places": 2, "rooms": 4}
+{"stream_id": "arkit-test-0058", "method": "TransNet V2", "pairs_in_place": 87305, "pairs_in_room": 66273, "pairs_in_both": 49181, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0059", "method": "TransNet V2", "pairs_in_place": 51178, "pairs_in_room": 57139, "pairs_in_both": 42359, "places": 6, "rooms": 5}
+{"stream_id": "arkit-test-0060", "method": "TransNet V2", "pairs_in_place": 52867, "pairs_in_room": 48846, "pairs_in_both": 40269, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0061", "method": "TransNet V2", "pairs_in_place": 163502, "pairs_in_room": 165614, "pairs_in_both": 163502, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0062", "method": "TransNet V2", "pairs_in_place": 102140, "pairs_in_room": 63427, "pairs_in_both": 63296, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0063", "method": "TransNet V2", "pairs_in_place": 96580, "pairs_in_room": 96863, "pairs_in_both": 65843, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0064", "method": "TransNet V2", "pairs_in_place": 28804, "pairs_in_room": 22887, "pairs_in_both": 18945, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0065", "method": "TransNet V2", "pairs_in_place": 91174, "pairs_in_room": 120325, "pairs_in_both": 91174, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0066", "method": "TransNet V2", "pairs_in_place": 70311, "pairs_in_room": 52567, "pairs_in_both": 36671, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0067", "method": "TransNet V2", "pairs_in_place": 27595, "pairs_in_room": 16443, "pairs_in_both": 15491, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0068", "method": "TransNet V2", "pairs_in_place": 132793, "pairs_in_room": 128005, "pairs_in_both": 128005, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0069", "method": "TransNet V2", "pairs_in_place": 28366, "pairs_in_room": 22452, "pairs_in_both": 19270, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0070", "method": "TransNet V2", "pairs_in_place": 154942, "pairs_in_room": 143510, "pairs_in_both": 143510, "places": 4, "rooms": 6}
+{"stream_id": "arkit-test-0071", "method": "TransNet V2", "pairs_in_place": 48448, "pairs_in_room": 28088, "pairs_in_both": 18468, "places": 3, "rooms": 5}
+{"stream_id": "arkit-test-0072", "method": "TransNet V2", "pairs_in_place": 87770, "pairs_in_room": 73419, "pairs_in_both": 65169, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0073", "method": "TransNet V2", "pairs_in_place": 152701, "pairs_in_room": 113761, "pairs_in_both": 112241, "places": 3, "rooms": 4}
+{"stream_id": "arkit-test-0074", "method": "TransNet V2", "pairs_in_place": 50088, "pairs_in_room": 36075, "pairs_in_both": 32409, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0075", "method": "TransNet V2", "pairs_in_place": 130832, "pairs_in_room": 42175, "pairs_in_both": 41139, "places": 3, "rooms": 5}
+{"stream_id": "arkit-test-0076", "method": "TransNet V2", "pairs_in_place": 39975, "pairs_in_room": 35004, "pairs_in_both": 34140, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0077", "method": "TransNet V2", "pairs_in_place": 57337, "pairs_in_room": 46717, "pairs_in_both": 43531, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0078", "method": "TransNet V2", "pairs_in_place": 63846, "pairs_in_room": 49630, "pairs_in_both": 39050, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0079", "method": "TransNet V2", "pairs_in_place": 76636, "pairs_in_room": 17748, "pairs_in_both": 17748, "places": 1, "rooms": 5}
+{"stream_id": "arkit-test-0080", "method": "TransNet V2", "pairs_in_place": 111357, "pairs_in_room": 97338, "pairs_in_both": 93462, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0081", "method": "TransNet V2", "pairs_in_place": 76844, "pairs_in_room": 68011, "pairs_in_both": 68011, "places": 3, "rooms": 4}
+{"stream_id": "arkit-test-0082", "method": "TransNet V2", "pairs_in_place": 38145, "pairs_in_room": 25153, "pairs_in_both": 19853, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0083", "method": "TransNet V2", "pairs_in_place": 31797, "pairs_in_room": 15016, "pairs_in_both": 13720, "places": 3, "rooms": 5}
+{"stream_id": "arkit-test-0084", "method": "TransNet V2", "pairs_in_place": 68560, "pairs_in_room": 67433, "pairs_in_both": 42387, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0085", "method": "TransNet V2", "pairs_in_place": 51810, "pairs_in_room": 31456, "pairs_in_both": 25956, "places": 2, "rooms": 4}
+{"stream_id": "arkit-test-0086", "method": "TransNet V2", "pairs_in_place": 84742, "pairs_in_room": 39562, "pairs_in_both": 34986, "places": 4, "rooms": 6}
+{"stream_id": "arkit-test-0087", "method": "TransNet V2", "pairs_in_place": 117481, "pairs_in_room": 105745, "pairs_in_both": 105745, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0088", "method": "TransNet V2", "pairs_in_place": 114982, "pairs_in_room": 89601, "pairs_in_both": 87558, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0089", "method": "TransNet V2", "pairs_in_place": 24976, "pairs_in_room": 14858, "pairs_in_both": 12716, "places": 2, "rooms": 4}
+{"stream_id": "arkit-test-0090", "method": "TransNet V2", "pairs_in_place": 53795, "pairs_in_room": 52395, "pairs_in_both": 52395, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0091", "method": "TransNet V2", "pairs_in_place": 41925, "pairs_in_room": 40815, "pairs_in_both": 29863, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0092", "method": "TransNet V2", "pairs_in_place": 110261, "pairs_in_room": 108500, "pairs_in_both": 75081, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0093", "method": "TransNet V2", "pairs_in_place": 35598, "pairs_in_room": 35598, "pairs_in_both": 35598, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0094", "method": "TransNet V2", "pairs_in_place": 55123, "pairs_in_room": 48328, "pairs_in_both": 48328, "places": 4, "rooms": 6}
+{"stream_id": "arkit-test-0095", "method": "TransNet V2", "pairs_in_place": 138894, "pairs_in_room": 116019, "pairs_in_both": 111566, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0096", "method": "TransNet V2", "pairs_in_place": 59037, "pairs_in_room": 24004, "pairs_in_both": 24004, "places": 3, "rooms": 7}
+{"stream_id": "arkit-test-0097", "method": "TransNet V2", "pairs_in_place": 109989, "pairs_in_room": 109989, "pairs_in_both": 109989, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0098", "method": "TransNet V2", "pairs_in_place": 138004, "pairs_in_room": 127572, "pairs_in_both": 127572, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0099", "method": "TransNet V2", "pairs_in_place": 49762, "pairs_in_room": 50302, "pairs_in_both": 47116, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0100", "method": "TransNet V2", "pairs_in_place": 111290, "pairs_in_room": 118514, "pairs_in_both": 94826, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0101", "method": "TransNet V2", "pairs_in_place": 30148, "pairs_in_room": 30148, "pairs_in_both": 30148, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0102", "method": "TransNet V2", "pairs_in_place": 44328, "pairs_in_room": 43210, "pairs_in_both": 41404, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0103", "method": "TransNet V2", "pairs_in_place": 25510, "pairs_in_room": 24976, "pairs_in_both": 18490, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0104", "method": "TransNet V2", "pairs_in_place": 50247, "pairs_in_room": 39985, "pairs_in_both": 29957, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0105", "method": "TransNet V2", "pairs_in_place": 35884, "pairs_in_room": 34708, "pairs_in_both": 32132, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0106", "method": "TransNet V2", "pairs_in_place": 78459, "pairs_in_room": 60552, "pairs_in_both": 56459, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0107", "method": "TransNet V2", "pairs_in_place": 48216, "pairs_in_room": 18352, "pairs_in_both": 16696, "places": 2, "rooms": 5}
+{"stream_id": "arkit-test-0108", "method": "TransNet V2", "pairs_in_place": 49408, "pairs_in_room": 47217, "pairs_in_both": 44988, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0109", "method": "TransNet V2", "pairs_in_place": 14062, "pairs_in_room": 14062, "pairs_in_both": 14062, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0001", "method": "best-link rule, shared weights", "pairs_in_place": 10232, "pairs_in_room": 11221, "pairs_in_both": 10232, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0001", "method": "partition solver, shared weights", "pairs_in_place": 10232, "pairs_in_room": 11221, "pairs_in_both": 10232, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0001", "method": "average link, shared weights", "pairs_in_place": 10232, "pairs_in_room": 11221, "pairs_in_both": 10232, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0001", "method": "single link, shared weights", "pairs_in_place": 10232, "pairs_in_room": 11221, "pairs_in_both": 10232, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0002", "method": "best-link rule, shared weights", "pairs_in_place": 68479, "pairs_in_room": 68479, "pairs_in_both": 68479, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0002", "method": "partition solver, shared weights", "pairs_in_place": 68479, "pairs_in_room": 68479, "pairs_in_both": 68479, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0002", "method": "average link, shared weights", "pairs_in_place": 68479, "pairs_in_room": 68479, "pairs_in_both": 68479, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0002", "method": "single link, shared weights", "pairs_in_place": 68479, "pairs_in_room": 68479, "pairs_in_both": 68479, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0003", "method": "best-link rule, shared weights", "pairs_in_place": 21002, "pairs_in_room": 21002, "pairs_in_both": 21002, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0003", "method": "partition solver, shared weights", "pairs_in_place": 21002, "pairs_in_room": 21002, "pairs_in_both": 21002, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0003", "method": "average link, shared weights", "pairs_in_place": 21002, "pairs_in_room": 21002, "pairs_in_both": 21002, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0003", "method": "single link, shared weights", "pairs_in_place": 21002, "pairs_in_room": 21002, "pairs_in_both": 21002, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0004", "method": "best-link rule, shared weights", "pairs_in_place": 57659, "pairs_in_room": 88679, "pairs_in_both": 57659, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0004", "method": "partition solver, shared weights", "pairs_in_place": 56491, "pairs_in_room": 88679, "pairs_in_both": 56491, "places": 9, "rooms": 7}
+{"stream_id": "arkit-test-0004", "method": "average link, shared weights", "pairs_in_place": 56491, "pairs_in_room": 88679, "pairs_in_both": 56491, "places": 9, "rooms": 7}
+{"stream_id": "arkit-test-0004", "method": "single link, shared weights", "pairs_in_place": 57659, "pairs_in_room": 88679, "pairs_in_both": 57659, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0005", "method": "best-link rule, shared weights", "pairs_in_place": 8249, "pairs_in_room": 8249, "pairs_in_both": 8249, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0005", "method": "partition solver, shared weights", "pairs_in_place": 7205, "pairs_in_room": 8249, "pairs_in_both": 7205, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0005", "method": "average link, shared weights", "pairs_in_place": 7205, "pairs_in_room": 8249, "pairs_in_both": 7205, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0005", "method": "single link, shared weights", "pairs_in_place": 8249, "pairs_in_room": 8249, "pairs_in_both": 8249, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0006", "method": "best-link rule, shared weights", "pairs_in_place": 48475, "pairs_in_room": 48475, "pairs_in_both": 48475, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0006", "method": "partition solver, shared weights", "pairs_in_place": 48475, "pairs_in_room": 48475, "pairs_in_both": 48475, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0006", "method": "average link, shared weights", "pairs_in_place": 48475, "pairs_in_room": 48475, "pairs_in_both": 48475, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0006", "method": "single link, shared weights", "pairs_in_place": 48475, "pairs_in_room": 48475, "pairs_in_both": 48475, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0007", "method": "best-link rule, shared weights", "pairs_in_place": 37986, "pairs_in_room": 26156, "pairs_in_both": 26156, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0007", "method": "partition solver, shared weights", "pairs_in_place": 37986, "pairs_in_room": 26156, "pairs_in_both": 26156, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0007", "method": "average link, shared weights", "pairs_in_place": 37986, "pairs_in_room": 26156, "pairs_in_both": 26156, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0007", "method": "single link, shared weights", "pairs_in_place": 37986, "pairs_in_room": 26156, "pairs_in_both": 26156, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0008", "method": "best-link rule, shared weights", "pairs_in_place": 49835, "pairs_in_room": 49835, "pairs_in_both": 49835, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0008", "method": "partition solver, shared weights", "pairs_in_place": 49835, "pairs_in_room": 49835, "pairs_in_both": 49835, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0008", "method": "average link, shared weights", "pairs_in_place": 49835, "pairs_in_room": 49835, "pairs_in_both": 49835, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0008", "method": "single link, shared weights", "pairs_in_place": 79038, "pairs_in_room": 49835, "pairs_in_both": 49835, "places": 5, "rooms": 7}
+{"stream_id": "arkit-test-0009", "method": "best-link rule, shared weights", "pairs_in_place": 27059, "pairs_in_room": 36654, "pairs_in_both": 27059, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0009", "method": "partition solver, shared weights", "pairs_in_place": 27059, "pairs_in_room": 36654, "pairs_in_both": 27059, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0009", "method": "average link, shared weights", "pairs_in_place": 27059, "pairs_in_room": 36654, "pairs_in_both": 27059, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0009", "method": "single link, shared weights", "pairs_in_place": 27059, "pairs_in_room": 36654, "pairs_in_both": 27059, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0010", "method": "best-link rule, shared weights", "pairs_in_place": 151566, "pairs_in_room": 151566, "pairs_in_both": 151566, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0010", "method": "partition solver, shared weights", "pairs_in_place": 135712, "pairs_in_room": 151566, "pairs_in_both": 135712, "places": 9, "rooms": 6}
+{"stream_id": "arkit-test-0010", "method": "average link, shared weights", "pairs_in_place": 135712, "pairs_in_room": 151566, "pairs_in_both": 135712, "places": 9, "rooms": 6}
+{"stream_id": "arkit-test-0010", "method": "single link, shared weights", "pairs_in_place": 151566, "pairs_in_room": 151566, "pairs_in_both": 151566, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0011", "method": "best-link rule, shared weights", "pairs_in_place": 24986, "pairs_in_room": 24986, "pairs_in_both": 24986, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0011", "method": "partition solver, shared weights", "pairs_in_place": 24986, "pairs_in_room": 24986, "pairs_in_both": 24986, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0011", "method": "average link, shared weights", "pairs_in_place": 24986, "pairs_in_room": 24986, "pairs_in_both": 24986, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0011", "method": "single link, shared weights", "pairs_in_place": 24986, "pairs_in_room": 24986, "pairs_in_both": 24986, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0012", "method": "best-link rule, shared weights", "pairs_in_place": 118688, "pairs_in_room": 74588, "pairs_in_both": 74588, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0012", "method": "partition solver, shared weights", "pairs_in_place": 109324, "pairs_in_room": 74588, "pairs_in_both": 65224, "places": 9, "rooms": 7}
+{"stream_id": "arkit-test-0012", "method": "average link, shared weights", "pairs_in_place": 109380, "pairs_in_room": 74588, "pairs_in_both": 65280, "places": 9, "rooms": 7}
+{"stream_id": "arkit-test-0012", "method": "single link, shared weights", "pairs_in_place": 118688, "pairs_in_room": 74588, "pairs_in_both": 74588, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0013", "method": "best-link rule, shared weights", "pairs_in_place": 25187, "pairs_in_room": 23315, "pairs_in_both": 21227, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0013", "method": "partition solver, shared weights", "pairs_in_place": 25187, "pairs_in_room": 23315, "pairs_in_both": 21227, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0013", "method": "average link, shared weights", "pairs_in_place": 25187, "pairs_in_room": 23315, "pairs_in_both": 21227, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0013", "method": "single link, shared weights", "pairs_in_place": 25187, "pairs_in_room": 23315, "pairs_in_both": 21227, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0014", "method": "best-link rule, shared weights", "pairs_in_place": 77405, "pairs_in_room": 56744, "pairs_in_both": 56744, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0014", "method": "partition solver, shared weights", "pairs_in_place": 56744, "pairs_in_room": 56744, "pairs_in_both": 56744, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0014", "method": "average link, shared weights", "pairs_in_place": 56744, "pairs_in_room": 56744, "pairs_in_both": 56744, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0014", "method": "single link, shared weights", "pairs_in_place": 77405, "pairs_in_room": 56744, "pairs_in_both": 56744, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0015", "method": "best-link rule, shared weights", "pairs_in_place": 98336, "pairs_in_room": 98336, "pairs_in_both": 98336, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0015", "method": "partition solver, shared weights", "pairs_in_place": 98336, "pairs_in_room": 98336, "pairs_in_both": 98336, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0015", "method": "average link, shared weights", "pairs_in_place": 98336, "pairs_in_room": 98336, "pairs_in_both": 98336, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0015", "method": "single link, shared weights", "pairs_in_place": 98336, "pairs_in_room": 98336, "pairs_in_both": 98336, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0016", "method": "best-link rule, shared weights", "pairs_in_place": 49710, "pairs_in_room": 45326, "pairs_in_both": 45326, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0016", "method": "partition solver, shared weights", "pairs_in_place": 45239, "pairs_in_room": 45326, "pairs_in_both": 45239, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0016", "method": "average link, shared weights", "pairs_in_place": 45239, "pairs_in_room": 45326, "pairs_in_both": 45239, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0016", "method": "single link, shared weights", "pairs_in_place": 49710, "pairs_in_room": 45326, "pairs_in_both": 45326, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0017", "method": "best-link rule, shared weights", "pairs_in_place": 22121, "pairs_in_room": 22121, "pairs_in_both": 22121, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0017", "method": "partition solver, shared weights", "pairs_in_place": 22121, "pairs_in_room": 22121, "pairs_in_both": 22121, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0017", "method": "average link, shared weights", "pairs_in_place": 22121, "pairs_in_room": 22121, "pairs_in_both": 22121, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0017", "method": "single link, shared weights", "pairs_in_place": 22121, "pairs_in_room": 22121, "pairs_in_both": 22121, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0018", "method": "best-link rule, shared weights", "pairs_in_place": 41721, "pairs_in_room": 42710, "pairs_in_both": 41721, "places": 7, "rooms": 6}
+{"stream_id": "arkit-test-0018", "method": "partition solver, shared weights", "pairs_in_place": 41721, "pairs_in_room": 42710, "pairs_in_both": 41721, "places": 7, "rooms": 6}
+{"stream_id": "arkit-test-0018", "method": "average link, shared weights", "pairs_in_place": 41721, "pairs_in_room": 42710, "pairs_in_both": 41721, "places": 7, "rooms": 6}
+{"stream_id": "arkit-test-0018", "method": "single link, shared weights", "pairs_in_place": 41721, "pairs_in_room": 42710, "pairs_in_both": 41721, "places": 7, "rooms": 6}
+{"stream_id": "arkit-test-0019", "method": "best-link rule, shared weights", "pairs_in_place": 23874, "pairs_in_room": 23874, "pairs_in_both": 23874, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0019", "method": "partition solver, shared weights", "pairs_in_place": 23874, "pairs_in_room": 23874, "pairs_in_both": 23874, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0019", "method": "average link, shared weights", "pairs_in_place": 23874, "pairs_in_room": 23874, "pairs_in_both": 23874, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0019", "method": "single link, shared weights", "pairs_in_place": 23874, "pairs_in_room": 23874, "pairs_in_both": 23874, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0020", "method": "best-link rule, shared weights", "pairs_in_place": 52956, "pairs_in_room": 52956, "pairs_in_both": 52956, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0020", "method": "partition solver, shared weights", "pairs_in_place": 52956, "pairs_in_room": 52956, "pairs_in_both": 52956, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0020", "method": "average link, shared weights", "pairs_in_place": 52956, "pairs_in_room": 52956, "pairs_in_both": 52956, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0020", "method": "single link, shared weights", "pairs_in_place": 52956, "pairs_in_room": 52956, "pairs_in_both": 52956, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0021", "method": "best-link rule, shared weights", "pairs_in_place": 24186, "pairs_in_room": 24186, "pairs_in_both": 24186, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0021", "method": "partition solver, shared weights", "pairs_in_place": 24186, "pairs_in_room": 24186, "pairs_in_both": 24186, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0021", "method": "average link, shared weights", "pairs_in_place": 24186, "pairs_in_room": 24186, "pairs_in_both": 24186, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0021", "method": "single link, shared weights", "pairs_in_place": 38523, "pairs_in_room": 24186, "pairs_in_both": 24186, "places": 3, "rooms": 4}
+{"stream_id": "arkit-test-0022", "method": "best-link rule, shared weights", "pairs_in_place": 34926, "pairs_in_room": 34926, "pairs_in_both": 34926, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0022", "method": "partition solver, shared weights", "pairs_in_place": 34926, "pairs_in_room": 34926, "pairs_in_both": 34926, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0022", "method": "average link, shared weights", "pairs_in_place": 34926, "pairs_in_room": 34926, "pairs_in_both": 34926, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0022", "method": "single link, shared weights", "pairs_in_place": 34926, "pairs_in_room": 34926, "pairs_in_both": 34926, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0023", "method": "best-link rule, shared weights", "pairs_in_place": 26784, "pairs_in_room": 26343, "pairs_in_both": 24481, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0023", "method": "partition solver, shared weights", "pairs_in_place": 26784, "pairs_in_room": 26343, "pairs_in_both": 24481, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0023", "method": "average link, shared weights", "pairs_in_place": 26784, "pairs_in_room": 26343, "pairs_in_both": 24481, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0023", "method": "single link, shared weights", "pairs_in_place": 26784, "pairs_in_room": 26343, "pairs_in_both": 24481, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0024", "method": "best-link rule, shared weights", "pairs_in_place": 92804, "pairs_in_room": 92804, "pairs_in_both": 92804, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0024", "method": "partition solver, shared weights", "pairs_in_place": 92804, "pairs_in_room": 92804, "pairs_in_both": 92804, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0024", "method": "average link, shared weights", "pairs_in_place": 92804, "pairs_in_room": 92804, "pairs_in_both": 92804, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0024", "method": "single link, shared weights", "pairs_in_place": 104948, "pairs_in_room": 92804, "pairs_in_both": 92804, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0025", "method": "best-link rule, shared weights", "pairs_in_place": 67878, "pairs_in_room": 67878, "pairs_in_both": 67878, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0025", "method": "partition solver, shared weights", "pairs_in_place": 67878, "pairs_in_room": 67878, "pairs_in_both": 67878, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0025", "method": "average link, shared weights", "pairs_in_place": 67878, "pairs_in_room": 67878, "pairs_in_both": 67878, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0025", "method": "single link, shared weights", "pairs_in_place": 67878, "pairs_in_room": 67878, "pairs_in_both": 67878, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0026", "method": "best-link rule, shared weights", "pairs_in_place": 66476, "pairs_in_room": 66476, "pairs_in_both": 66476, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0026", "method": "partition solver, shared weights", "pairs_in_place": 66476, "pairs_in_room": 66476, "pairs_in_both": 66476, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0026", "method": "average link, shared weights", "pairs_in_place": 66476, "pairs_in_room": 66476, "pairs_in_both": 66476, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0026", "method": "single link, shared weights", "pairs_in_place": 66476, "pairs_in_room": 66476, "pairs_in_both": 66476, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0027", "method": "best-link rule, shared weights", "pairs_in_place": 27631, "pairs_in_room": 27631, "pairs_in_both": 27631, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0027", "method": "partition solver, shared weights", "pairs_in_place": 25855, "pairs_in_room": 27631, "pairs_in_both": 25855, "places": 6, "rooms": 5}
+{"stream_id": "arkit-test-0027", "method": "average link, shared weights", "pairs_in_place": 25855, "pairs_in_room": 27631, "pairs_in_both": 25855, "places": 6, "rooms": 5}
+{"stream_id": "arkit-test-0027", "method": "single link, shared weights", "pairs_in_place": 27631, "pairs_in_room": 27631, "pairs_in_both": 27631, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0028", "method": "best-link rule, shared weights", "pairs_in_place": 53954, "pairs_in_room": 53954, "pairs_in_both": 53954, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0028", "method": "partition solver, shared weights", "pairs_in_place": 52136, "pairs_in_room": 53954, "pairs_in_both": 52136, "places": 9, "rooms": 7}
+{"stream_id": "arkit-test-0028", "method": "average link, shared weights", "pairs_in_place": 52192, "pairs_in_room": 53954, "pairs_in_both": 52192, "places": 9, "rooms": 7}
+{"stream_id": "arkit-test-0028", "method": "single link, shared weights", "pairs_in_place": 53954, "pairs_in_room": 53954, "pairs_in_both": 53954, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0029", "method": "best-link rule, shared weights", "pairs_in_place": 69706, "pairs_in_room": 44716, "pairs_in_both": 44716, "places": 3, "rooms": 4}
+{"stream_id": "arkit-test-0029", "method": "partition solver, shared weights", "pairs_in_place": 44716, "pairs_in_room": 44716, "pairs_in_both": 44716, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0029", "method": "average link, shared weights", "pairs_in_place": 44716, "pairs_in_room": 44716, "pairs_in_both": 44716, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0029", "method": "single link, shared weights", "pairs_in_place": 69706, "pairs_in_room": 44716, "pairs_in_both": 44716, "places": 3, "rooms": 4}
+{"stream_id": "arkit-test-0030", "method": "best-link rule, shared weights", "pairs_in_place": 72728, "pairs_in_room": 72728, "pairs_in_both": 72728, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0030", "method": "partition solver, shared weights", "pairs_in_place": 72728, "pairs_in_room": 72728, "pairs_in_both": 72728, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0030", "method": "average link, shared weights", "pairs_in_place": 72728, "pairs_in_room": 72728, "pairs_in_both": 72728, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0030", "method": "single link, shared weights", "pairs_in_place": 72728, "pairs_in_room": 72728, "pairs_in_both": 72728, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0031", "method": "best-link rule, shared weights", "pairs_in_place": 50864, "pairs_in_room": 40006, "pairs_in_both": 40006, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0031", "method": "partition solver, shared weights", "pairs_in_place": 50864, "pairs_in_room": 40006, "pairs_in_both": 40006, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0031", "method": "average link, shared weights", "pairs_in_place": 50864, "pairs_in_room": 40006, "pairs_in_both": 40006, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0031", "method": "single link, shared weights", "pairs_in_place": 50864, "pairs_in_room": 40006, "pairs_in_both": 40006, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0032", "method": "best-link rule, shared weights", "pairs_in_place": 46152, "pairs_in_room": 46152, "pairs_in_both": 46152, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0032", "method": "partition solver, shared weights", "pairs_in_place": 46152, "pairs_in_room": 46152, "pairs_in_both": 46152, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0032", "method": "average link, shared weights", "pairs_in_place": 46152, "pairs_in_room": 46152, "pairs_in_both": 46152, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0032", "method": "single link, shared weights", "pairs_in_place": 46152, "pairs_in_room": 46152, "pairs_in_both": 46152, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0033", "method": "best-link rule, shared weights", "pairs_in_place": 74554, "pairs_in_room": 74554, "pairs_in_both": 74554, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0033", "method": "partition solver, shared weights", "pairs_in_place": 71754, "pairs_in_room": 74554, "pairs_in_both": 71754, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0033", "method": "average link, shared weights", "pairs_in_place": 71754, "pairs_in_room": 74554, "pairs_in_both": 71754, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0033", "method": "single link, shared weights", "pairs_in_place": 74554, "pairs_in_room": 74554, "pairs_in_both": 74554, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0034", "method": "best-link rule, shared weights", "pairs_in_place": 120922, "pairs_in_room": 85500, "pairs_in_both": 71570, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0034", "method": "partition solver, shared weights", "pairs_in_place": 97162, "pairs_in_room": 85500, "pairs_in_both": 67650, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0034", "method": "average link, shared weights", "pairs_in_place": 97162, "pairs_in_room": 85500, "pairs_in_both": 67650, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0034", "method": "single link, shared weights", "pairs_in_place": 152212, "pairs_in_room": 85500, "pairs_in_both": 85500, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0035", "method": "best-link rule, shared weights", "pairs_in_place": 127768, "pairs_in_room": 127768, "pairs_in_both": 127768, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0035", "method": "partition solver, shared weights", "pairs_in_place": 127768, "pairs_in_room": 127768, "pairs_in_both": 127768, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0035", "method": "average link, shared weights", "pairs_in_place": 127768, "pairs_in_room": 127768, "pairs_in_both": 127768, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0035", "method": "single link, shared weights", "pairs_in_place": 127768, "pairs_in_room": 127768, "pairs_in_both": 127768, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0036", "method": "best-link rule, shared weights", "pairs_in_place": 67205, "pairs_in_room": 76277, "pairs_in_both": 67205, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0036", "method": "partition solver, shared weights", "pairs_in_place": 67205, "pairs_in_room": 76277, "pairs_in_both": 67205, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0036", "method": "average link, shared weights", "pairs_in_place": 67205, "pairs_in_room": 76277, "pairs_in_both": 67205, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0036", "method": "single link, shared weights", "pairs_in_place": 67205, "pairs_in_room": 76277, "pairs_in_both": 67205, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0037", "method": "best-link rule, shared weights", "pairs_in_place": 21017, "pairs_in_room": 21017, "pairs_in_both": 21017, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0037", "method": "partition solver, shared weights", "pairs_in_place": 15412, "pairs_in_room": 21017, "pairs_in_both": 15412, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0037", "method": "average link, shared weights", "pairs_in_place": 15412, "pairs_in_room": 21017, "pairs_in_both": 15412, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0037", "method": "single link, shared weights", "pairs_in_place": 21017, "pairs_in_room": 21017, "pairs_in_both": 21017, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0038", "method": "best-link rule, shared weights", "pairs_in_place": 39973, "pairs_in_room": 39973, "pairs_in_both": 39973, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0038", "method": "partition solver, shared weights", "pairs_in_place": 39973, "pairs_in_room": 39973, "pairs_in_both": 39973, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0038", "method": "average link, shared weights", "pairs_in_place": 39973, "pairs_in_room": 39973, "pairs_in_both": 39973, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0038", "method": "single link, shared weights", "pairs_in_place": 39973, "pairs_in_room": 39973, "pairs_in_both": 39973, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0039", "method": "best-link rule, shared weights", "pairs_in_place": 50565, "pairs_in_room": 50565, "pairs_in_both": 50565, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0039", "method": "partition solver, shared weights", "pairs_in_place": 71989, "pairs_in_room": 50565, "pairs_in_both": 50565, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0039", "method": "average link, shared weights", "pairs_in_place": 71989, "pairs_in_room": 50565, "pairs_in_both": 50565, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0039", "method": "single link, shared weights", "pairs_in_place": 71989, "pairs_in_room": 50565, "pairs_in_both": 50565, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0040", "method": "best-link rule, shared weights", "pairs_in_place": 32432, "pairs_in_room": 32432, "pairs_in_both": 32432, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0040", "method": "partition solver, shared weights", "pairs_in_place": 32432, "pairs_in_room": 32432, "pairs_in_both": 32432, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0040", "method": "average link, shared weights", "pairs_in_place": 32432, "pairs_in_room": 32432, "pairs_in_both": 32432, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0040", "method": "single link, shared weights", "pairs_in_place": 32432, "pairs_in_room": 32432, "pairs_in_both": 32432, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0041", "method": "best-link rule, shared weights", "pairs_in_place": 23671, "pairs_in_room": 23671, "pairs_in_both": 23671, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0041", "method": "partition solver, shared weights", "pairs_in_place": 20446, "pairs_in_room": 23671, "pairs_in_both": 20446, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0041", "method": "average link, shared weights", "pairs_in_place": 20446, "pairs_in_room": 23671, "pairs_in_both": 20446, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0041", "method": "single link, shared weights", "pairs_in_place": 23671, "pairs_in_room": 23671, "pairs_in_both": 23671, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0042", "method": "best-link rule, shared weights", "pairs_in_place": 69063, "pairs_in_room": 105271, "pairs_in_both": 69063, "places": 7, "rooms": 6}
+{"stream_id": "arkit-test-0042", "method": "partition solver, shared weights", "pairs_in_place": 67225, "pairs_in_room": 105271, "pairs_in_both": 67225, "places": 9, "rooms": 6}
+{"stream_id": "arkit-test-0042", "method": "average link, shared weights", "pairs_in_place": 65145, "pairs_in_room": 105271, "pairs_in_both": 65145, "places": 9, "rooms": 6}
+{"stream_id": "arkit-test-0042", "method": "single link, shared weights", "pairs_in_place": 69063, "pairs_in_room": 105271, "pairs_in_both": 69063, "places": 7, "rooms": 6}
+{"stream_id": "arkit-test-0043", "method": "best-link rule, shared weights", "pairs_in_place": 60767, "pairs_in_room": 60767, "pairs_in_both": 60767, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0043", "method": "partition solver, shared weights", "pairs_in_place": 60767, "pairs_in_room": 60767, "pairs_in_both": 60767, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0043", "method": "average link, shared weights", "pairs_in_place": 60767, "pairs_in_room": 60767, "pairs_in_both": 60767, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0043", "method": "single link, shared weights", "pairs_in_place": 60767, "pairs_in_room": 60767, "pairs_in_both": 60767, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0044", "method": "best-link rule, shared weights", "pairs_in_place": 59129, "pairs_in_room": 54447, "pairs_in_both": 54357, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0044", "method": "partition solver, shared weights", "pairs_in_place": 54425, "pairs_in_room": 54447, "pairs_in_both": 54357, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0044", "method": "average link, shared weights", "pairs_in_place": 54425, "pairs_in_room": 54447, "pairs_in_both": 54357, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0044", "method": "single link, shared weights", "pairs_in_place": 59129, "pairs_in_room": 54447, "pairs_in_both": 54357, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0045", "method": "best-link rule, shared weights", "pairs_in_place": 57481, "pairs_in_room": 57481, "pairs_in_both": 57481, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0045", "method": "partition solver, shared weights", "pairs_in_place": 57481, "pairs_in_room": 57481, "pairs_in_both": 57481, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0045", "method": "average link, shared weights", "pairs_in_place": 57481, "pairs_in_room": 57481, "pairs_in_both": 57481, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0045", "method": "single link, shared weights", "pairs_in_place": 57481, "pairs_in_room": 57481, "pairs_in_both": 57481, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0046", "method": "best-link rule, shared weights", "pairs_in_place": 47496, "pairs_in_room": 33622, "pairs_in_both": 33622, "places": 4, "rooms": 6}
+{"stream_id": "arkit-test-0046", "method": "partition solver, shared weights", "pairs_in_place": 32877, "pairs_in_room": 33622, "pairs_in_both": 32655, "places": 8, "rooms": 6}
+{"stream_id": "arkit-test-0046", "method": "average link, shared weights", "pairs_in_place": 32877, "pairs_in_room": 33622, "pairs_in_both": 32655, "places": 8, "rooms": 6}
+{"stream_id": "arkit-test-0046", "method": "single link, shared weights", "pairs_in_place": 47496, "pairs_in_room": 33622, "pairs_in_both": 33622, "places": 4, "rooms": 6}
+{"stream_id": "arkit-test-0047", "method": "best-link rule, shared weights", "pairs_in_place": 33540, "pairs_in_room": 33540, "pairs_in_both": 33540, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0047", "method": "partition solver, shared weights", "pairs_in_place": 33540, "pairs_in_room": 33540, "pairs_in_both": 33540, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0047", "method": "average link, shared weights", "pairs_in_place": 33540, "pairs_in_room": 33540, "pairs_in_both": 33540, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0047", "method": "single link, shared weights", "pairs_in_place": 38692, "pairs_in_room": 33540, "pairs_in_both": 33540, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0048", "method": "best-link rule, shared weights", "pairs_in_place": 44237, "pairs_in_room": 44237, "pairs_in_both": 44237, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0048", "method": "partition solver, shared weights", "pairs_in_place": 44237, "pairs_in_room": 44237, "pairs_in_both": 44237, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0048", "method": "average link, shared weights", "pairs_in_place": 44237, "pairs_in_room": 44237, "pairs_in_both": 44237, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0048", "method": "single link, shared weights", "pairs_in_place": 56864, "pairs_in_room": 44237, "pairs_in_both": 44237, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0049", "method": "best-link rule, shared weights", "pairs_in_place": 46752, "pairs_in_room": 46752, "pairs_in_both": 46752, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0049", "method": "partition solver, shared weights", "pairs_in_place": 46752, "pairs_in_room": 46752, "pairs_in_both": 46752, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0049", "method": "average link, shared weights", "pairs_in_place": 46752, "pairs_in_room": 46752, "pairs_in_both": 46752, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0049", "method": "single link, shared weights", "pairs_in_place": 46752, "pairs_in_room": 46752, "pairs_in_both": 46752, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0050", "method": "best-link rule, shared weights", "pairs_in_place": 57547, "pairs_in_room": 57547, "pairs_in_both": 57547, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0050", "method": "partition solver, shared weights", "pairs_in_place": 57547, "pairs_in_room": 57547, "pairs_in_both": 57547, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0050", "method": "average link, shared weights", "pairs_in_place": 57547, "pairs_in_room": 57547, "pairs_in_both": 57547, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0050", "method": "single link, shared weights", "pairs_in_place": 57547, "pairs_in_room": 57547, "pairs_in_both": 57547, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0051", "method": "best-link rule, shared weights", "pairs_in_place": 46560, "pairs_in_room": 46560, "pairs_in_both": 46560, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0051", "method": "partition solver, shared weights", "pairs_in_place": 46560, "pairs_in_room": 46560, "pairs_in_both": 46560, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0051", "method": "average link, shared weights", "pairs_in_place": 46560, "pairs_in_room": 46560, "pairs_in_both": 46560, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0051", "method": "single link, shared weights", "pairs_in_place": 46560, "pairs_in_room": 46560, "pairs_in_both": 46560, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0052", "method": "best-link rule, shared weights", "pairs_in_place": 108416, "pairs_in_room": 108416, "pairs_in_both": 108416, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0052", "method": "partition solver, shared weights", "pairs_in_place": 108416, "pairs_in_room": 108416, "pairs_in_both": 108416, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0052", "method": "average link, shared weights", "pairs_in_place": 108416, "pairs_in_room": 108416, "pairs_in_both": 108416, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0052", "method": "single link, shared weights", "pairs_in_place": 108416, "pairs_in_room": 108416, "pairs_in_both": 108416, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0053", "method": "best-link rule, shared weights", "pairs_in_place": 26501, "pairs_in_room": 26501, "pairs_in_both": 26501, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0053", "method": "partition solver, shared weights", "pairs_in_place": 26501, "pairs_in_room": 26501, "pairs_in_both": 26501, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0053", "method": "average link, shared weights", "pairs_in_place": 26501, "pairs_in_room": 26501, "pairs_in_both": 26501, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0053", "method": "single link, shared weights", "pairs_in_place": 26501, "pairs_in_room": 26501, "pairs_in_both": 26501, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0054", "method": "best-link rule, shared weights", "pairs_in_place": 83501, "pairs_in_room": 85657, "pairs_in_both": 70761, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0054", "method": "partition solver, shared weights", "pairs_in_place": 85657, "pairs_in_room": 85657, "pairs_in_both": 85657, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0054", "method": "average link, shared weights", "pairs_in_place": 85657, "pairs_in_room": 85657, "pairs_in_both": 85657, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0054", "method": "single link, shared weights", "pairs_in_place": 103337, "pairs_in_room": 85657, "pairs_in_both": 85657, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0055", "method": "best-link rule, shared weights", "pairs_in_place": 20381, "pairs_in_room": 18140, "pairs_in_both": 18140, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0055", "method": "partition solver, shared weights", "pairs_in_place": 14915, "pairs_in_room": 18140, "pairs_in_both": 14915, "places": 6, "rooms": 5}
+{"stream_id": "arkit-test-0055", "method": "average link, shared weights", "pairs_in_place": 14915, "pairs_in_room": 18140, "pairs_in_both": 14915, "places": 6, "rooms": 5}
+{"stream_id": "arkit-test-0055", "method": "single link, shared weights", "pairs_in_place": 20381, "pairs_in_room": 18140, "pairs_in_both": 18140, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0056", "method": "best-link rule, shared weights", "pairs_in_place": 43909, "pairs_in_room": 46069, "pairs_in_both": 43909, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0056", "method": "partition solver, shared weights", "pairs_in_place": 43909, "pairs_in_room": 46069, "pairs_in_both": 43909, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0056", "method": "average link, shared weights", "pairs_in_place": 43909, "pairs_in_room": 46069, "pairs_in_both": 43909, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0056", "method": "single link, shared weights", "pairs_in_place": 43909, "pairs_in_room": 46069, "pairs_in_both": 43909, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0057", "method": "best-link rule, shared weights", "pairs_in_place": 29968, "pairs_in_room": 29968, "pairs_in_both": 29968, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0057", "method": "partition solver, shared weights", "pairs_in_place": 29968, "pairs_in_room": 29968, "pairs_in_both": 29968, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0057", "method": "average link, shared weights", "pairs_in_place": 29968, "pairs_in_room": 29968, "pairs_in_both": 29968, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0057", "method": "single link, shared weights", "pairs_in_place": 29968, "pairs_in_room": 29968, "pairs_in_both": 29968, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0058", "method": "best-link rule, shared weights", "pairs_in_place": 66273, "pairs_in_room": 66273, "pairs_in_both": 66273, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0058", "method": "partition solver, shared weights", "pairs_in_place": 66273, "pairs_in_room": 66273, "pairs_in_both": 66273, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0058", "method": "average link, shared weights", "pairs_in_place": 66273, "pairs_in_room": 66273, "pairs_in_both": 66273, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0058", "method": "single link, shared weights", "pairs_in_place": 66273, "pairs_in_room": 66273, "pairs_in_both": 66273, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0059", "method": "best-link rule, shared weights", "pairs_in_place": 52015, "pairs_in_room": 57139, "pairs_in_both": 52015, "places": 6, "rooms": 5}
+{"stream_id": "arkit-test-0059", "method": "partition solver, shared weights", "pairs_in_place": 51637, "pairs_in_room": 57139, "pairs_in_both": 51637, "places": 7, "rooms": 5}
+{"stream_id": "arkit-test-0059", "method": "average link, shared weights", "pairs_in_place": 51637, "pairs_in_room": 57139, "pairs_in_both": 51637, "places": 7, "rooms": 5}
+{"stream_id": "arkit-test-0059", "method": "single link, shared weights", "pairs_in_place": 57139, "pairs_in_room": 57139, "pairs_in_both": 57139, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0060", "method": "best-link rule, shared weights", "pairs_in_place": 50376, "pairs_in_room": 48846, "pairs_in_both": 48846, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0060", "method": "partition solver, shared weights", "pairs_in_place": 50376, "pairs_in_room": 48846, "pairs_in_both": 48846, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0060", "method": "average link, shared weights", "pairs_in_place": 50376, "pairs_in_room": 48846, "pairs_in_both": 48846, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0060", "method": "single link, shared weights", "pairs_in_place": 50376, "pairs_in_room": 48846, "pairs_in_both": 48846, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0061", "method": "best-link rule, shared weights", "pairs_in_place": 165614, "pairs_in_room": 165614, "pairs_in_both": 165614, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0061", "method": "partition solver, shared weights", "pairs_in_place": 165614, "pairs_in_room": 165614, "pairs_in_both": 165614, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0061", "method": "average link, shared weights", "pairs_in_place": 165614, "pairs_in_room": 165614, "pairs_in_both": 165614, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0061", "method": "single link, shared weights", "pairs_in_place": 194254, "pairs_in_room": 165614, "pairs_in_both": 165614, "places": 3, "rooms": 4}
+{"stream_id": "arkit-test-0062", "method": "best-link rule, shared weights", "pairs_in_place": 63427, "pairs_in_room": 63427, "pairs_in_both": 63427, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0062", "method": "partition solver, shared weights", "pairs_in_place": 63427, "pairs_in_room": 63427, "pairs_in_both": 63427, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0062", "method": "average link, shared weights", "pairs_in_place": 63427, "pairs_in_room": 63427, "pairs_in_both": 63427, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0062", "method": "single link, shared weights", "pairs_in_place": 63427, "pairs_in_room": 63427, "pairs_in_both": 63427, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0063", "method": "best-link rule, shared weights", "pairs_in_place": 129143, "pairs_in_room": 96863, "pairs_in_both": 85103, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0063", "method": "partition solver, shared weights", "pairs_in_place": 129143, "pairs_in_room": 96863, "pairs_in_both": 85103, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0063", "method": "average link, shared weights", "pairs_in_place": 129143, "pairs_in_room": 96863, "pairs_in_both": 85103, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0063", "method": "single link, shared weights", "pairs_in_place": 176869, "pairs_in_room": 96863, "pairs_in_both": 96863, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0064", "method": "best-link rule, shared weights", "pairs_in_place": 22875, "pairs_in_room": 22887, "pairs_in_both": 22455, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0064", "method": "partition solver, shared weights", "pairs_in_place": 22875, "pairs_in_room": 22887, "pairs_in_both": 22455, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0064", "method": "average link, shared weights", "pairs_in_place": 22875, "pairs_in_room": 22887, "pairs_in_both": 22455, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0064", "method": "single link, shared weights", "pairs_in_place": 24567, "pairs_in_room": 22887, "pairs_in_both": 22887, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0065", "method": "best-link rule, shared weights", "pairs_in_place": 112909, "pairs_in_room": 120325, "pairs_in_both": 112909, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0065", "method": "partition solver, shared weights", "pairs_in_place": 112909, "pairs_in_room": 120325, "pairs_in_both": 112909, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0065", "method": "average link, shared weights", "pairs_in_place": 112909, "pairs_in_room": 120325, "pairs_in_both": 112909, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0065", "method": "single link, shared weights", "pairs_in_place": 112909, "pairs_in_room": 120325, "pairs_in_both": 112909, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0066", "method": "best-link rule, shared weights", "pairs_in_place": 52567, "pairs_in_room": 52567, "pairs_in_both": 52567, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0066", "method": "partition solver, shared weights", "pairs_in_place": 51742, "pairs_in_room": 52567, "pairs_in_both": 51742, "places": 7, "rooms": 6}
+{"stream_id": "arkit-test-0066", "method": "average link, shared weights", "pairs_in_place": 45367, "pairs_in_room": 52567, "pairs_in_both": 45367, "places": 7, "rooms": 6}
+{"stream_id": "arkit-test-0066", "method": "single link, shared weights", "pairs_in_place": 52567, "pairs_in_room": 52567, "pairs_in_both": 52567, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0067", "method": "best-link rule, shared weights", "pairs_in_place": 16443, "pairs_in_room": 16443, "pairs_in_both": 16443, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0067", "method": "partition solver, shared weights", "pairs_in_place": 16443, "pairs_in_room": 16443, "pairs_in_both": 16443, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0067", "method": "average link, shared weights", "pairs_in_place": 16443, "pairs_in_room": 16443, "pairs_in_both": 16443, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0067", "method": "single link, shared weights", "pairs_in_place": 16443, "pairs_in_room": 16443, "pairs_in_both": 16443, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0068", "method": "best-link rule, shared weights", "pairs_in_place": 128005, "pairs_in_room": 128005, "pairs_in_both": 128005, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0068", "method": "partition solver, shared weights", "pairs_in_place": 128005, "pairs_in_room": 128005, "pairs_in_both": 128005, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0068", "method": "average link, shared weights", "pairs_in_place": 128005, "pairs_in_room": 128005, "pairs_in_both": 128005, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0068", "method": "single link, shared weights", "pairs_in_place": 128005, "pairs_in_room": 128005, "pairs_in_both": 128005, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0069", "method": "best-link rule, shared weights", "pairs_in_place": 22452, "pairs_in_room": 22452, "pairs_in_both": 22452, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0069", "method": "partition solver, shared weights", "pairs_in_place": 22452, "pairs_in_room": 22452, "pairs_in_both": 22452, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0069", "method": "average link, shared weights", "pairs_in_place": 22452, "pairs_in_room": 22452, "pairs_in_both": 22452, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0069", "method": "single link, shared weights", "pairs_in_place": 22452, "pairs_in_room": 22452, "pairs_in_both": 22452, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0070", "method": "best-link rule, shared weights", "pairs_in_place": 143510, "pairs_in_room": 143510, "pairs_in_both": 143510, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0070", "method": "partition solver, shared weights", "pairs_in_place": 143510, "pairs_in_room": 143510, "pairs_in_both": 143510, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0070", "method": "average link, shared weights", "pairs_in_place": 143510, "pairs_in_room": 143510, "pairs_in_both": 143510, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0070", "method": "single link, shared weights", "pairs_in_place": 165290, "pairs_in_room": 143510, "pairs_in_both": 143510, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0071", "method": "best-link rule, shared weights", "pairs_in_place": 27923, "pairs_in_room": 28088, "pairs_in_both": 26003, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0071", "method": "partition solver, shared weights", "pairs_in_place": 22376, "pairs_in_room": 28088, "pairs_in_both": 20456, "places": 8, "rooms": 5}
+{"stream_id": "arkit-test-0071", "method": "average link, shared weights", "pairs_in_place": 21512, "pairs_in_room": 28088, "pairs_in_both": 19592, "places": 8, "rooms": 5}
+{"stream_id": "arkit-test-0071", "method": "single link, shared weights", "pairs_in_place": 27923, "pairs_in_room": 28088, "pairs_in_both": 26003, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0072", "method": "best-link rule, shared weights", "pairs_in_place": 82020, "pairs_in_room": 73419, "pairs_in_both": 73419, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0072", "method": "partition solver, shared weights", "pairs_in_place": 82020, "pairs_in_room": 73419, "pairs_in_both": 73419, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0072", "method": "average link, shared weights", "pairs_in_place": 82020, "pairs_in_room": 73419, "pairs_in_both": 73419, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0072", "method": "single link, shared weights", "pairs_in_place": 82020, "pairs_in_room": 73419, "pairs_in_both": 73419, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0073", "method": "best-link rule, shared weights", "pairs_in_place": 113761, "pairs_in_room": 113761, "pairs_in_both": 113761, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0073", "method": "partition solver, shared weights", "pairs_in_place": 113761, "pairs_in_room": 113761, "pairs_in_both": 113761, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0073", "method": "average link, shared weights", "pairs_in_place": 113761, "pairs_in_room": 113761, "pairs_in_both": 113761, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0073", "method": "single link, shared weights", "pairs_in_place": 113761, "pairs_in_room": 113761, "pairs_in_both": 113761, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0074", "method": "best-link rule, shared weights", "pairs_in_place": 36075, "pairs_in_room": 36075, "pairs_in_both": 36075, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0074", "method": "partition solver, shared weights", "pairs_in_place": 36075, "pairs_in_room": 36075, "pairs_in_both": 36075, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0074", "method": "average link, shared weights", "pairs_in_place": 36075, "pairs_in_room": 36075, "pairs_in_both": 36075, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0074", "method": "single link, shared weights", "pairs_in_place": 36075, "pairs_in_room": 36075, "pairs_in_both": 36075, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0075", "method": "best-link rule, shared weights", "pairs_in_place": 42175, "pairs_in_room": 42175, "pairs_in_both": 42175, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0075", "method": "partition solver, shared weights", "pairs_in_place": 42175, "pairs_in_room": 42175, "pairs_in_both": 42175, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0075", "method": "average link, shared weights", "pairs_in_place": 42175, "pairs_in_room": 42175, "pairs_in_both": 42175, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0075", "method": "single link, shared weights", "pairs_in_place": 42175, "pairs_in_room": 42175, "pairs_in_both": 42175, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0076", "method": "best-link rule, shared weights", "pairs_in_place": 35004, "pairs_in_room": 35004, "pairs_in_both": 35004, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0076", "method": "partition solver, shared weights", "pairs_in_place": 35004, "pairs_in_room": 35004, "pairs_in_both": 35004, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0076", "method": "average link, shared weights", "pairs_in_place": 35004, "pairs_in_room": 35004, "pairs_in_both": 35004, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0076", "method": "single link, shared weights", "pairs_in_place": 35004, "pairs_in_room": 35004, "pairs_in_both": 35004, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0077", "method": "best-link rule, shared weights", "pairs_in_place": 56167, "pairs_in_room": 46717, "pairs_in_both": 46717, "places": 3, "rooms": 4}
+{"stream_id": "arkit-test-0077", "method": "partition solver, shared weights", "pairs_in_place": 56167, "pairs_in_room": 46717, "pairs_in_both": 46717, "places": 3, "rooms": 4}
+{"stream_id": "arkit-test-0077", "method": "average link, shared weights", "pairs_in_place": 56167, "pairs_in_room": 46717, "pairs_in_both": 46717, "places": 3, "rooms": 4}
+{"stream_id": "arkit-test-0077", "method": "single link, shared weights", "pairs_in_place": 56167, "pairs_in_room": 46717, "pairs_in_both": 46717, "places": 3, "rooms": 4}
+{"stream_id": "arkit-test-0078", "method": "best-link rule, shared weights", "pairs_in_place": 49630, "pairs_in_room": 49630, "pairs_in_both": 49630, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0078", "method": "partition solver, shared weights", "pairs_in_place": 49630, "pairs_in_room": 49630, "pairs_in_both": 49630, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0078", "method": "average link, shared weights", "pairs_in_place": 49630, "pairs_in_room": 49630, "pairs_in_both": 49630, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0078", "method": "single link, shared weights", "pairs_in_place": 49630, "pairs_in_room": 49630, "pairs_in_both": 49630, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0079", "method": "best-link rule, shared weights", "pairs_in_place": 17748, "pairs_in_room": 17748, "pairs_in_both": 17748, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0079", "method": "partition solver, shared weights", "pairs_in_place": 17748, "pairs_in_room": 17748, "pairs_in_both": 17748, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0079", "method": "average link, shared weights", "pairs_in_place": 17748, "pairs_in_room": 17748, "pairs_in_both": 17748, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0079", "method": "single link, shared weights", "pairs_in_place": 17748, "pairs_in_room": 17748, "pairs_in_both": 17748, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0080", "method": "best-link rule, shared weights", "pairs_in_place": 78417, "pairs_in_room": 97338, "pairs_in_both": 78417, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0080", "method": "partition solver, shared weights", "pairs_in_place": 97338, "pairs_in_room": 97338, "pairs_in_both": 97338, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0080", "method": "average link, shared weights", "pairs_in_place": 97338, "pairs_in_room": 97338, "pairs_in_both": 97338, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0080", "method": "single link, shared weights", "pairs_in_place": 97338, "pairs_in_room": 97338, "pairs_in_both": 97338, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0081", "method": "best-link rule, shared weights", "pairs_in_place": 68011, "pairs_in_room": 68011, "pairs_in_both": 68011, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0081", "method": "partition solver, shared weights", "pairs_in_place": 68011, "pairs_in_room": 68011, "pairs_in_both": 68011, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0081", "method": "average link, shared weights", "pairs_in_place": 68011, "pairs_in_room": 68011, "pairs_in_both": 68011, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0081", "method": "single link, shared weights", "pairs_in_place": 68011, "pairs_in_room": 68011, "pairs_in_both": 68011, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0082", "method": "best-link rule, shared weights", "pairs_in_place": 25153, "pairs_in_room": 25153, "pairs_in_both": 25153, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0082", "method": "partition solver, shared weights", "pairs_in_place": 25153, "pairs_in_room": 25153, "pairs_in_both": 25153, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0082", "method": "average link, shared weights", "pairs_in_place": 25153, "pairs_in_room": 25153, "pairs_in_both": 25153, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0082", "method": "single link, shared weights", "pairs_in_place": 25153, "pairs_in_room": 25153, "pairs_in_both": 25153, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0083", "method": "best-link rule, shared weights", "pairs_in_place": 15016, "pairs_in_room": 15016, "pairs_in_both": 15016, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0083", "method": "partition solver, shared weights", "pairs_in_place": 15016, "pairs_in_room": 15016, "pairs_in_both": 15016, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0083", "method": "average link, shared weights", "pairs_in_place": 15016, "pairs_in_room": 15016, "pairs_in_both": 15016, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0083", "method": "single link, shared weights", "pairs_in_place": 15016, "pairs_in_room": 15016, "pairs_in_both": 15016, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0084", "method": "best-link rule, shared weights", "pairs_in_place": 67433, "pairs_in_room": 67433, "pairs_in_both": 67433, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0084", "method": "partition solver, shared weights", "pairs_in_place": 67433, "pairs_in_room": 67433, "pairs_in_both": 67433, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0084", "method": "average link, shared weights", "pairs_in_place": 67433, "pairs_in_room": 67433, "pairs_in_both": 67433, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0084", "method": "single link, shared weights", "pairs_in_place": 67433, "pairs_in_room": 67433, "pairs_in_both": 67433, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0085", "method": "best-link rule, shared weights", "pairs_in_place": 31456, "pairs_in_room": 31456, "pairs_in_both": 31456, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0085", "method": "partition solver, shared weights", "pairs_in_place": 31456, "pairs_in_room": 31456, "pairs_in_both": 31456, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0085", "method": "average link, shared weights", "pairs_in_place": 31456, "pairs_in_room": 31456, "pairs_in_both": 31456, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0085", "method": "single link, shared weights", "pairs_in_place": 31456, "pairs_in_room": 31456, "pairs_in_both": 31456, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0086", "method": "best-link rule, shared weights", "pairs_in_place": 39562, "pairs_in_room": 39562, "pairs_in_both": 39562, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0086", "method": "partition solver, shared weights", "pairs_in_place": 39562, "pairs_in_room": 39562, "pairs_in_both": 39562, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0086", "method": "average link, shared weights", "pairs_in_place": 39562, "pairs_in_room": 39562, "pairs_in_both": 39562, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0086", "method": "single link, shared weights", "pairs_in_place": 39562, "pairs_in_room": 39562, "pairs_in_both": 39562, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0087", "method": "best-link rule, shared weights", "pairs_in_place": 105745, "pairs_in_room": 105745, "pairs_in_both": 105745, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0087", "method": "partition solver, shared weights", "pairs_in_place": 105745, "pairs_in_room": 105745, "pairs_in_both": 105745, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0087", "method": "average link, shared weights", "pairs_in_place": 105745, "pairs_in_room": 105745, "pairs_in_both": 105745, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0087", "method": "single link, shared weights", "pairs_in_place": 105745, "pairs_in_room": 105745, "pairs_in_both": 105745, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0088", "method": "best-link rule, shared weights", "pairs_in_place": 89601, "pairs_in_room": 89601, "pairs_in_both": 89601, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0088", "method": "partition solver, shared weights", "pairs_in_place": 88449, "pairs_in_room": 89601, "pairs_in_both": 88449, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0088", "method": "average link, shared weights", "pairs_in_place": 88449, "pairs_in_room": 89601, "pairs_in_both": 88449, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0088", "method": "single link, shared weights", "pairs_in_place": 89601, "pairs_in_room": 89601, "pairs_in_both": 89601, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0089", "method": "best-link rule, shared weights", "pairs_in_place": 12716, "pairs_in_room": 14858, "pairs_in_both": 12716, "places": 5, "rooms": 4}
+{"stream_id": "arkit-test-0089", "method": "partition solver, shared weights", "pairs_in_place": 11814, "pairs_in_room": 14858, "pairs_in_both": 11814, "places": 6, "rooms": 4}
+{"stream_id": "arkit-test-0089", "method": "average link, shared weights", "pairs_in_place": 11814, "pairs_in_room": 14858, "pairs_in_both": 11814, "places": 6, "rooms": 4}
+{"stream_id": "arkit-test-0089", "method": "single link, shared weights", "pairs_in_place": 14858, "pairs_in_room": 14858, "pairs_in_both": 14858, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0090", "method": "best-link rule, shared weights", "pairs_in_place": 52395, "pairs_in_room": 52395, "pairs_in_both": 52395, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0090", "method": "partition solver, shared weights", "pairs_in_place": 52395, "pairs_in_room": 52395, "pairs_in_both": 52395, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0090", "method": "average link, shared weights", "pairs_in_place": 52395, "pairs_in_room": 52395, "pairs_in_both": 52395, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0090", "method": "single link, shared weights", "pairs_in_place": 52395, "pairs_in_room": 52395, "pairs_in_both": 52395, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0091", "method": "best-link rule, shared weights", "pairs_in_place": 40815, "pairs_in_room": 40815, "pairs_in_both": 40815, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0091", "method": "partition solver, shared weights", "pairs_in_place": 40815, "pairs_in_room": 40815, "pairs_in_both": 40815, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0091", "method": "average link, shared weights", "pairs_in_place": 40815, "pairs_in_room": 40815, "pairs_in_both": 40815, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0091", "method": "single link, shared weights", "pairs_in_place": 40815, "pairs_in_room": 40815, "pairs_in_both": 40815, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0092", "method": "best-link rule, shared weights", "pairs_in_place": 98922, "pairs_in_room": 108500, "pairs_in_both": 96950, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0092", "method": "partition solver, shared weights", "pairs_in_place": 98922, "pairs_in_room": 108500, "pairs_in_both": 96950, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0092", "method": "average link, shared weights", "pairs_in_place": 98922, "pairs_in_room": 108500, "pairs_in_both": 96950, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0092", "method": "single link, shared weights", "pairs_in_place": 107512, "pairs_in_room": 108500, "pairs_in_both": 97548, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0093", "method": "best-link rule, shared weights", "pairs_in_place": 35598, "pairs_in_room": 35598, "pairs_in_both": 35598, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0093", "method": "partition solver, shared weights", "pairs_in_place": 35598, "pairs_in_room": 35598, "pairs_in_both": 35598, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0093", "method": "average link, shared weights", "pairs_in_place": 35598, "pairs_in_room": 35598, "pairs_in_both": 35598, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0093", "method": "single link, shared weights", "pairs_in_place": 35598, "pairs_in_room": 35598, "pairs_in_both": 35598, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0094", "method": "best-link rule, shared weights", "pairs_in_place": 49408, "pairs_in_room": 48328, "pairs_in_both": 48328, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0094", "method": "partition solver, shared weights", "pairs_in_place": 46798, "pairs_in_room": 48328, "pairs_in_both": 46798, "places": 7, "rooms": 6}
+{"stream_id": "arkit-test-0094", "method": "average link, shared weights", "pairs_in_place": 46798, "pairs_in_room": 48328, "pairs_in_both": 46798, "places": 7, "rooms": 6}
+{"stream_id": "arkit-test-0094", "method": "single link, shared weights", "pairs_in_place": 49408, "pairs_in_room": 48328, "pairs_in_both": 48328, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0095", "method": "best-link rule, shared weights", "pairs_in_place": 116019, "pairs_in_room": 116019, "pairs_in_both": 116019, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0095", "method": "partition solver, shared weights", "pairs_in_place": 116019, "pairs_in_room": 116019, "pairs_in_both": 116019, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0095", "method": "average link, shared weights", "pairs_in_place": 116019, "pairs_in_room": 116019, "pairs_in_both": 116019, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0095", "method": "single link, shared weights", "pairs_in_place": 116019, "pairs_in_room": 116019, "pairs_in_both": 116019, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0096", "method": "best-link rule, shared weights", "pairs_in_place": 24004, "pairs_in_room": 24004, "pairs_in_both": 24004, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0096", "method": "partition solver, shared weights", "pairs_in_place": 24004, "pairs_in_room": 24004, "pairs_in_both": 24004, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0096", "method": "average link, shared weights", "pairs_in_place": 24004, "pairs_in_room": 24004, "pairs_in_both": 24004, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0096", "method": "single link, shared weights", "pairs_in_place": 24004, "pairs_in_room": 24004, "pairs_in_both": 24004, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0097", "method": "best-link rule, shared weights", "pairs_in_place": 109989, "pairs_in_room": 109989, "pairs_in_both": 109989, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0097", "method": "partition solver, shared weights", "pairs_in_place": 109989, "pairs_in_room": 109989, "pairs_in_both": 109989, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0097", "method": "average link, shared weights", "pairs_in_place": 109989, "pairs_in_room": 109989, "pairs_in_both": 109989, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0097", "method": "single link, shared weights", "pairs_in_place": 109989, "pairs_in_room": 109989, "pairs_in_both": 109989, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0098", "method": "best-link rule, shared weights", "pairs_in_place": 127572, "pairs_in_room": 127572, "pairs_in_both": 127572, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0098", "method": "partition solver, shared weights", "pairs_in_place": 127572, "pairs_in_room": 127572, "pairs_in_both": 127572, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0098", "method": "average link, shared weights", "pairs_in_place": 127572, "pairs_in_room": 127572, "pairs_in_both": 127572, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0098", "method": "single link, shared weights", "pairs_in_place": 127572, "pairs_in_room": 127572, "pairs_in_both": 127572, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0099", "method": "best-link rule, shared weights", "pairs_in_place": 50302, "pairs_in_room": 50302, "pairs_in_both": 50302, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0099", "method": "partition solver, shared weights", "pairs_in_place": 50302, "pairs_in_room": 50302, "pairs_in_both": 50302, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0099", "method": "average link, shared weights", "pairs_in_place": 50302, "pairs_in_room": 50302, "pairs_in_both": 50302, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0099", "method": "single link, shared weights", "pairs_in_place": 50302, "pairs_in_room": 50302, "pairs_in_both": 50302, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0100", "method": "best-link rule, shared weights", "pairs_in_place": 118514, "pairs_in_room": 118514, "pairs_in_both": 118514, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0100", "method": "partition solver, shared weights", "pairs_in_place": 118514, "pairs_in_room": 118514, "pairs_in_both": 118514, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0100", "method": "average link, shared weights", "pairs_in_place": 118514, "pairs_in_room": 118514, "pairs_in_both": 118514, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0100", "method": "single link, shared weights", "pairs_in_place": 118514, "pairs_in_room": 118514, "pairs_in_both": 118514, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0101", "method": "best-link rule, shared weights", "pairs_in_place": 30148, "pairs_in_room": 30148, "pairs_in_both": 30148, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0101", "method": "partition solver, shared weights", "pairs_in_place": 30148, "pairs_in_room": 30148, "pairs_in_both": 30148, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0101", "method": "average link, shared weights", "pairs_in_place": 30148, "pairs_in_room": 30148, "pairs_in_both": 30148, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0101", "method": "single link, shared weights", "pairs_in_place": 30148, "pairs_in_room": 30148, "pairs_in_both": 30148, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0102", "method": "best-link rule, shared weights", "pairs_in_place": 55246, "pairs_in_room": 43210, "pairs_in_both": 43210, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0102", "method": "partition solver, shared weights", "pairs_in_place": 55246, "pairs_in_room": 43210, "pairs_in_both": 43210, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0102", "method": "average link, shared weights", "pairs_in_place": 55246, "pairs_in_room": 43210, "pairs_in_both": 43210, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0102", "method": "single link, shared weights", "pairs_in_place": 55246, "pairs_in_room": 43210, "pairs_in_both": 43210, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0103", "method": "best-link rule, shared weights", "pairs_in_place": 24976, "pairs_in_room": 24976, "pairs_in_both": 24976, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0103", "method": "partition solver, shared weights", "pairs_in_place": 24976, "pairs_in_room": 24976, "pairs_in_both": 24976, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0103", "method": "average link, shared weights", "pairs_in_place": 24976, "pairs_in_room": 24976, "pairs_in_both": 24976, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0103", "method": "single link, shared weights", "pairs_in_place": 24976, "pairs_in_room": 24976, "pairs_in_both": 24976, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0104", "method": "best-link rule, shared weights", "pairs_in_place": 39985, "pairs_in_room": 39985, "pairs_in_both": 39985, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0104", "method": "partition solver, shared weights", "pairs_in_place": 39985, "pairs_in_room": 39985, "pairs_in_both": 39985, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0104", "method": "average link, shared weights", "pairs_in_place": 39985, "pairs_in_room": 39985, "pairs_in_both": 39985, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0104", "method": "single link, shared weights", "pairs_in_place": 39985, "pairs_in_room": 39985, "pairs_in_both": 39985, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0105", "method": "best-link rule, shared weights", "pairs_in_place": 34708, "pairs_in_room": 34708, "pairs_in_both": 34708, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0105", "method": "partition solver, shared weights", "pairs_in_place": 34708, "pairs_in_room": 34708, "pairs_in_both": 34708, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0105", "method": "average link, shared weights", "pairs_in_place": 34708, "pairs_in_room": 34708, "pairs_in_both": 34708, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0105", "method": "single link, shared weights", "pairs_in_place": 34708, "pairs_in_room": 34708, "pairs_in_both": 34708, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0106", "method": "best-link rule, shared weights", "pairs_in_place": 60552, "pairs_in_room": 60552, "pairs_in_both": 60552, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0106", "method": "partition solver, shared weights", "pairs_in_place": 60552, "pairs_in_room": 60552, "pairs_in_both": 60552, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0106", "method": "average link, shared weights", "pairs_in_place": 60552, "pairs_in_room": 60552, "pairs_in_both": 60552, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0106", "method": "single link, shared weights", "pairs_in_place": 60552, "pairs_in_room": 60552, "pairs_in_both": 60552, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0107", "method": "best-link rule, shared weights", "pairs_in_place": 18352, "pairs_in_room": 18352, "pairs_in_both": 18352, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0107", "method": "partition solver, shared weights", "pairs_in_place": 18352, "pairs_in_room": 18352, "pairs_in_both": 18352, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0107", "method": "average link, shared weights", "pairs_in_place": 18352, "pairs_in_room": 18352, "pairs_in_both": 18352, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0107", "method": "single link, shared weights", "pairs_in_place": 18352, "pairs_in_room": 18352, "pairs_in_both": 18352, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0108", "method": "best-link rule, shared weights", "pairs_in_place": 47217, "pairs_in_room": 47217, "pairs_in_both": 47217, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0108", "method": "partition solver, shared weights", "pairs_in_place": 47217, "pairs_in_room": 47217, "pairs_in_both": 47217, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0108", "method": "average link, shared weights", "pairs_in_place": 47217, "pairs_in_room": 47217, "pairs_in_both": 47217, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0108", "method": "single link, shared weights", "pairs_in_place": 47217, "pairs_in_room": 47217, "pairs_in_both": 47217, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0109", "method": "best-link rule, shared weights", "pairs_in_place": 14062, "pairs_in_room": 14062, "pairs_in_both": 14062, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0109", "method": "partition solver, shared weights", "pairs_in_place": 14062, "pairs_in_room": 14062, "pairs_in_both": 14062, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0109", "method": "average link, shared weights", "pairs_in_place": 14062, "pairs_in_room": 14062, "pairs_in_both": 14062, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0109", "method": "single link, shared weights", "pairs_in_place": 14062, "pairs_in_room": 14062, "pairs_in_both": 14062, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0001", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 11221, "pairs_in_room": 11221, "pairs_in_both": 11221, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0002", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 68479, "pairs_in_room": 68479, "pairs_in_both": 68479, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0003", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 21002, "pairs_in_room": 21002, "pairs_in_both": 21002, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0004", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 88679, "pairs_in_room": 88679, "pairs_in_both": 88679, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0005", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 8249, "pairs_in_room": 8249, "pairs_in_both": 8249, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0006", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 34948, "pairs_in_room": 48475, "pairs_in_both": 34948, "places": 7, "rooms": 6}
+{"stream_id": "arkit-test-0007", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 37986, "pairs_in_room": 26156, "pairs_in_both": 26156, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0008", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 49835, "pairs_in_room": 49835, "pairs_in_both": 49835, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0009", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 36654, "pairs_in_room": 36654, "pairs_in_both": 36654, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0010", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 151566, "pairs_in_room": 151566, "pairs_in_both": 151566, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0011", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 24986, "pairs_in_room": 24986, "pairs_in_both": 24986, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0012", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 74588, "pairs_in_room": 74588, "pairs_in_both": 74588, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0013", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 33655, "pairs_in_room": 23315, "pairs_in_both": 23315, "places": 3, "rooms": 4}
+{"stream_id": "arkit-test-0014", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 56744, "pairs_in_room": 56744, "pairs_in_both": 56744, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0015", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 98336, "pairs_in_room": 98336, "pairs_in_both": 98336, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0016", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 49710, "pairs_in_room": 45326, "pairs_in_both": 45326, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0017", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 22121, "pairs_in_room": 22121, "pairs_in_both": 22121, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0018", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 42710, "pairs_in_room": 42710, "pairs_in_both": 42710, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0019", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 23874, "pairs_in_room": 23874, "pairs_in_both": 23874, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0020", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 52956, "pairs_in_room": 52956, "pairs_in_both": 52956, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0021", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 24186, "pairs_in_room": 24186, "pairs_in_both": 24186, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0022", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 34926, "pairs_in_room": 34926, "pairs_in_both": 34926, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0023", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 26784, "pairs_in_room": 26343, "pairs_in_both": 24481, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0024", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 92804, "pairs_in_room": 92804, "pairs_in_both": 92804, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0025", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 67878, "pairs_in_room": 67878, "pairs_in_both": 67878, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0026", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 66476, "pairs_in_room": 66476, "pairs_in_both": 66476, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0027", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 27631, "pairs_in_room": 27631, "pairs_in_both": 27631, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0028", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 53954, "pairs_in_room": 53954, "pairs_in_both": 53954, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0029", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 69706, "pairs_in_room": 44716, "pairs_in_both": 44716, "places": 3, "rooms": 4}
+{"stream_id": "arkit-test-0030", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 72728, "pairs_in_room": 72728, "pairs_in_both": 72728, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0031", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 40006, "pairs_in_room": 40006, "pairs_in_both": 40006, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0032", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 46152, "pairs_in_room": 46152, "pairs_in_both": 46152, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0033", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 74554, "pairs_in_room": 74554, "pairs_in_both": 74554, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0034", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 152212, "pairs_in_room": 85500, "pairs_in_both": 85500, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0035", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 127768, "pairs_in_room": 127768, "pairs_in_both": 127768, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0036", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 67205, "pairs_in_room": 76277, "pairs_in_both": 67205, "places": 8, "rooms": 7}
+{"stream_id": "arkit-test-0037", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 21017, "pairs_in_room": 21017, "pairs_in_both": 21017, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0038", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 39973, "pairs_in_room": 39973, "pairs_in_both": 39973, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0039", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 71989, "pairs_in_room": 50565, "pairs_in_both": 50565, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0040", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 32432, "pairs_in_room": 32432, "pairs_in_both": 32432, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0041", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 23671, "pairs_in_room": 23671, "pairs_in_both": 23671, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0042", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 105271, "pairs_in_room": 105271, "pairs_in_both": 105271, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0043", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 60767, "pairs_in_room": 60767, "pairs_in_both": 60767, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0044", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 59129, "pairs_in_room": 54447, "pairs_in_both": 54357, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0045", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 57481, "pairs_in_room": 57481, "pairs_in_both": 57481, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0046", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 40060, "pairs_in_room": 33622, "pairs_in_both": 33622, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0047", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 33540, "pairs_in_room": 33540, "pairs_in_both": 33540, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0048", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 44237, "pairs_in_room": 44237, "pairs_in_both": 44237, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0049", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 46752, "pairs_in_room": 46752, "pairs_in_both": 46752, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0050", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 57547, "pairs_in_room": 57547, "pairs_in_both": 57547, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0051", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 46560, "pairs_in_room": 46560, "pairs_in_both": 46560, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0052", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 108416, "pairs_in_room": 108416, "pairs_in_both": 108416, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0053", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 26501, "pairs_in_room": 26501, "pairs_in_both": 26501, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0054", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 85657, "pairs_in_room": 85657, "pairs_in_both": 85657, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0055", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 20381, "pairs_in_room": 18140, "pairs_in_both": 18140, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0056", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 50197, "pairs_in_room": 46069, "pairs_in_both": 43909, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0057", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 29968, "pairs_in_room": 29968, "pairs_in_both": 29968, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0058", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 66273, "pairs_in_room": 66273, "pairs_in_both": 66273, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0059", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 57139, "pairs_in_room": 57139, "pairs_in_both": 57139, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0060", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 50376, "pairs_in_room": 48846, "pairs_in_both": 48846, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0061", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 165614, "pairs_in_room": 165614, "pairs_in_both": 165614, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0062", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 63427, "pairs_in_room": 63427, "pairs_in_both": 63427, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0063", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 94619, "pairs_in_room": 96863, "pairs_in_both": 65843, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0064", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 22875, "pairs_in_room": 22887, "pairs_in_both": 22455, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0065", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 120325, "pairs_in_room": 120325, "pairs_in_both": 120325, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0066", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 52567, "pairs_in_room": 52567, "pairs_in_both": 52567, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0067", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 16443, "pairs_in_room": 16443, "pairs_in_both": 16443, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0068", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 128005, "pairs_in_room": 128005, "pairs_in_both": 128005, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0069", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 22452, "pairs_in_room": 22452, "pairs_in_both": 22452, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0070", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 143510, "pairs_in_room": 143510, "pairs_in_both": 143510, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0071", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 39077, "pairs_in_room": 28088, "pairs_in_both": 26003, "places": 4, "rooms": 5}
+{"stream_id": "arkit-test-0072", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 82020, "pairs_in_room": 73419, "pairs_in_both": 73419, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0073", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 113761, "pairs_in_room": 113761, "pairs_in_both": 113761, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0074", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 36075, "pairs_in_room": 36075, "pairs_in_both": 36075, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0075", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 42175, "pairs_in_room": 42175, "pairs_in_both": 42175, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0076", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 35004, "pairs_in_room": 35004, "pairs_in_both": 35004, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0077", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 46717, "pairs_in_room": 46717, "pairs_in_both": 46717, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0078", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 49630, "pairs_in_room": 49630, "pairs_in_both": 49630, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0079", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 17748, "pairs_in_room": 17748, "pairs_in_both": 17748, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0080", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 97338, "pairs_in_room": 97338, "pairs_in_both": 97338, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0081", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 68011, "pairs_in_room": 68011, "pairs_in_both": 68011, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0082", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 25153, "pairs_in_room": 25153, "pairs_in_both": 25153, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0083", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 15016, "pairs_in_room": 15016, "pairs_in_both": 15016, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0084", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 67433, "pairs_in_room": 67433, "pairs_in_both": 67433, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0085", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 31456, "pairs_in_room": 31456, "pairs_in_both": 31456, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0086", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 39562, "pairs_in_room": 39562, "pairs_in_both": 39562, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0087", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 105745, "pairs_in_room": 105745, "pairs_in_both": 105745, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0088", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 101761, "pairs_in_room": 89601, "pairs_in_both": 89601, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0089", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 14858, "pairs_in_room": 14858, "pairs_in_both": 14858, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0090", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 52395, "pairs_in_room": 52395, "pairs_in_both": 52395, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0091", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 40815, "pairs_in_room": 40815, "pairs_in_both": 40815, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0092", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 109874, "pairs_in_room": 108500, "pairs_in_both": 107902, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0093", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 35598, "pairs_in_room": 35598, "pairs_in_both": 35598, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0094", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 49408, "pairs_in_room": 48328, "pairs_in_both": 48328, "places": 5, "rooms": 6}
+{"stream_id": "arkit-test-0095", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 116019, "pairs_in_room": 116019, "pairs_in_both": 116019, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0096", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 29764, "pairs_in_room": 24004, "pairs_in_both": 24004, "places": 6, "rooms": 7}
+{"stream_id": "arkit-test-0097", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 109989, "pairs_in_room": 109989, "pairs_in_both": 109989, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0098", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 127572, "pairs_in_room": 127572, "pairs_in_both": 127572, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0099", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 50302, "pairs_in_room": 50302, "pairs_in_both": 50302, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0100", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 118514, "pairs_in_room": 118514, "pairs_in_both": 118514, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0101", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 30148, "pairs_in_room": 30148, "pairs_in_both": 30148, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0102", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 43210, "pairs_in_room": 43210, "pairs_in_both": 43210, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0103", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 24976, "pairs_in_room": 24976, "pairs_in_both": 24976, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0104", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 39985, "pairs_in_room": 39985, "pairs_in_both": 39985, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0105", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 34708, "pairs_in_room": 34708, "pairs_in_both": 34708, "places": 4, "rooms": 4}
+{"stream_id": "arkit-test-0106", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 60552, "pairs_in_room": 60552, "pairs_in_both": 60552, "places": 6, "rooms": 6}
+{"stream_id": "arkit-test-0107", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 18352, "pairs_in_room": 18352, "pairs_in_both": 18352, "places": 5, "rooms": 5}
+{"stream_id": "arkit-test-0108", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 47217, "pairs_in_room": 47217, "pairs_in_both": 47217, "places": 7, "rooms": 7}
+{"stream_id": "arkit-test-0109", "method": "PlaceTally with MegaLoc returns", "pairs_in_place": 14062, "pairs_in_room": 14062, "pairs_in_both": 14062, "places": 4, "rooms": 4}

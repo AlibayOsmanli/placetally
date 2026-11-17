@@ -1,0 +1,400 @@
+{"stream_id": "arkit-test-0004", "category": "table", "method": "PlaceTally, 16 frames per place", "gpu_s": 16.2233951613307}
+{"stream_id": "arkit-test-0011", "category": "bed", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.0486730448901653}
+{"stream_id": "arkit-test-0017", "category": "stool", "method": "PlaceTally, 16 frames per place", "gpu_s": 1.618400590494275}
+{"stream_id": "arkit-test-0020", "category": "table", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.834976226091385}
+{"stream_id": "arkit-test-0021", "category": "stool", "method": "PlaceTally, 16 frames per place", "gpu_s": 1.6066191885620356}
+{"stream_id": "arkit-test-0025", "category": "oven", "method": "PlaceTally, 16 frames per place", "gpu_s": 1.616851817816496}
+{"stream_id": "arkit-test-0026", "category": "refrigerator", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.8297693096101284}
+{"stream_id": "arkit-test-0026", "category": "sink", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.7936356011778116}
+{"stream_id": "arkit-test-0033", "category": "sink", "method": "PlaceTally, 16 frames per place", "gpu_s": 1.6097536515444517}
+{"stream_id": "arkit-test-0035", "category": "chair", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.0066466834396124}
+{"stream_id": "arkit-test-0038", "category": "chair", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.412291031330824}
+{"stream_id": "arkit-test-0040", "category": "refrigerator", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.8440913930535316}
+{"stream_id": "arkit-test-0040", "category": "sofa", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.7928102519363165}
+{"stream_id": "arkit-test-0040", "category": "tv_monitor", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.7991611286997795}
+{"stream_id": "arkit-test-0040", "category": "washer", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.8039996195584536}
+{"stream_id": "arkit-test-0044", "category": "sink", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.4276074822992086}
+{"stream_id": "arkit-test-0044", "category": "tv_monitor", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.3939152359962463}
+{"stream_id": "arkit-test-0044", "category": "washer", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.41182061098516}
+{"stream_id": "arkit-test-0045", "category": "bed", "method": "PlaceTally, 16 frames per place", "gpu_s": 1.626146625727415}
+{"stream_id": "arkit-test-0053", "category": "toilet", "method": "PlaceTally, 16 frames per place", "gpu_s": 1.608995035290718}
+{"stream_id": "arkit-test-0054", "category": "washer", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.4528050012886524}
+{"stream_id": "arkit-test-0056", "category": "tv_monitor", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.865485182031989}
+{"stream_id": "arkit-test-0061", "category": "fireplace", "method": "PlaceTally, 16 frames per place", "gpu_s": 1.626020284369588}
+{"stream_id": "arkit-test-0061", "category": "oven", "method": "PlaceTally, 16 frames per place", "gpu_s": 1.5850825067609549}
+{"stream_id": "arkit-test-0062", "category": "table", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.4242825750261545}
+{"stream_id": "arkit-test-0065", "category": "sofa", "method": "PlaceTally, 16 frames per place", "gpu_s": 1.6206317655742168}
+{"stream_id": "arkit-test-0066", "category": "toilet", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.443380292505026}
+{"stream_id": "arkit-test-0070", "category": "chair", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.4467403069138527}
+{"stream_id": "arkit-test-0071", "category": "chair", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.045173203572631}
+{"stream_id": "arkit-test-0072", "category": "stool", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.4148772936314344}
+{"stream_id": "arkit-test-0075", "category": "stove", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.0485515613108873}
+{"stream_id": "arkit-test-0081", "category": "bed", "method": "PlaceTally, 16 frames per place", "gpu_s": 1.7241302337497473}
+{"stream_id": "arkit-test-0084", "category": "oven", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.8378805220127106}
+{"stream_id": "arkit-test-0084", "category": "sink", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.818362144753337}
+{"stream_id": "arkit-test-0086", "category": "fireplace", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.4822664838284254}
+{"stream_id": "arkit-test-0087", "category": "table", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.037238923832774}
+{"stream_id": "arkit-test-0089", "category": "toilet", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.0087231919169426}
+{"stream_id": "arkit-test-0090", "category": "bed", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.428549012169242}
+{"stream_id": "arkit-test-0090", "category": "stove", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.4212103728204966}
+{"stream_id": "arkit-test-0091", "category": "bed", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.0372646749019623}
+{"stream_id": "arkit-test-0091", "category": "tv_monitor", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.0162378437817097}
+{"stream_id": "arkit-test-0092", "category": "tv_monitor", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.8645493052899837}
+{"stream_id": "arkit-test-0093", "category": "sink", "method": "PlaceTally, 16 frames per place", "gpu_s": 1.6087463162839413}
+{"stream_id": "arkit-test-0094", "category": "chair", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.040224591270089}
+{"stream_id": "arkit-test-0098", "category": "refrigerator", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.4310720153152943}
+{"stream_id": "arkit-test-0099", "category": "sofa", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.439875965937972}
+{"stream_id": "arkit-test-0102", "category": "fireplace", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.441747823730111}
+{"stream_id": "arkit-test-0102", "category": "sofa", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.4262104872614145}
+{"stream_id": "arkit-test-0107", "category": "bathtub", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.0654721669852734}
+{"stream_id": "arkit-test-0108", "category": "bathtub", "method": "PlaceTally, 16 frames per place", "gpu_s": 2.8571296092122793}
+{"stream_id": "arkit-test-0004", "category": "table", "method": "PlaceTally, 32 frames per place", "gpu_s": 5.040936220437288}
+{"stream_id": "arkit-test-0011", "category": "bed", "method": "PlaceTally, 32 frames per place", "gpu_s": 3.568141806870699}
+{"stream_id": "arkit-test-0017", "category": "stool", "method": "PlaceTally, 32 frames per place", "gpu_s": 2.860931882634759}
+{"stream_id": "arkit-test-0020", "category": "table", "method": "PlaceTally, 32 frames per place", "gpu_s": 5.032341860234737}
+{"stream_id": "arkit-test-0021", "category": "stool", "method": "PlaceTally, 32 frames per place", "gpu_s": 2.861614666879177}
+{"stream_id": "arkit-test-0025", "category": "oven", "method": "PlaceTally, 32 frames per place", "gpu_s": 3.2571213096380234}
+{"stream_id": "arkit-test-0026", "category": "refrigerator", "method": "PlaceTally, 32 frames per place", "gpu_s": 5.099133616313338}
+{"stream_id": "arkit-test-0026", "category": "sink", "method": "PlaceTally, 32 frames per place", "gpu_s": 4.972802601754665}
+{"stream_id": "arkit-test-0033", "category": "sink", "method": "PlaceTally, 32 frames per place", "gpu_s": 2.8582395184785128}
+{"stream_id": "arkit-test-0035", "category": "chair", "method": "PlaceTally, 32 frames per place", "gpu_s": 3.3689842224121094}
+{"stream_id": "arkit-test-0038", "category": "chair", "method": "PlaceTally, 32 frames per place", "gpu_s": 4.27820167131722}
+{"stream_id": "arkit-test-0040", "category": "refrigerator", "method": "PlaceTally, 32 frames per place", "gpu_s": 5.016503123566508}
+{"stream_id": "arkit-test-0040", "category": "sofa", "method": "PlaceTally, 32 frames per place", "gpu_s": 5.0212985817343}
+{"stream_id": "arkit-test-0040", "category": "tv_monitor", "method": "PlaceTally, 32 frames per place", "gpu_s": 4.976615488529205}
+{"stream_id": "arkit-test-0040", "category": "washer", "method": "PlaceTally, 32 frames per place", "gpu_s": 4.961256286129355}
+{"stream_id": "arkit-test-0044", "category": "sink", "method": "PlaceTally, 32 frames per place", "gpu_s": 4.324967639520764}
+{"stream_id": "arkit-test-0044", "category": "tv_monitor", "method": "PlaceTally, 32 frames per place", "gpu_s": 4.259393939748406}
+{"stream_id": "arkit-test-0044", "category": "washer", "method": "PlaceTally, 32 frames per place", "gpu_s": 4.2481171283870935}
+{"stream_id": "arkit-test-0045", "category": "bed", "method": "PlaceTally, 32 frames per place", "gpu_s": 2.864846644923091}
+{"stream_id": "arkit-test-0053", "category": "toilet", "method": "PlaceTally, 32 frames per place", "gpu_s": 2.8740493040531874}
+{"stream_id": "arkit-test-0054", "category": "washer", "method": "PlaceTally, 32 frames per place", "gpu_s": 4.303382635116577}
+{"stream_id": "arkit-test-0056", "category": "tv_monitor", "method": "PlaceTally, 32 frames per place", "gpu_s": 5.0109534393996}
+{"stream_id": "arkit-test-0061", "category": "fireplace", "method": "PlaceTally, 32 frames per place", "gpu_s": 2.8540572859346867}
+{"stream_id": "arkit-test-0061", "category": "oven", "method": "PlaceTally, 32 frames per place", "gpu_s": 2.8308617547154427}
+{"stream_id": "arkit-test-0062", "category": "table", "method": "PlaceTally, 32 frames per place", "gpu_s": 4.2965791039168835}
+{"stream_id": "arkit-test-0065", "category": "sofa", "method": "PlaceTally, 32 frames per place", "gpu_s": 2.8579952623695135}
+{"stream_id": "arkit-test-0066", "category": "toilet", "method": "PlaceTally, 32 frames per place", "gpu_s": 4.301170224323869}
+{"stream_id": "arkit-test-0070", "category": "chair", "method": "PlaceTally, 32 frames per place", "gpu_s": 4.22629308514297}
+{"stream_id": "arkit-test-0071", "category": "chair", "method": "PlaceTally, 32 frames per place", "gpu_s": 3.6542160883545876}
+{"stream_id": "arkit-test-0072", "category": "stool", "method": "PlaceTally, 32 frames per place", "gpu_s": 4.276432856917381}
+{"stream_id": "arkit-test-0075", "category": "stove", "method": "PlaceTally, 32 frames per place", "gpu_s": 3.7448193803429604}
+{"stream_id": "arkit-test-0081", "category": "bed", "method": "PlaceTally, 32 frames per place", "gpu_s": 2.8578737527132034}
+{"stream_id": "arkit-test-0084", "category": "oven", "method": "PlaceTally, 32 frames per place", "gpu_s": 4.718073012307286}
+{"stream_id": "arkit-test-0084", "category": "sink", "method": "PlaceTally, 32 frames per place", "gpu_s": 4.652405399829149}
+{"stream_id": "arkit-test-0086", "category": "fireplace", "method": "PlaceTally, 32 frames per place", "gpu_s": 4.32078823633492}
+{"stream_id": "arkit-test-0087", "category": "table", "method": "PlaceTally, 32 frames per place", "gpu_s": 3.7960584685206413}
+{"stream_id": "arkit-test-0089", "category": "toilet", "method": "PlaceTally, 32 frames per place", "gpu_s": 3.5510136280208826}
+{"stream_id": "arkit-test-0090", "category": "bed", "method": "PlaceTally, 32 frames per place", "gpu_s": 4.291508616879582}
+{"stream_id": "arkit-test-0090", "category": "stove", "method": "PlaceTally, 32 frames per place", "gpu_s": 4.24281950481236}
+{"stream_id": "arkit-test-0091", "category": "bed", "method": "PlaceTally, 32 frames per place", "gpu_s": 3.8046196047216654}
+{"stream_id": "arkit-test-0091", "category": "tv_monitor", "method": "PlaceTally, 32 frames per place", "gpu_s": 3.5364333111792803}
+{"stream_id": "arkit-test-0092", "category": "tv_monitor", "method": "PlaceTally, 32 frames per place", "gpu_s": 4.7271541971713305}
+{"stream_id": "arkit-test-0093", "category": "sink", "method": "PlaceTally, 32 frames per place", "gpu_s": 2.89617470651865}
+{"stream_id": "arkit-test-0094", "category": "chair", "method": "PlaceTally, 32 frames per place", "gpu_s": 3.5686295740306377}
+{"stream_id": "arkit-test-0098", "category": "refrigerator", "method": "PlaceTally, 32 frames per place", "gpu_s": 4.3155582174658775}
+{"stream_id": "arkit-test-0099", "category": "sofa", "method": "PlaceTally, 32 frames per place", "gpu_s": 4.316465247422457}
+{"stream_id": "arkit-test-0102", "category": "fireplace", "method": "PlaceTally, 32 frames per place", "gpu_s": 4.312317470088601}
+{"stream_id": "arkit-test-0102", "category": "sofa", "method": "PlaceTally, 32 frames per place", "gpu_s": 4.2339491453021765}
+{"stream_id": "arkit-test-0107", "category": "bathtub", "method": "PlaceTally, 32 frames per place", "gpu_s": 3.569675186648965}
+{"stream_id": "arkit-test-0108", "category": "bathtub", "method": "PlaceTally, 32 frames per place", "gpu_s": 5.003920132294297}
+{"stream_id": "arkit-test-0004", "category": "table", "method": "PlaceTally, 64 frames per place", "gpu_s": 8.615046489983797}
+{"stream_id": "arkit-test-0011", "category": "bed", "method": "PlaceTally, 64 frames per place", "gpu_s": 6.262241309508681}
+{"stream_id": "arkit-test-0017", "category": "stool", "method": "PlaceTally, 64 frames per place", "gpu_s": 5.285377452149987}
+{"stream_id": "arkit-test-0020", "category": "table", "method": "PlaceTally, 64 frames per place", "gpu_s": 9.300121093168855}
+{"stream_id": "arkit-test-0021", "category": "stool", "method": "PlaceTally, 64 frames per place", "gpu_s": 5.121083166450262}
+{"stream_id": "arkit-test-0025", "category": "oven", "method": "PlaceTally, 64 frames per place", "gpu_s": 5.363487651571631}
+{"stream_id": "arkit-test-0026", "category": "refrigerator", "method": "PlaceTally, 64 frames per place", "gpu_s": 8.34568152204156}
+{"stream_id": "arkit-test-0026", "category": "sink", "method": "PlaceTally, 64 frames per place", "gpu_s": 8.40871074795723}
+{"stream_id": "arkit-test-0033", "category": "sink", "method": "PlaceTally, 64 frames per place", "gpu_s": 5.367344172671437}
+{"stream_id": "arkit-test-0035", "category": "chair", "method": "PlaceTally, 64 frames per place", "gpu_s": 5.758216368034482}
+{"stream_id": "arkit-test-0038", "category": "chair", "method": "PlaceTally, 64 frames per place", "gpu_s": 7.48394600301981}
+{"stream_id": "arkit-test-0040", "category": "refrigerator", "method": "PlaceTally, 64 frames per place", "gpu_s": 8.240726036950946}
+{"stream_id": "arkit-test-0040", "category": "sofa", "method": "PlaceTally, 64 frames per place", "gpu_s": 8.195702068507671}
+{"stream_id": "arkit-test-0040", "category": "tv_monitor", "method": "PlaceTally, 64 frames per place", "gpu_s": 8.09122609347105}
+{"stream_id": "arkit-test-0040", "category": "washer", "method": "PlaceTally, 64 frames per place", "gpu_s": 8.047553263604641}
+{"stream_id": "arkit-test-0044", "category": "sink", "method": "PlaceTally, 64 frames per place", "gpu_s": 8.067298980429769}
+{"stream_id": "arkit-test-0044", "category": "tv_monitor", "method": "PlaceTally, 64 frames per place", "gpu_s": 8.008401911705732}
+{"stream_id": "arkit-test-0044", "category": "washer", "method": "PlaceTally, 64 frames per place", "gpu_s": 7.960569333285093}
+{"stream_id": "arkit-test-0045", "category": "bed", "method": "PlaceTally, 64 frames per place", "gpu_s": 5.2581341322511435}
+{"stream_id": "arkit-test-0053", "category": "toilet", "method": "PlaceTally, 64 frames per place", "gpu_s": 5.356299363076687}
+{"stream_id": "arkit-test-0054", "category": "washer", "method": "PlaceTally, 64 frames per place", "gpu_s": 7.989850362762809}
+{"stream_id": "arkit-test-0056", "category": "tv_monitor", "method": "PlaceTally, 64 frames per place", "gpu_s": 8.74363163486123}
+{"stream_id": "arkit-test-0061", "category": "fireplace", "method": "PlaceTally, 64 frames per place", "gpu_s": 5.3900676146149635}
+{"stream_id": "arkit-test-0061", "category": "oven", "method": "PlaceTally, 64 frames per place", "gpu_s": 5.321763336658478}
+{"stream_id": "arkit-test-0062", "category": "table", "method": "PlaceTally, 64 frames per place", "gpu_s": 8.01478718034923}
+{"stream_id": "arkit-test-0065", "category": "sofa", "method": "PlaceTally, 64 frames per place", "gpu_s": 5.551745843142271}
+{"stream_id": "arkit-test-0066", "category": "toilet", "method": "PlaceTally, 64 frames per place", "gpu_s": 8.11960238404572}
+{"stream_id": "arkit-test-0070", "category": "chair", "method": "PlaceTally, 64 frames per place", "gpu_s": 6.943058950826526}
+{"stream_id": "arkit-test-0071", "category": "chair", "method": "PlaceTally, 64 frames per place", "gpu_s": 6.71674731746316}
+{"stream_id": "arkit-test-0072", "category": "stool", "method": "PlaceTally, 64 frames per place", "gpu_s": 8.435729695484042}
+{"stream_id": "arkit-test-0075", "category": "stove", "method": "PlaceTally, 64 frames per place", "gpu_s": 6.06833584792912}
+{"stream_id": "arkit-test-0081", "category": "bed", "method": "PlaceTally, 64 frames per place", "gpu_s": 5.613658068701625}
+{"stream_id": "arkit-test-0084", "category": "oven", "method": "PlaceTally, 64 frames per place", "gpu_s": 8.45771593041718}
+{"stream_id": "arkit-test-0084", "category": "sink", "method": "PlaceTally, 64 frames per place", "gpu_s": 7.957406988367438}
+{"stream_id": "arkit-test-0086", "category": "fireplace", "method": "PlaceTally, 64 frames per place", "gpu_s": 8.140362355858088}
+{"stream_id": "arkit-test-0087", "category": "table", "method": "PlaceTally, 64 frames per place", "gpu_s": 6.358714420348406}
+{"stream_id": "arkit-test-0089", "category": "toilet", "method": "PlaceTally, 64 frames per place", "gpu_s": 5.389787832275033}
+{"stream_id": "arkit-test-0090", "category": "bed", "method": "PlaceTally, 64 frames per place", "gpu_s": 7.341714421287179}
+{"stream_id": "arkit-test-0090", "category": "stove", "method": "PlaceTally, 64 frames per place", "gpu_s": 7.3041405733674765}
+{"stream_id": "arkit-test-0091", "category": "bed", "method": "PlaceTally, 64 frames per place", "gpu_s": 6.094465516507626}
+{"stream_id": "arkit-test-0091", "category": "tv_monitor", "method": "PlaceTally, 64 frames per place", "gpu_s": 6.044301006942987}
+{"stream_id": "arkit-test-0092", "category": "tv_monitor", "method": "PlaceTally, 64 frames per place", "gpu_s": 7.879092086106539}
+{"stream_id": "arkit-test-0093", "category": "sink", "method": "PlaceTally, 64 frames per place", "gpu_s": 5.3861562721431255}
+{"stream_id": "arkit-test-0094", "category": "chair", "method": "PlaceTally, 64 frames per place", "gpu_s": 6.582675367593765}
+{"stream_id": "arkit-test-0098", "category": "refrigerator", "method": "PlaceTally, 64 frames per place", "gpu_s": 8.191127467900515}
+{"stream_id": "arkit-test-0099", "category": "sofa", "method": "PlaceTally, 64 frames per place", "gpu_s": 7.226993290707469}
+{"stream_id": "arkit-test-0102", "category": "fireplace", "method": "PlaceTally, 64 frames per place", "gpu_s": 7.609312683343887}
+{"stream_id": "arkit-test-0102", "category": "sofa", "method": "PlaceTally, 64 frames per place", "gpu_s": 7.632081087678671}
+{"stream_id": "arkit-test-0107", "category": "bathtub", "method": "PlaceTally, 64 frames per place", "gpu_s": 5.953173376619816}
+{"stream_id": "arkit-test-0108", "category": "bathtub", "method": "PlaceTally, 64 frames per place", "gpu_s": 9.403651440516114}
+{"stream_id": "arkit-test-0004", "category": "table", "method": "PlaceTally, 128 frames per place", "gpu_s": 12.622874811291695}
+{"stream_id": "arkit-test-0011", "category": "bed", "method": "PlaceTally, 128 frames per place", "gpu_s": 9.02011870406568}
+{"stream_id": "arkit-test-0017", "category": "stool", "method": "PlaceTally, 128 frames per place", "gpu_s": 8.33640386722982}
+{"stream_id": "arkit-test-0020", "category": "table", "method": "PlaceTally, 128 frames per place", "gpu_s": 13.901751836761832}
+{"stream_id": "arkit-test-0021", "category": "stool", "method": "PlaceTally, 128 frames per place", "gpu_s": 7.947319533675909}
+{"stream_id": "arkit-test-0025", "category": "oven", "method": "PlaceTally, 128 frames per place", "gpu_s": 8.708048962056637}
+{"stream_id": "arkit-test-0026", "category": "refrigerator", "method": "PlaceTally, 128 frames per place", "gpu_s": 12.545676795765758}
+{"stream_id": "arkit-test-0026", "category": "sink", "method": "PlaceTally, 128 frames per place", "gpu_s": 12.45604088716209}
+{"stream_id": "arkit-test-0033", "category": "sink", "method": "PlaceTally, 128 frames per place", "gpu_s": 9.472662772983313}
+{"stream_id": "arkit-test-0035", "category": "chair", "method": "PlaceTally, 128 frames per place", "gpu_s": 9.470270983874798}
+{"stream_id": "arkit-test-0038", "category": "chair", "method": "PlaceTally, 128 frames per place", "gpu_s": 13.21190051175654}
+{"stream_id": "arkit-test-0040", "category": "refrigerator", "method": "PlaceTally, 128 frames per place", "gpu_s": 12.177754946053028}
+{"stream_id": "arkit-test-0040", "category": "sofa", "method": "PlaceTally, 128 frames per place", "gpu_s": 12.094412254169583}
+{"stream_id": "arkit-test-0040", "category": "tv_monitor", "method": "PlaceTally, 128 frames per place", "gpu_s": 12.050058327615261}
+{"stream_id": "arkit-test-0040", "category": "washer", "method": "PlaceTally, 128 frames per place", "gpu_s": 12.098355036228895}
+{"stream_id": "arkit-test-0044", "category": "sink", "method": "PlaceTally, 128 frames per place", "gpu_s": 13.452336428686976}
+{"stream_id": "arkit-test-0044", "category": "tv_monitor", "method": "PlaceTally, 128 frames per place", "gpu_s": 13.17511647567153}
+{"stream_id": "arkit-test-0044", "category": "washer", "method": "PlaceTally, 128 frames per place", "gpu_s": 13.171681638807058}
+{"stream_id": "arkit-test-0045", "category": "bed", "method": "PlaceTally, 128 frames per place", "gpu_s": 7.350305147469044}
+{"stream_id": "arkit-test-0053", "category": "toilet", "method": "PlaceTally, 128 frames per place", "gpu_s": 9.596829943358898}
+{"stream_id": "arkit-test-0054", "category": "washer", "method": "PlaceTally, 128 frames per place", "gpu_s": 14.001329677179456}
+{"stream_id": "arkit-test-0056", "category": "tv_monitor", "method": "PlaceTally, 128 frames per place", "gpu_s": 13.704708920791745}
+{"stream_id": "arkit-test-0061", "category": "fireplace", "method": "PlaceTally, 128 frames per place", "gpu_s": 9.64739210344851}
+{"stream_id": "arkit-test-0061", "category": "oven", "method": "PlaceTally, 128 frames per place", "gpu_s": 9.541624829173088}
+{"stream_id": "arkit-test-0062", "category": "table", "method": "PlaceTally, 128 frames per place", "gpu_s": 13.529983723536134}
+{"stream_id": "arkit-test-0065", "category": "sofa", "method": "PlaceTally, 128 frames per place", "gpu_s": 8.665401319041848}
+{"stream_id": "arkit-test-0066", "category": "toilet", "method": "PlaceTally, 128 frames per place", "gpu_s": 13.497022977098823}
+{"stream_id": "arkit-test-0070", "category": "chair", "method": "PlaceTally, 128 frames per place", "gpu_s": 11.006115075200796}
+{"stream_id": "arkit-test-0071", "category": "chair", "method": "PlaceTally, 128 frames per place", "gpu_s": 10.277461994439363}
+{"stream_id": "arkit-test-0072", "category": "stool", "method": "PlaceTally, 128 frames per place", "gpu_s": 13.718204259872437}
+{"stream_id": "arkit-test-0075", "category": "stove", "method": "PlaceTally, 128 frames per place", "gpu_s": 9.507592620328069}
+{"stream_id": "arkit-test-0081", "category": "bed", "method": "PlaceTally, 128 frames per place", "gpu_s": 9.939153611660004}
+{"stream_id": "arkit-test-0084", "category": "oven", "method": "PlaceTally, 128 frames per place", "gpu_s": 11.827570056542754}
+{"stream_id": "arkit-test-0084", "category": "sink", "method": "PlaceTally, 128 frames per place", "gpu_s": 11.714621163904667}
+{"stream_id": "arkit-test-0086", "category": "fireplace", "method": "PlaceTally, 128 frames per place", "gpu_s": 13.285712100565434}
+{"stream_id": "arkit-test-0087", "category": "table", "method": "PlaceTally, 128 frames per place", "gpu_s": 10.907036311924458}
+{"stream_id": "arkit-test-0089", "category": "toilet", "method": "PlaceTally, 128 frames per place", "gpu_s": 6.591321419924498}
+{"stream_id": "arkit-test-0090", "category": "bed", "method": "PlaceTally, 128 frames per place", "gpu_s": 11.18915419653058}
+{"stream_id": "arkit-test-0090", "category": "stove", "method": "PlaceTally, 128 frames per place", "gpu_s": 11.111489487811923}
+{"stream_id": "arkit-test-0091", "category": "bed", "method": "PlaceTally, 128 frames per place", "gpu_s": 9.08706128038466}
+{"stream_id": "arkit-test-0091", "category": "tv_monitor", "method": "PlaceTally, 128 frames per place", "gpu_s": 9.046422665938735}
+{"stream_id": "arkit-test-0092", "category": "tv_monitor", "method": "PlaceTally, 128 frames per place", "gpu_s": 13.26434283144772}
+{"stream_id": "arkit-test-0093", "category": "sink", "method": "PlaceTally, 128 frames per place", "gpu_s": 9.44512495584786}
+{"stream_id": "arkit-test-0094", "category": "chair", "method": "PlaceTally, 128 frames per place", "gpu_s": 10.212070122361183}
+{"stream_id": "arkit-test-0098", "category": "refrigerator", "method": "PlaceTally, 128 frames per place", "gpu_s": 13.550017343834043}
+{"stream_id": "arkit-test-0099", "category": "sofa", "method": "PlaceTally, 128 frames per place", "gpu_s": 9.435507759451866}
+{"stream_id": "arkit-test-0102", "category": "fireplace", "method": "PlaceTally, 128 frames per place", "gpu_s": 11.19899121299386}
+{"stream_id": "arkit-test-0102", "category": "sofa", "method": "PlaceTally, 128 frames per place", "gpu_s": 11.16492585092783}
+{"stream_id": "arkit-test-0107", "category": "bathtub", "method": "PlaceTally, 128 frames per place", "gpu_s": 8.52235709875822}
+{"stream_id": "arkit-test-0108", "category": "bathtub", "method": "PlaceTally, 128 frames per place", "gpu_s": 14.598998792469501}
+{"stream_id": "arkit-test-0004", "category": "table", "method": "whole-video reading", "gpu_s": 29.198907235637307}
+{"stream_id": "arkit-test-0011", "category": "bed", "method": "whole-video reading", "gpu_s": 9.852760293520987}
+{"stream_id": "arkit-test-0017", "category": "stool", "method": "whole-video reading", "gpu_s": 8.058512149378657}
+{"stream_id": "arkit-test-0020", "category": "table", "method": "whole-video reading", "gpu_s": 18.167497125454247}
+{"stream_id": "arkit-test-0021", "category": "stool", "method": "whole-video reading", "gpu_s": 8.518538114614785}
+{"stream_id": "arkit-test-0025", "category": "oven", "method": "whole-video reading", "gpu_s": 14.38208755850792}
+{"stream_id": "arkit-test-0026", "category": "refrigerator", "method": "whole-video reading", "gpu_s": 17.075769731774926}
+{"stream_id": "arkit-test-0026", "category": "sink", "method": "whole-video reading", "gpu_s": 17.028407583013177}
+{"stream_id": "arkit-test-0033", "category": "sink", "method": "whole-video reading", "gpu_s": 15.836822403594851}
+{"stream_id": "arkit-test-0035", "category": "chair", "method": "whole-video reading", "gpu_s": 20.567172390408814}
+{"stream_id": "arkit-test-0038", "category": "chair", "method": "whole-video reading", "gpu_s": 14.679073924198747}
+{"stream_id": "arkit-test-0040", "category": "refrigerator", "method": "whole-video reading", "gpu_s": 13.551057111471891}
+{"stream_id": "arkit-test-0040", "category": "sofa", "method": "whole-video reading", "gpu_s": 13.483457753434777}
+{"stream_id": "arkit-test-0040", "category": "tv_monitor", "method": "whole-video reading", "gpu_s": 13.3965587252751}
+{"stream_id": "arkit-test-0040", "category": "washer", "method": "whole-video reading", "gpu_s": 13.476122762076557}
+{"stream_id": "arkit-test-0044", "category": "sink", "method": "whole-video reading", "gpu_s": 18.391891264356673}
+{"stream_id": "arkit-test-0044", "category": "tv_monitor", "method": "whole-video reading", "gpu_s": 18.35284242965281}
+{"stream_id": "arkit-test-0044", "category": "washer", "method": "whole-video reading", "gpu_s": 18.191666108556092}
+{"stream_id": "arkit-test-0045", "category": "bed", "method": "whole-video reading", "gpu_s": 11.284879948943853}
+{"stream_id": "arkit-test-0053", "category": "toilet", "method": "whole-video reading", "gpu_s": 9.629577381536365}
+{"stream_id": "arkit-test-0054", "category": "washer", "method": "whole-video reading", "gpu_s": 21.760950146242976}
+{"stream_id": "arkit-test-0056", "category": "tv_monitor", "method": "whole-video reading", "gpu_s": 17.366726868785918}
+{"stream_id": "arkit-test-0061", "category": "fireplace", "method": "whole-video reading", "gpu_s": 23.97521334886551}
+{"stream_id": "arkit-test-0061", "category": "oven", "method": "whole-video reading", "gpu_s": 23.84034952521324}
+{"stream_id": "arkit-test-0062", "category": "table", "method": "whole-video reading", "gpu_s": 18.268811002373695}
+{"stream_id": "arkit-test-0065", "category": "sofa", "method": "whole-video reading", "gpu_s": 17.835283821448684}
+{"stream_id": "arkit-test-0066", "category": "toilet", "method": "whole-video reading", "gpu_s": 17.435044639743865}
+{"stream_id": "arkit-test-0070", "category": "chair", "method": "whole-video reading", "gpu_s": 21.82571642100811}
+{"stream_id": "arkit-test-0071", "category": "chair", "method": "whole-video reading", "gpu_s": 11.450166416354477}
+{"stream_id": "arkit-test-0072", "category": "stool", "method": "whole-video reading", "gpu_s": 20.914676781743765}
+{"stream_id": "arkit-test-0075", "category": "stove", "method": "whole-video reading", "gpu_s": 12.593459941446781}
+{"stream_id": "arkit-test-0081", "category": "bed", "method": "whole-video reading", "gpu_s": 15.316833573393524}
+{"stream_id": "arkit-test-0084", "category": "oven", "method": "whole-video reading", "gpu_s": 17.688772432506084}
+{"stream_id": "arkit-test-0084", "category": "sink", "method": "whole-video reading", "gpu_s": 17.5452693765983}
+{"stream_id": "arkit-test-0086", "category": "fireplace", "method": "whole-video reading", "gpu_s": 14.917691677808762}
+{"stream_id": "arkit-test-0087", "category": "table", "method": "whole-video reading", "gpu_s": 20.063354407437146}
+{"stream_id": "arkit-test-0089", "category": "toilet", "method": "whole-video reading", "gpu_s": 6.541259128600359}
+{"stream_id": "arkit-test-0090", "category": "bed", "method": "whole-video reading", "gpu_s": 14.422095251269639}
+{"stream_id": "arkit-test-0090", "category": "stove", "method": "whole-video reading", "gpu_s": 14.387590853497386}
+{"stream_id": "arkit-test-0091", "category": "bed", "method": "whole-video reading", "gpu_s": 11.380497281439602}
+{"stream_id": "arkit-test-0091", "category": "tv_monitor", "method": "whole-video reading", "gpu_s": 11.246079547330737}
+{"stream_id": "arkit-test-0092", "category": "tv_monitor", "method": "whole-video reading", "gpu_s": 24.89724764227867}
+{"stream_id": "arkit-test-0093", "category": "sink", "method": "whole-video reading", "gpu_s": 11.147900249809027}
+{"stream_id": "arkit-test-0094", "category": "chair", "method": "whole-video reading", "gpu_s": 13.526259600184858}
+{"stream_id": "arkit-test-0098", "category": "refrigerator", "method": "whole-video reading", "gpu_s": 26.644757192581892}
+{"stream_id": "arkit-test-0099", "category": "sofa", "method": "whole-video reading", "gpu_s": 12.58005406241864}
+{"stream_id": "arkit-test-0102", "category": "fireplace", "method": "whole-video reading", "gpu_s": 14.101733937859535}
+{"stream_id": "arkit-test-0102", "category": "sofa", "method": "whole-video reading", "gpu_s": 14.072757246904075}
+{"stream_id": "arkit-test-0107", "category": "bathtub", "method": "whole-video reading", "gpu_s": 8.412422687746584}
+{"stream_id": "arkit-test-0108", "category": "bathtub", "method": "whole-video reading", "gpu_s": 17.889389541000128}
+{"stream_id": "arkit-test-0004", "category": "table", "method": "VideoAgent", "gpu_s": 15.184537257999182}
+{"stream_id": "arkit-test-0011", "category": "bed", "method": "VideoAgent", "gpu_s": 15.930245639756322}
+{"stream_id": "arkit-test-0017", "category": "stool", "method": "VideoAgent", "gpu_s": 19.622775034978986}
+{"stream_id": "arkit-test-0020", "category": "table", "method": "VideoAgent", "gpu_s": 11.128862302750349}
+{"stream_id": "arkit-test-0021", "category": "stool", "method": "VideoAgent", "gpu_s": 19.361830396577716}
+{"stream_id": "arkit-test-0025", "category": "oven", "method": "VideoAgent", "gpu_s": 11.302545497193933}
+{"stream_id": "arkit-test-0026", "category": "refrigerator", "method": "VideoAgent", "gpu_s": 11.62138988636434}
+{"stream_id": "arkit-test-0026", "category": "sink", "method": "VideoAgent", "gpu_s": 10.769840905442834}
+{"stream_id": "arkit-test-0033", "category": "sink", "method": "VideoAgent", "gpu_s": 9.770715177059174}
+{"stream_id": "arkit-test-0035", "category": "chair", "method": "VideoAgent", "gpu_s": 10.3137046713382}
+{"stream_id": "arkit-test-0038", "category": "chair", "method": "VideoAgent", "gpu_s": 10.802903674542904}
+{"stream_id": "arkit-test-0040", "category": "refrigerator", "method": "VideoAgent", "gpu_s": 11.689725318923593}
+{"stream_id": "arkit-test-0040", "category": "sofa", "method": "VideoAgent", "gpu_s": 12.834823975339532}
+{"stream_id": "arkit-test-0040", "category": "tv_monitor", "method": "VideoAgent", "gpu_s": 12.144780294969678}
+{"stream_id": "arkit-test-0040", "category": "washer", "method": "VideoAgent", "gpu_s": 61.32020132429898}
+{"stream_id": "arkit-test-0044", "category": "sink", "method": "VideoAgent", "gpu_s": 10.588664073497057}
+{"stream_id": "arkit-test-0044", "category": "tv_monitor", "method": "VideoAgent", "gpu_s": 12.179143134504557}
+{"stream_id": "arkit-test-0044", "category": "washer", "method": "VideoAgent", "gpu_s": 14.484646450728178}
+{"stream_id": "arkit-test-0045", "category": "bed", "method": "VideoAgent", "gpu_s": 12.0478998105973}
+{"stream_id": "arkit-test-0053", "category": "toilet", "method": "VideoAgent", "gpu_s": 11.15587337128818}
+{"stream_id": "arkit-test-0054", "category": "washer", "method": "VideoAgent", "gpu_s": 16.428428702056408}
+{"stream_id": "arkit-test-0056", "category": "tv_monitor", "method": "VideoAgent", "gpu_s": 11.624772211536765}
+{"stream_id": "arkit-test-0061", "category": "fireplace", "method": "VideoAgent", "gpu_s": 17.283040907233953}
+{"stream_id": "arkit-test-0061", "category": "oven", "method": "VideoAgent", "gpu_s": 12.639443013817072}
+{"stream_id": "arkit-test-0062", "category": "table", "method": "VideoAgent", "gpu_s": 10.193388924002647}
+{"stream_id": "arkit-test-0065", "category": "sofa", "method": "VideoAgent", "gpu_s": 14.900197735056281}
+{"stream_id": "arkit-test-0066", "category": "toilet", "method": "VideoAgent", "gpu_s": 12.244664018973708}
+{"stream_id": "arkit-test-0070", "category": "chair", "method": "VideoAgent", "gpu_s": 11.809832016006112}
+{"stream_id": "arkit-test-0071", "category": "chair", "method": "VideoAgent", "gpu_s": 12.014308612793684}
+{"stream_id": "arkit-test-0072", "category": "stool", "method": "VideoAgent", "gpu_s": 34.54147562943399}
+{"stream_id": "arkit-test-0075", "category": "stove", "method": "VideoAgent", "gpu_s": 15.469097247347236}
+{"stream_id": "arkit-test-0081", "category": "bed", "method": "VideoAgent", "gpu_s": 10.964534852653742}
+{"stream_id": "arkit-test-0084", "category": "oven", "method": "VideoAgent", "gpu_s": 12.314702931791544}
+{"stream_id": "arkit-test-0084", "category": "sink", "method": "VideoAgent", "gpu_s": 12.06062755919993}
+{"stream_id": "arkit-test-0086", "category": "fireplace", "method": "VideoAgent", "gpu_s": 46.712722511962056}
+{"stream_id": "arkit-test-0087", "category": "table", "method": "VideoAgent", "gpu_s": 12.847011387348175}
+{"stream_id": "arkit-test-0089", "category": "toilet", "method": "VideoAgent", "gpu_s": 11.644390722736716}
+{"stream_id": "arkit-test-0090", "category": "bed", "method": "VideoAgent", "gpu_s": 11.844239842146635}
+{"stream_id": "arkit-test-0090", "category": "stove", "method": "VideoAgent", "gpu_s": 14.446456229314208}
+{"stream_id": "arkit-test-0091", "category": "bed", "method": "VideoAgent", "gpu_s": 11.347616733983159}
+{"stream_id": "arkit-test-0091", "category": "tv_monitor", "method": "VideoAgent", "gpu_s": 13.300566172227263}
+{"stream_id": "arkit-test-0092", "category": "tv_monitor", "method": "VideoAgent", "gpu_s": 12.875089621171355}
+{"stream_id": "arkit-test-0093", "category": "sink", "method": "VideoAgent", "gpu_s": 13.34537741355598}
+{"stream_id": "arkit-test-0094", "category": "chair", "method": "VideoAgent", "gpu_s": 9.942389009520411}
+{"stream_id": "arkit-test-0098", "category": "refrigerator", "method": "VideoAgent", "gpu_s": 14.213660065084696}
+{"stream_id": "arkit-test-0099", "category": "sofa", "method": "VideoAgent", "gpu_s": 11.059978755190969}
+{"stream_id": "arkit-test-0102", "category": "fireplace", "method": "VideoAgent", "gpu_s": 25.30818408355117}
+{"stream_id": "arkit-test-0102", "category": "sofa", "method": "VideoAgent", "gpu_s": 13.384552659466863}
+{"stream_id": "arkit-test-0107", "category": "bathtub", "method": "VideoAgent", "gpu_s": 10.584625910967588}
+{"stream_id": "arkit-test-0108", "category": "bathtub", "method": "VideoAgent", "gpu_s": 23.566145999357104}
+{"stream_id": "arkit-test-0004", "category": "table", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 59.087235467508435}
+{"stream_id": "arkit-test-0011", "category": "bed", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 29.430824188515544}
+{"stream_id": "arkit-test-0017", "category": "stool", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 24.06537133641541}
+{"stream_id": "arkit-test-0020", "category": "table", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 51.139115711674094}
+{"stream_id": "arkit-test-0021", "category": "stool", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 25.855234939604998}
+{"stream_id": "arkit-test-0025", "category": "oven", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 41.719423139467835}
+{"stream_id": "arkit-test-0026", "category": "refrigerator", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 48.91341929510236}
+{"stream_id": "arkit-test-0026", "category": "sink", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 49.11264689080417}
+{"stream_id": "arkit-test-0033", "category": "sink", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 45.056634379550815}
+{"stream_id": "arkit-test-0035", "category": "chair", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 57.23240104876459}
+{"stream_id": "arkit-test-0038", "category": "chair", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 42.08944860100746}
+{"stream_id": "arkit-test-0040", "category": "refrigerator", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 39.17654204368591}
+{"stream_id": "arkit-test-0040", "category": "sofa", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 39.28940458036959}
+{"stream_id": "arkit-test-0040", "category": "tv_monitor", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 39.677346566691995}
+{"stream_id": "arkit-test-0040", "category": "washer", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 39.42307926900685}
+{"stream_id": "arkit-test-0044", "category": "sink", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 51.24123644083738}
+{"stream_id": "arkit-test-0044", "category": "tv_monitor", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 51.30902736634016}
+{"stream_id": "arkit-test-0044", "category": "washer", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 51.49778723530471}
+{"stream_id": "arkit-test-0045", "category": "bed", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 33.13180468417704}
+{"stream_id": "arkit-test-0053", "category": "toilet", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 29.06916158273816}
+{"stream_id": "arkit-test-0054", "category": "washer", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 59.300475519150496}
+{"stream_id": "arkit-test-0056", "category": "tv_monitor", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 49.66965305805206}
+{"stream_id": "arkit-test-0061", "category": "fireplace", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 63.502051478251815}
+{"stream_id": "arkit-test-0061", "category": "oven", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 62.99770707078278}
+{"stream_id": "arkit-test-0062", "category": "table", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 50.39791091158986}
+{"stream_id": "arkit-test-0065", "category": "sofa", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 48.970854476094246}
+{"stream_id": "arkit-test-0066", "category": "toilet", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 48.66217942722142}
+{"stream_id": "arkit-test-0070", "category": "chair", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 58.23725844733417}
+{"stream_id": "arkit-test-0071", "category": "chair", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 32.77694886736572}
+{"stream_id": "arkit-test-0072", "category": "stool", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 56.17770809493959}
+{"stream_id": "arkit-test-0075", "category": "stove", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 36.367254139855504}
+{"stream_id": "arkit-test-0081", "category": "bed", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 43.466880256310105}
+{"stream_id": "arkit-test-0084", "category": "oven", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 49.30581423826516}
+{"stream_id": "arkit-test-0084", "category": "sink", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 49.28343717567623}
+{"stream_id": "arkit-test-0086", "category": "fireplace", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 42.667504608631134}
+{"stream_id": "arkit-test-0087", "category": "table", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 54.4529680442065}
+{"stream_id": "arkit-test-0089", "category": "toilet", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 20.453468034043908}
+{"stream_id": "arkit-test-0090", "category": "bed", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 41.64419857040048}
+{"stream_id": "arkit-test-0090", "category": "stove", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 41.464947052299976}
+{"stream_id": "arkit-test-0091", "category": "bed", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 32.60328987054527}
+{"stream_id": "arkit-test-0091", "category": "tv_monitor", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 32.50514616817236}
+{"stream_id": "arkit-test-0092", "category": "tv_monitor", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 65.34213216789067}
+{"stream_id": "arkit-test-0093", "category": "sink", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 32.84028652124107}
+{"stream_id": "arkit-test-0094", "category": "chair", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 39.23548784479499}
+{"stream_id": "arkit-test-0098", "category": "refrigerator", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 68.18308376707137}
+{"stream_id": "arkit-test-0099", "category": "sofa", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 37.4170833081007}
+{"stream_id": "arkit-test-0102", "category": "fireplace", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 40.164320999756455}
+{"stream_id": "arkit-test-0102", "category": "sofa", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 39.583519995212555}
+{"stream_id": "arkit-test-0107", "category": "bathtub", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 24.681573376059532}
+{"stream_id": "arkit-test-0108", "category": "bathtub", "method": "Cambrian-S-7B, surprise memory", "gpu_s": 48.6416424959898}
+{"stream_id": "arkit-test-0004", "category": "table", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 14.743477867916226}
+{"stream_id": "arkit-test-0011", "category": "bed", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.834924757480621}
+{"stream_id": "arkit-test-0017", "category": "stool", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.80469361692667}
+{"stream_id": "arkit-test-0020", "category": "table", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.7707921508699656}
+{"stream_id": "arkit-test-0021", "category": "stool", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.8068534061312675}
+{"stream_id": "arkit-test-0025", "category": "oven", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.833441922441125}
+{"stream_id": "arkit-test-0026", "category": "refrigerator", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.823798894882202}
+{"stream_id": "arkit-test-0026", "category": "sink", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 7.107258377596736}
+{"stream_id": "arkit-test-0033", "category": "sink", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.942223636433482}
+{"stream_id": "arkit-test-0035", "category": "chair", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 7.001037124544382}
+{"stream_id": "arkit-test-0038", "category": "chair", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.8821609653532505}
+{"stream_id": "arkit-test-0040", "category": "refrigerator", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.78821499273181}
+{"stream_id": "arkit-test-0040", "category": "sofa", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.835536684840918}
+{"stream_id": "arkit-test-0040", "category": "tv_monitor", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 7.108256671577692}
+{"stream_id": "arkit-test-0040", "category": "washer", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.781699299812317}
+{"stream_id": "arkit-test-0044", "category": "sink", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.795565713196993}
+{"stream_id": "arkit-test-0044", "category": "tv_monitor", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.804489301517606}
+{"stream_id": "arkit-test-0044", "category": "washer", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.79992725327611}
+{"stream_id": "arkit-test-0045", "category": "bed", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.778656231239438}
+{"stream_id": "arkit-test-0053", "category": "toilet", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.757021756842732}
+{"stream_id": "arkit-test-0054", "category": "washer", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.806122267618775}
+{"stream_id": "arkit-test-0056", "category": "tv_monitor", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.789841890335083}
+{"stream_id": "arkit-test-0061", "category": "fireplace", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.841072767972946}
+{"stream_id": "arkit-test-0061", "category": "oven", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.82793366163969}
+{"stream_id": "arkit-test-0062", "category": "table", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.837485125288367}
+{"stream_id": "arkit-test-0065", "category": "sofa", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.911413569003344}
+{"stream_id": "arkit-test-0066", "category": "toilet", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.817873975262046}
+{"stream_id": "arkit-test-0070", "category": "chair", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.8594990987330675}
+{"stream_id": "arkit-test-0071", "category": "chair", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.817871840670705}
+{"stream_id": "arkit-test-0072", "category": "stool", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.83258762024343}
+{"stream_id": "arkit-test-0075", "category": "stove", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.846443509683013}
+{"stream_id": "arkit-test-0081", "category": "bed", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.870036818087101}
+{"stream_id": "arkit-test-0084", "category": "oven", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.867683874443173}
+{"stream_id": "arkit-test-0084", "category": "sink", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.8258092030882835}
+{"stream_id": "arkit-test-0086", "category": "fireplace", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.843803880736232}
+{"stream_id": "arkit-test-0087", "category": "table", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.858773224055767}
+{"stream_id": "arkit-test-0089", "category": "toilet", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.842226680368185}
+{"stream_id": "arkit-test-0090", "category": "bed", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.864163678139448}
+{"stream_id": "arkit-test-0090", "category": "stove", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.859802205115557}
+{"stream_id": "arkit-test-0091", "category": "bed", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.8197420462965965}
+{"stream_id": "arkit-test-0091", "category": "tv_monitor", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.8363927118480206}
+{"stream_id": "arkit-test-0092", "category": "tv_monitor", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.870847309008241}
+{"stream_id": "arkit-test-0093", "category": "sink", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.8653128035366535}
+{"stream_id": "arkit-test-0094", "category": "chair", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.88085282035172}
+{"stream_id": "arkit-test-0098", "category": "refrigerator", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.906892143189907}
+{"stream_id": "arkit-test-0099", "category": "sofa", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.903834348544478}
+{"stream_id": "arkit-test-0102", "category": "fireplace", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.902911759912968}
+{"stream_id": "arkit-test-0102", "category": "sofa", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.863815536722541}
+{"stream_id": "arkit-test-0107", "category": "bathtub", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.8789716847240925}
+{"stream_id": "arkit-test-0108", "category": "bathtub", "method": "Cambrian-S-7B, whole-video reading", "gpu_s": 6.9072739984840155}

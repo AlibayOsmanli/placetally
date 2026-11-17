@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "placetally"
+version = "1.0.0"
+description = "Counting objects in videos that return to rooms"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = ["numpy>=1.24", "pillow>=9"]
+
+[project.optional-dependencies]
+gpu = ["torch>=2.4", "transformers>=4.57", "vllm>=0.19"]
+
+[tool.setuptools]
+packages = ["placetally"]

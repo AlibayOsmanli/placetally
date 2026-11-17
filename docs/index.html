@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PlaceTally: A Test-Time Memory Model for Constructing Place Graphs</title>
+<meta name="description" content="PlaceTally builds a place graph for each video before any question is asked, then counts each place once. Paper, supplementary material, code and the RevisitCount benchmark.">
+<meta property="og:title" content="PlaceTally: A Test-Time Memory Model for Constructing Place Graphs">
+<meta property="og:description" content="A question-blind test-time memory model that constructs a place graph for each video, for counting objects when the camera returns to rooms it has seen.">
+<meta property="og:image" content="https://alibayosmanli.github.io/placetally/static/fig1.png">
+<link rel="icon" href="data:,">
+<style>
+  :root {
+    --bg: #ffffff; --fg: #1c1d20; --muted: #5a5f68; --line: #e2e5e9;
+    --accent: #0a62b4; --button: #1c1d20; --button-fg: #ffffff; --chip: #eef1f4; --code: #f5f7f9;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #121418; --fg: #e7e9ec; --muted: #a3a9b2; --line: #2b2f36;
+      --accent: #63adff; --button: #e7e9ec; --button-fg: #121418; --chip: #1d2127; --code: #181c22;
+    }
+  }
+  * { box-sizing: border-box; }
+  html { background: var(--bg); color: var(--fg); }
+  body {
+    margin: 0; background: var(--bg); color: var(--fg);
+    font: 17px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  }
+  main { max-width: 980px; margin: 0 auto; padding: 56px 16px 72px; }
+  header { text-align: center; }
+  h1 { font-size: clamp(26px, 4.2vw, 40px); line-height: 1.18; letter-spacing: -0.015em; margin: 0 0 20px; }
+  .authors { font-size: 19px; margin: 0; }
+  .authors span + span { margin-left: 1.6em; }
+  .affil { color: var(--muted); margin: 4px 0 0; }
+  .links { display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; list-style: none; margin: 28px 0 0; padding: 0; }
+  .links a, .links span {
+    display: inline-block; padding: 8px 18px; border-radius: 999px; font-size: 15px; font-weight: 600;
+    text-decoration: none; background: var(--button); color: var(--button-fg);
+  }
+  .links span { background: var(--chip); color: var(--muted); font-weight: 500; }
+  .links a:hover { opacity: 0.85; }
+  h2 { font-size: 25px; letter-spacing: -0.01em; margin: 56px 0 14px; }
+  p { margin: 0 0 14px; }
+  a { color: var(--accent); }
+  figure { margin: 40px 0 0; }
+  figure a { display: block; }
+  figure img { display: block; width: 100%; height: auto; background: #ffffff; border-radius: 8px; padding: 10px; }
+  figure.narrow { max-width: 640px; margin-left: auto; margin-right: auto; }
+  figcaption { color: var(--muted); font-size: 15px; line-height: 1.55; margin-top: 12px; }
+  .abstract { text-align: justify; hyphens: auto; }
+  table { border-collapse: collapse; width: 100%; font-size: 15px; margin: 6px 0 18px; }
+  th, td { text-align: left; padding: 7px 10px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  th { color: var(--muted); font-weight: 600; }
+  td.letter { width: 2.2em; font-weight: 700; }
+  .wrap { overflow-x: auto; }
+  pre {
+    margin: 0; background: var(--code); border: 1px solid var(--line); border-radius: 8px;
+    padding: 14px 16px; overflow-x: auto; font: 14px/1.5 ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  }
+  .cite { position: relative; }
+  .copy {
+    position: absolute; top: 8px; right: 8px; font-family: inherit; font-size: 13px; font-weight: 600; line-height: 1; cursor: pointer;
+    padding: 7px 12px; border-radius: 6px; border: 1px solid var(--line); background: var(--bg); color: var(--fg);
+  }
+  footer { color: var(--muted); font-size: 14px; border-top: 1px solid var(--line); margin-top: 64px; padding-top: 16px; }
+</style>
+</head>
+<body>
+<main>
+
+<header>
+  <h1>PlaceTally: A Test-Time Memory Model<br>for Constructing Place Graphs</h1>
+  <p class="authors"><span>Alibay Osmanli</span> <span>Shaogang Gong</span></p>
+  <p class="affil">Queen Mary University of London</p>
+  <ul class="links">
+    <li><a href="paper.pdf">Paper (PDF)</a></li>
+    <li><span>arXiv (link to follow)</span></li>
+    <li><a href="supplement.pdf">Supplementary material</a></li>
+    <li><a href="https://github.com/AlibayOsmanli/placetally/tree/main/code">Code</a></li>
+    <li><a href="https://github.com/AlibayOsmanli/placetally/tree/main/benchmark">Benchmark</a></li>
+    <li><a href="#citation">BibTeX</a></li>
+  </ul>
+</header>
+
+<figure>
+  <a href="static/fig1.png"><img src="static/fig1.png" width="1972" height="449"
+    alt="One 13-minute stream with six recordings of four rooms: summing visits answers 11 tables, whole-video reading answers 4, PlaceTally answers 5, the true count; right, mean answer against true count for the three methods."></a>
+  <figcaption><b>Figure 1.</b> Why do video models miscount when the camera returns? Reading the whole video gives a few small answers, adding up visits counts each return again, and PlaceTally counts each place once. Left: one ARKit-Revisit stream of 13 minutes with six recordings of four rooms, where room D is recorded twice in a row and room A returns at the end; numbers are the same model’s counts. Right: mean answer against binned true count on all 460 test questions, with 95% bands. Every question here has an object seen on a return (Sec. 4).</figcaption>
+</figure>
+
+<h2>Abstract</h2>
+<p class="abstract">Counting distinct objects in a video is hard when the camera returns to places it has seen. A vision-language model that reads the whole video answers with a few small numbers, and one that reads it in parts counts an object again in every part that shows it. Object trackers need the category before the video is read, or a fixed vocabulary. We observe that a memory for counting does not need to know what it is looking for, only where it has been: objects rarely leave a room between visits, so parts of a video grouped by place share almost no objects, and a place can be recognised before any question is asked. Building on this, we introduce PlaceTally, a question-blind test-time memory model that constructs a place graph for each video. Each video fragment joins the place of its best earlier match or opens a new place, because a strong match is rarely wrong while a true return often matches weakly. A frozen vision-language model counts each place once from at most 128 of its frames, so every read has a bounded input and the memory grows with the number of places; the graph is built 15 times faster than real time. On RevisitCount, our benchmark of real room re-recordings, it scores 62.5% mean relative accuracy on test rooms and 61.2% on held-out rooms, against 51.2% and 44.3% for the same model reading the whole video. It stays level as rooms return more or less often, while a fixed correction of summed visits moves from 38.5% to 61.4%.</p>
+
+<h2>Method</h2>
+<figure>
+  <a href="static/fig2.png"><img src="static/fig2.png" width="1994" height="809"
+    alt="Method diagram: a detector cuts the stream into fragments; continuation and return evidence link fragments into places in a place graph built before the question; a frozen reader gates and counts each place once, and the counts are summed."></a>
+  <figcaption><b>Figure 2.</b> A PlaceTally memory is constructed per video instance before the question and read after it, shown on one real ARKit-Revisit test stream. (a) The detector cuts the stream into fragments. (b) Continuation and return evidence between fragments, which Eq. 2 would sum. (c) The place graph <i>G<sub>V</sub></i>: Eq. 3 takes one decision per fragment (node), the kept links are its edges, and each lane is a place. Read: the category enters only here; each place is gated and counted, and the counts are summed once per place (Eq. 1).</figcaption>
+</figure>
+
+<h2>Robustness and cost</h2>
+<figure class="narrow">
+  <a href="static/fig3.png"><img src="static/fig3.png" width="938" height="568"
+    alt="Four panels: accuracy as returns are removed, the share of each stay kept, accuracy against memory, and accuracy against answer time, for PlaceTally and the other methods."></a>
+  <figcaption><b>Figure 3.</b> Robustness and cost on ARKit test rooms (post hoc, from actual answers). (a) Returns removed from the same 60 test streams; orange: the sum over true visits, as it is and times 0.69 (privileged); band: 95% interval. (b) The 823 test stays; dashed: the cap of 128 frames per place. (c, d) <i>K</i> = 16 to 128 frames per place at 11 minutes (gate refitted for 16 and 32); answer time excludes the one-off build (Table 5). Dotted lines pass through whole-video reading: above and left of them is better on both axes.</figcaption>
+</figure>
+
+<h2 id="supplement">Supplementary material</h2>
+<p>The <a href="supplement.pdf">supplementary material</a> is kept up to date here. Later versions keep the section letters below, so references in the paper such as “Supp. C” still point to the right place. Every version stays available.</p>
+<div class="wrap">
+<table>
+  <tr><th>Version</th><th>Date</th><th>File</th></tr>
+  <tr><td>1 (latest)</td><td>17 November 2026</td><td><a href="supplement_v1_2026-11-17.pdf">supplement_v1_2026-11-17.pdf</a></td></tr>
+</table>
+</div>
+<div class="wrap">
+<table>
+  <tr><td class="letter">A</td><td>RevisitCount Benchmark Details</td></tr>
+  <tr><td class="letter">B</td><td>Method Details</td></tr>
+  <tr><td class="letter">C</td><td>Baselines, Controls and Other Models</td></tr>
+  <tr><td class="letter">D</td><td>Additional Results</td></tr>
+  <tr><td class="letter">E</td><td>Examples and Failure Cases</td></tr>
+  <tr><td class="letter">F</td><td>Pre-Registration Record</td></tr>
+  <tr><td class="letter">G</td><td>Compute and Reproducibility</td></tr>
+  <tr><td class="letter">H</td><td>Data, Licences and Privacy</td></tr>
+</table>
+</div>
+
+<h2 id="code">Code and benchmark</h2>
+<p>The <a href="https://github.com/AlibayOsmanli/placetally">GitHub repository</a> has two folders. <code>code/</code> holds PlaceTally’s code, trained weights and stored results, with scripts that recompute the paper’s numbers. <code>benchmark/</code> holds RevisitCount: stream definitions, questions and answers, and scripts that rebuild the frames from the source datasets. To recompute the paper’s ARKit numbers on a CPU:</p>
+<pre>cd code
+pip install -e .
+python scripts/score_answers.py</pre>
+<p style="margin-top:14px">The code is under the MIT licence and the benchmark annotations under CC BY-NC 4.0. ARKitScenes, 3RScan and MultiScan keep their own terms; the code and benchmark folders hold no images, video or meshes from them.</p>
+
+<h2 id="citation">Citation</h2>
+<div class="cite">
+<pre id="bibtex">@misc{osmanli2026placetally,
+  title  = {PlaceTally: A Test-Time Memory Model for Constructing Place Graphs},
+  author = {Osmanli, Alibay and Gong, Shaogang},
+  year   = {2026},
+  url    = {https://alibayosmanli.github.io/placetally}
+}</pre>
+<button class="copy" type="button" data-target="bibtex">Copy</button>
+</div>
+
+<footer>Last updated 17 November 2026.</footer>
+</main>
+<script>
+  document.querySelectorAll('button.copy').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var text = document.getElementById(b.dataset.target).innerText;
+      var done = function (msg) { b.textContent = msg; setTimeout(function () { b.textContent = 'Copy'; }, 1600); };
+      if (navigator.clipboard) {
+        navigator.clipboard.writeText(text).then(function () { done('Copied'); }, function () { done('Select to copy'); });
+      } else { done('Select to copy'); }
+    });
+  });
+</script>
+</body>
+</html>
