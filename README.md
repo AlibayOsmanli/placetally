@@ -33,10 +33,10 @@ The code is under the MIT licence (`code/LICENSE`), and the benchmark's stream d
 ## Citation
 
 ```bibtex
-@misc{osmanli2026placetally,
+@article{osmanli2026placetally,
   title  = {PlaceTally: A Test-Time Memory Model for Constructing Place Graphs},
   author = {Osmanli, Alibay and Gong, Shaogang},
-  year   = {2026},
-  url    = {https://alibayosmanli.github.io/placetally}
+  journal = {arXiv preprint arXiv:2611.22608},
+  year   = {2026}
 }
 ```
